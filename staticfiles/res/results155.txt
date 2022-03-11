@@ -1,0 +1,2 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+14	101507167	+	A	I	MIR376A1	E	5	BRAIN	18684997,16594986

@@ -1,0 +1,2 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+7	44620311	-	A	G	TMED4	I		LYMPHOBLASTOID CELL	22484847

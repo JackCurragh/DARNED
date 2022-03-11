@@ -1,0 +1,125 @@
+{% extends 'core.html' %}
+{% load pagination_tags %}
+{% block title %} Result {% endblock %}
+<!-- Cufon START  -->
+{% block extra_js_css %}
+<script type="text/javascript">
+Cufon.replace('.logo h1', { fontFamily: 'Familian Son' });
+Cufon.replace('.slogan', { fontFamily: 'Familian Son' });
+Cufon.replace('ul.menu_list', { fontFamily: 'Familian Son' });
+Cufon.replace('.tab_head', { fontFamily: 'Familian Son' });
+Cufon.replace('.pg_description h2', { fontFamily: 'Familian Son' });
+Cufon.replace('a.read_more', { fontFamily: 'Familian Son' });
+Cufon.replace('.left_section_more a', { fontFamily: 'Familian Son' });
+Cufon.replace('.right_section_more a', { fontFamily: 'Familian Son' });
+Cufon.replace('.sidebar_more a', { fontFamily: 'Familian Son' });
+Cufon.replace('.navigation', { fontFamily: 'Familian Son' });
+</script>
+<script type="text/javascript" >
+$(document).ready(function() {
+    $("#menu th ul").hide();
+    $("#menu th").hover(
+    function() {
+        $(this).children("ul").fadeIn("fast");
+    }, function() {
+        $(this).children("ul").fadeOut("fast");
+    }); //hover
+	$("#menu td ul").hide();
+
+    $("#menu td").hover(
+    function() {
+        $(this).children("ul").fadeIn("fast");
+    }, function() {
+        $(this).children("ul").fadeOut("fast");
+    }); //hover
+});
+</script>
+
+
+<script type="text/javascript" >
+$(document).ready(function() {
+
+
+	  $(".new").hide();
+	  $(".old").mouseenter(function(){
+	    $(this).toggle();
+	    $(this).parent().children(".new").toggle();
+	  });
+	  $(".new").mouseleave(function(){
+		 $(this).toggle();		    
+	    $(this).parent().children(".old").toggle();
+	    
+	  });
+
+
+$.fx.speeds._default = 500;
+$(function() {
+    $(".dialog").dialog({
+        autoOpen: false,
+        show: "fold",
+        hide: "fade",
+        draggable:true
+    });
+
+    $(".opener").click(function() {
+        $(".dialog").dialog("open");
+        return false;
+    });
+});
+});
+</script>
+
+
+<script type="text/javascript" >
+$(document).ready(function() {
+
+});
+</script>
+
+<style type="text/css">   
+#menu .comment{
+width:4%;
+}
+
+</style>
+
+{% endblock %}
+
+{% block page %}Result {% endblock %}
+{% block contents %}
+				
+				<center>
+				<table style="width:100%">
+					<tr id="menu">
+						<!--th style="width:5%; background-color:white"></th-->
+						<th>Coordinate
+							<ul class="hovered">
+							<li><a href=#>UCSC</a></li>
+							</ul>
+						</th>
+						<th>Strand</th>
+						<th>Changes</th>
+						<th>Source</th>
+						<th>SNP</th>
+						<th>InGene</th>
+						<th>Alu</th>
+						<th>Author</th>
+                                            </tr>
+                                            {% autopaginate coors 50 %}
+                                            {% for coor in coors %}
+                                            <tr id="menu" style="background-color:{% cycle eeeeee,cccccc %}">
+                                                <td>{{coor.chrom}}.{{coor.coordinate}}<ul class="hovered"> <li><a href='#'>UCSC</a></li></ul></td>
+                                                <td>{{coor.strand}}</td>
+                                                <td>{{coor.indna}}{% ifnotequal coor.indna coor.inref %}[{{ coor.inref }}]{% endifnotequal %}-To-{{coor.inrna}}</td>
+                                                <td>{% for source in coor.source.all %} <a href="">{{ source }}</a> {% endfor %}</td>
+                                                <td>{% if coor.snp %}{{ coor.snp }}{% endif %}</td>
+                                                <td>{{coor.gene.gene}}[{{coor.seqtype}}{% ifequal coor.seqtype 'E' %}.{{coor.exotype}}{% endifequal %}]</td>
+                                                <td>{% if coor.alu %}{{coor.alu}}{% endif %}</td>
+                                                <td>{% for pubid in coor.pubid.all%} {{ pubid.author }}<a href="">hello</a> {% endfor %}</td>
+                                            </tr>
+                                            {% endfor %}
+                                            
+                                        </table>
+                                        {% paginate %}
+				</center>
+{% endblock %}

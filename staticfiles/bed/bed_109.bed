@@ -1,0 +1,3 @@
+browser dense
+track name="Human RNA Editing" description="EDITING LOCATIONS" visibility=2 itemRgb="On"
+chr19	58354432	58354433	chr19.58354433	1000	+	58354432	58354433	255,0,0

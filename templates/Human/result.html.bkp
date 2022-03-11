@@ -1,0 +1,112 @@
+{% extends 'core.html' %}
+{% load pagination_tags %}
+{% block title %} Result {% endblock %}
+<!-- Cufon START  -->
+{% block extra_js_css %}
+
+<script type="text/javascript" language="javascript" src="{{STATIC_URL}}js/hoverIntent.js"></script>
+<script type="text/javascript" language="javascript" src="{{STATIC_URL}}js/jquery.js"></script>
+
+
+<script type="text/javascript">
+Cufon.replace('.logo h1', { fontFamily: 'Familian Son' });
+Cufon.replace('.slogan', { fontFamily: 'Familian Son' });
+Cufon.replace('ul.menu_list', { fontFamily: 'Familian Son' });
+Cufon.replace('.tab_head', { fontFamily: 'Familian Son' });
+Cufon.replace('.pg_description h2', { fontFamily: 'Familian Son' });
+Cufon.replace('a.read_more', { fontFamily: 'Familian Son' });
+Cufon.replace('.left_section_more a', { fontFamily: 'Familian Son' });
+Cufon.replace('.right_section_more a', { fontFamily: 'Familian Son' });
+Cufon.replace('.sidebar_more a', { fontFamily: 'Familian Son' });
+Cufon.replace('.navigation', { fontFamily: 'Familian Son' });
+</script>
+
+<script type="text/javascript">
+	// <![CDATA[
+		var timeout    = 100;
+		var closetimer = 0;
+		var ddmenuitem = 0;
+		
+		function ddmenu_open(){
+			ddmenu_canceltimer();
+		   	ddmenu_close();
+		   	ddmenuitem = $(this).find('ul').css('visibility', 'visible');
+		}
+		
+		function ddmenu_close(){ 
+			if(ddmenuitem) ddmenuitem.css('visibility', 'hidden');
+		}
+		
+		function ddmenu_timer(){
+			closetimer = window.setTimeout(ddmenu_close, timeout);
+		}
+		
+		function ddmenu_canceltimer(){  
+			if(closetimer){  
+				window.clearTimeout(closetimer);
+		        closetimer = null;
+		}}
+		
+		$(document).ready(function(){  
+			$('.ddmenu > li').bind('mouseover', ddmenu_open)
+		    $('.ddmenu > li').bind('mouseout',  ddmenu_timer)
+		});
+		
+		document.onclick = ddmenu_close;
+	// ]]>  
+	</script>
+{% endblock %}
+
+{% block page %}Result {% endblock %}
+{% block contents %}
+<p>Search Criteria::: Assembly:hg{{ assembly}}, Chrom: chr{{chrom}}, Start:{{start}}, End:{{end}}, Flank: {{ flank }} {% ifnotequal gene ''%}, Gene: {{ gene }}{% endifnotequal %}, Results found: <a href="{{STATIC_URL}}res/results{{bed}}.txt">{{ rescount }}</a> </p>
+				
+				<!--center-->
+				<table style="width:100%">
+					<tr>
+						<!--th style="width:5%; background-color:white"></th-->
+                                                <th><ul class="single"><li>Coordinates<ul><li><a href="http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg{{ assembly }}&ct_HumanRNAEditing_1073=dense&position=chr{{ chrom }}:{{ start }}-{{ end }}&hgt.customText=http://darned.ucc.ie/static/bed/bed_{{bed}}.bed">UCSC</a></li>{% ifequal assembly '19' %}<li><a href="http://www.ensembl.org/Homo_sapiens/Location/View?r={{ chrom }}:{{start}}-{{ end }};contigviewbottom=url:http://darned.ucc.ie/static/bed/bed_{{bed}}.bed">ENSEMBL</a></li>{% endifequal %}</ul></li></ul>
+						</th>
+						<th>Strand</th>
+						<th>Changes</th>
+						<th>Source</th>
+						<th><a href="http://en.wikipedia.org/wiki/Single-nucleotide_polymorphism">SNP</a></th>
+						<th>Gene</th>
+						<th><a href="http://en.wikipedia.org/wiki/Alu_repeats">Alu</a></th>
+						<th>Data Sets</th>
+                                            </tr>
+                                            {% autopaginate coors 50 %}
+                                            {% for coor in coors %}
+                                            <tr style="background-color:{% cycle eeeeee,cccccc %}">
+                                                <td><ul class="single"><li> chr{{coor.chrom}}:{{coor.coordinate}}<ul><li><a href="http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg{{ assembly }}&ct_HumanRNAEditing_1073=dense&position=chr{{ chrom }}:{{ coor.gstart }}-{{ coor.gend }}&hgt.customText=http://darned.ucc.ie/static/bed/bed_{{bed}}.bed">UCSC</a></li>{% ifequal assembly '19' %}<li><a href="http://www.ensembl.org/Homo_sapiens/Location/View?r={{ chrom }}:{{ coor.gstart }}-{{ coor.gend }};contigviewbottom=url:http://darned.ucc.ie/static/bed/bed_{{bed}}.bed">ENSEMBL</a></li>{% endifequal %}</ul></li></ul></td>
+                                                <td>{{coor.strand}}</td>
+                                                <td>{{coor.indna}}{% ifnotequal coor.indna coor.inref %}[{{ coor.inref }}]{% endifnotequal %}-To-{{coor.inrna}}</td>
+                                                <td><ul class="single"><li><a href="/HSresultR/?{{ tissuesearch }}{{ coor.source.all|first}}">{{ coor.source.all|first}}</a> {%if coor.source.all|length > 1 %}[{{ coor.source.all|length}}]{% endif %}<ul>
+{% for source in coor.source.all %} 
+{% if not forloop.first %}
+<li><a href="/HSresultR/?{{ tissuesearch }}{{ source }}">{{ source }}</a></li> 
+{% endif %}
+
+{% endfor %}
+
+</ul></li></ul></td>
+<td>{% if coor.snp %}<ul class="single"><li><a href="http://www.ncbi.nlm.nih.gov/snp/?term={{ coor.snp }}">{{ coor.snp }}{% if coor.snpunvalid %}<sup>u</sup>{% endif %}</a><ul>{% for validation in coor.snpvalidation.all %}<li>{{ validation }}</li>{% endfor %}</ul></li></ul>{% endif %}</td>
+<td><ul class="single"><li><a href="/HSresultR/?{{ genesearch }}{{ coor.gene.gene}}">{{coor.gene.gene}}{% if coor.gene.geneWiki %}<sup>w</sup>{% endif %}</a>[<a href="/HSresultR/?{{seqsearch}}{{ coor.seqtype}}">{{coor.seqtype}}</a>{% ifequal coor.seqtype 'E' %}-<a href="/HSresultR/?{{ exonsearch }}{{ coor.exontype}}">{{coor.exotype}}</a>{% endifequal %}]{% ifnotequal coor.seqtype 'O' %}<ul><li><a href="http://www.ncbi.nlm.nih.gov/gene/?term={{ coor.gene.geneid }}">NCBI</a></li>{% if coor.gene.geneWiki %}<li><a href="{{ coor.gene.geneWiki }}">Wiki</a></li>{% endif %}</ul>{% endifnotequal %}</li></ul></td>
+                                                <td>{% if coor.alu %}{{coor.alu}}{% endif %}</td>
+                                                <td><ul class="ddmenu"><li><a href="/HSresultR/?{{ authorsearch}}{{ coor.pubid.all.0.pubid }}">{{ coor.pubid.all.0.author }},{{coor.pubid.all.0.year}}</a><a href="http://www.ncbi.nlm.nih.gov/pubmed/{{ coor.pubid.all.0.pubid }}">(PubMed)</a>{% ifnotequal coor.pubid.all|length 1 %}[{{ coor.pubid.all|length }}]{% endifnotequal %}<ul>
+{% for pubid in coor.pubid.all%} 
+{% if not forloop.first %}
+<li><a href="/HSresultR/?{{ authorsearch }}{{ pubid.pubid }}">{{ pubid.author }},{{ pubid.year }}</a><a href="http://www.ncbi.nlm.nih.gov/pubmed/{{ pubid.pubid }}">(PubMed)</a></li><br /> 
+{% endif %}
+
+{% endfor %}
+
+</ul></li></ul>
+</td>
+                                            </tr>
+                                            {% endfor %}
+                                            
+                                        </table>
+                                        {% paginate %}
+				<!--/center-->
+{% endblock %}

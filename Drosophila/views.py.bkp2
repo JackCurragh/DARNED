@@ -1,0 +1,232 @@
+# Create your views here.
+from django.http import HttpResponse
+from django.template import RequestContext,loader
+from time import time
+from django.core.paginator import Paginator,EmptyPage, PageNotAnInteger
+from DARNED.forms import *
+from models import *
+from os import system
+from xml.dom import minidom
+
+
+
+
+pth = '/home/devil/Ubuntu_One/Databases/DARNED'
+
+def range_based(request):
+    #assembly = request.GET['hs_assembly']
+    chrom = request.GET['dm_chrom']
+    seqtype = request.GET['seqtype']
+    exotype = request.GET['exotype']
+    flank = request.GET['flank']
+    gene = request.GET.get('gene','')
+    pubid = request.GET.get('pubid','')
+    #source = request.GET.get('hs_source','')
+    end = request.GET.get('end','0')
+    coors = DMCoordinate.objects.filter(chrom=chrom).select_related(depth=2).extra(select={'gstart':'coordinate-%d'%int(flank),'gend':'coordinate-%d'%int(flank)}).order_by('coordinate')
+    if int(end) != 0:
+        print "Heloo"
+    if seqtype !='A':
+        if seqtype == 'E':
+            if exotype == 'C':
+                coors = coors.filter(exotype='E')
+            elif exotype == '5':
+                coors = coors.filter(exotype='5')
+            elif exotype == '3':
+                coors = coors.filter(exotype='3')
+        elif seqtype == 'I':
+            coors = coors.filter(seqtype='I')
+        else:
+            coors = coors.filter(seqtype='O')
+    if pubid != '':
+        coors = coors.filter(pubid__pubid=pubid)
+    tissuesearch = "assembly=%s&chrom=%s&seqtype=%s&exotype=%s&flank=%s&gene=%s&pubid=%s&start=%s&end=%s&source="
+    authorserach = ""
+    genesearch = ""
+    exonsearch = ""
+    seqsearch = ""
+    print "Reet"
+    #create file
+    tmplt = loader.get_template('Drosophila/result.html')
+    rendred = tmplt.render(RequestContext(request,{'coors':coors}))
+    return HttpResponse(rendred)
+#############################################################################
+#############################################################################
+#######For sequence based analysis###########################################
+
+###########Checking nucleotide sequence######################################
+def nucleotide_check(seq):#
+    nuc = set()
+    nucl_bool = 0
+    for line in seq:
+        nuc |= set([c for c in line if c not in ' \n'])
+    print nuc
+    for n in nuc:
+        if n.upper() not in ('ACGTRYKMSWBDHVNU'):#Replace if it gives error
+            nucl_bool = 1
+            break
+    return nucl_bool
+###########################Checking fasta file format########################
+def fasta_nucleotide_check(fl):
+    infile = open(fl)
+    lines = infile.readlines()
+    fasta_bool = 0
+    if lines[0][0] == '>':
+        fasta_bool = 1
+    if fasta_bool == 1:
+        dna_bool = nucleotide_check(lines[1:])
+    else:
+        dna_bool = nucleotide_check(lines)
+    return fasta_bool,dna_bool
+
+def seq_based(request):
+    if request.method == 'POST':
+        #assembly = request.POST['assembly']
+#       countfile = open("/home/common_share/DARNED/static/count")
+#       count = int(countfile.read())
+#       countfile.close()
+#       countfile = open("/home/common_share/DARNED/static/count",'w')
+#       countfile.write("%d"%(count+1))
+#       countfile.close()
+        count = 0
+	fl = "%s/tmp/seq%d.fa"%(pth,count%50)
+        seqfile = open(fl, "w")
+        seqfile.write(request.POST['seq'])
+        seqfile.close()
+	fasta_bool,dna_bool = fasta_nucleotide_check(fl)
+	if dna_bool:
+	    print "direct to error page, with information that file doenst contan DNA sequence"
+	if not fasta_bool:
+	    infile = open("%s/tmp/seq%d.fa"%(pth,count%50))
+	    seq = infile.read()
+	    infile.close()
+	    outfile = open("%s/tmp/seq%d.fa"%(pth,count%50), "w")
+	    outfile.write(">userseq\n"+seq)
+	    outfile.close()
+        print "Anmol","%s/exe/blastn -max_target_seqs 1 -evalue 10 -word_size 50 -outfmt 5 -dust no -db /home/devil/Desktop/Dmel/dm3 -query %s/tmp/seq%d.fa -out %s/tmp/seq%d.xml"%(pth,pth,count%50,pth,count%50)
+			
+        system("%s/exe/blastn -max_target_seqs 1 -evalue 10 -word_size 50 -outfmt 5 -dust no -db /home/devil/Desktop/Dmel/dm3 -query %s/tmp/seq%d.fa -out %s/tmp/seq%d.xml"%(pth,pth,count%50,pth,count%50))
+        xmldoc = minidom.parse("%s/tmp/seq%d.xml"%(pth,count%50))
+        hits = xmldoc.getElementsByTagName('Hit')
+        data = []
+        for hit in hits:
+            chrom = hit.getElementsByTagName('Hit_def')[0].firstChild.data
+            hit_hsps = hit.getElementsByTagName('Hit_hsps')
+            for hit_hsp in hit_hsps:
+                hsps = hit_hsp.getElementsByTagName('Hsp')
+                for hsp in hsps:
+                    tstart = int(hsp.getElementsByTagName('Hsp_hit-from')[0].firstChild.data)
+                    tend = int(hsp.getElementsByTagName('Hsp_hit-to')[0].firstChild.data)
+                    qstart = int(hsp.getElementsByTagName('Hsp_query-from')[0].firstChild.data)
+                    strnd = hsp.getElementsByTagName('Hsp_hit-frame')[0].firstChild.data
+                    qseq = hsp.getElementsByTagName('Hsp_qseq')[0].firstChild.data
+                    tseq = hsp.getElementsByTagName('Hsp_hseq')[0].firstChild.data
+                    match = hsp.getElementsByTagName('Hsp_midline')[0].firstChild.data
+                    if strnd == '1':
+                        strand = '+'
+                    else:
+                        strand = '-'
+                        tstart,tend = tend,tstart
+                    print tstart,tend,chrom
+                    data.append([chrom[3:],tstart,tend,strand,[]])
+                    arraylen = len(data)
+                    coord = []
+                    editings = DMCoordinate.objects.filter(chrom=chrom[3:], coordinate__gte = tstart, coordinate__lte= tend, strand = strand)
+                    for editing in editings:
+                        if strand == '+':
+                            coord.append(editing.coordinate)
+                        else:
+                            coord.append(editing.coordinate)
+                    coord.sort()
+                    print coord
+                    trealpos = tstart
+                    qrealpos = qstart
+                    startbl = spl = nml = 0
+                    qseqt = tseqt = matcht = ""
+                    virtualSeqLen = len(tseq)
+                    for j in range(virtualSeqLen):
+                        if (j != 0 and j%50 == 0) or j == virtualSeqLen-1:
+                            tseqt += "</b></td>"
+                            qseqt += "</b></td>"
+                            matcht += "</pre></b></td>"
+                            if strand == '+':
+                                data[arraylen-1][4].append([qstartpos,tstartpos,qseqt,matcht,tseqt,qrealpos-1,trealpos-1])
+                            else:
+                                data[arraylen-1][4].append([qstartpos,tend-tstartpos+tstart,qseqt,matcht,tseqt,qrealpos-1,tend+tstart-trealpos+1])
+                            startbl = spl = nml = 0
+                            qseqt = tseqt = matcht = ""
+                        if startbl == 0:
+                            qstartpos = qrealpos
+                            tstartpos = trealpos
+                            startbl = 1
+                        if tseq[j] != '-':
+                            trealpos += 1
+                        if qseq[j] != '-':
+                            qrealpos += 1
+                        if trealpos-1 in coord:
+                            if spl == 0 :
+                                tseqt += "<td><b>"
+                                qseqt += "<td><b>"
+                                matcht += "<td><b><pre>"
+                                spl = nml = 1
+                            tseqt += "<font style='background-color:#BDBDBD'>%s</font>"%tseq[j]
+                            qseqt += "<font style='background-color:#BDBDBD'>%s</font>"%qseq[j]
+                            matcht += "<font style='background-color:#BDBDBD'>%s</font>"%match[j]
+                        else:
+                            if nml == 0:
+                                tseqt += "<td><b>%s"%tseq[j]
+                                qseqt += "<td><b>%s"%qseq[j]
+                                matcht += "<td><b><pre>%s"%match[j]
+                                nml = spl = 1
+                            else:
+                                tseqt += tseq[j]
+                                qseqt += qseq[j]
+                                matcht += match[j]
+
+            tmplt = loader.get_template("Drosophila/blast.html")
+            return HttpResponse(tmplt.render(RequestContext(request,{'datas':data})))
+
+
+
+####################Gene Based Searches##############################
+
+def geneBased(request):# Remove EST from Hereford
+    #visitors(request,'Gene Based Search')
+    form = GeneBased(request.POST)
+    if form.is_valid():
+        assembly = form.cleaned_data['assembly']
+        seqtype = form.cleaned_data['nametype']
+        seqName = form.cleaned_data['seqname']
+        #return HttpResponse(type(assembly))
+        bl = 0
+        if seqtype == "refgene":
+            editings = Main.objects.filter(assembly=assembly,gene__gene=seqName.upper())
+            if len(editings)>0:
+                bl = 1
+        elif seqtype == "refseq":
+                if cursor.execute("SELECT name2 from HG%s.refGene WHERE name='%s' LIMIT 1"%(assembly,seqName)):
+                    gene = cursor.fetchone()[0]
+                    editings = Main.objects.filter(assembly=assembly,gene__gene=gene)
+                    if len(editings)>0:
+                        bl = 1
+        if bl==1:
+            countfile = open("/home/common_share/DARNED/static/count")
+            count = int(countfile.read())
+            countfile.close()
+            countfile = open("/home/common_share/DARNED/static/count","w")
+            countfile.write("%d"%(count+1))
+            countfile.close()
+            tmplt = loader.get_template("common/generes.html")
+            return HttpResponse(tmplt.render(RequestContext(request,{'editings':editings,'assembly':assembly})))
+#            coors = []
+#            for row in rows:
+#                coors.append([row[0][3:],row[1],row[2]])
+#            data = {'assembly':assembly,'coors':coors}
+#            tmplt = loader.get_template("common/blastOut.html")
+#            return HttpResponse(tmplt.render(RequestContext(request,data)))
+            #return HttpResponseRedirect("/hrb/?assembly=%s&chrom=%s&start=%d&end=%d"%(assembly,row[0][3:],row[1],row[2]))
+        else:
+            return HttpResponse("No Result Found.")
+    return HttpResponse("Sequence Name Is Empty.")
+
+

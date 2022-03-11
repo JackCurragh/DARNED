@@ -1,0 +1,2 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+14	20919537	-	A	G	OSGEP	I		LYMPHOBLASTOID CELL	22484847

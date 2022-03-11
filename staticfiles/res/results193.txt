@@ -1,0 +1,3 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+14	62262612	+	A	I	SNAPC1	I		U87MG	21960545
+14	62262612	+	A	G	SNAPC1	I		VENOUS BLOOD,LYMPHOBLASTOID CELL	21725310,22484847

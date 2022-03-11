@@ -1,0 +1,36 @@
+{% extends 'core.html' %}
+{% block title %}Register{% endblock %}
+{% block page %}Register{% endblock %}
+{% block contents %}
+			<div class="form_content">
+                            <form id="form1" method="post" action="">{% csrf_token %}
+                    <div class="form_row">
+                        <label>First Name:</label>{{ nwusr.firstname }}
+                    </div>
+                    <div class="form_row">
+                        <label>Last Name:</label>{{ nwusr.lastname }}
+                    </div>
+                    <div class="form_row">
+                        <label>Username:</label>{{ nwusr.userid }}
+                    </div>
+                    <div class="form_row">
+                        <label>Password:</label>{{ nwusr.passwd }}
+                    </div>
+                    <div class="form_row">
+                        <label>Confirm Password:</label>{{ nwusr.passwd }}
+                    </div>
+                    <div class="form_row">
+                        <label>E-mail:</label>{{ nwusr.email }}
+                    </div>
+                    <div class="form_row">
+                        <label>Organization:</label>{{ nwusr.org }}
+                    </div>
+                    <div class="form_row">
+                        <label>Organization URL:</label>{{ nwusr.orgurl }}
+                    </div>
+                    <div class="form_row">
+                    <input type="submit" class="form_submit" value="Register" />
+                    </div>
+                </form>
+            </div>				
+{% endblock %}

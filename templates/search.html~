@@ -1,0 +1,179 @@
+{% extends 'core.html' %}
+
+{% block title %}Search{% endblock %}
+{% block extra_js_css %}
+<script type="text/javascript" src="{{STATIC_URL}}js/search.js"></script>
+<script type="text/javascript" src="{{STATIC_URL}}js/alerts.js"></script>
+<script type="text/javascript" src="{{STATIC_URL}}js/human_source.js"></script>
+		<style type="text/css">
+			.showdiv{display:true;}
+			.hidediv{display:none;}
+		</style>
+
+		<script type="text/javascript">
+			$(function() {
+				$( "#tabs" ).tabs();
+			});
+                    </script>
+
+{% endblock %}
+
+{% block page %} Search {% endblock %}                
+{% block contents %}            
+<div id="tabs">
+    <ul>
+	<li>
+	    <select name="organism" id='org'>
+		<option value='hu' selected="selected">Human</option> 
+		<option value='do'>Drosophila</option> 
+	    </select>
+						
+	    <script type="text/javascript">
+   		$("#org").change(function () {	
+		$( ".showdiv" ).switchClass( "showdiv", "hidediv", 100);          	
+                $( ".hidediv" ).switchClass( "hidediv", "showdiv", 100);   
+        	})
+	    </script>
+	</li>
+        <li><a href="#tabs-1">Region Based</a></li>
+	<li><a href="#tabs-2">Gene Based</a></li>
+        <li><a href="#tabs-3">Sequence Based</a></li>
+    </ul>
+    <div id="tabs-1">
+        <div id="h1" class="showdiv">
+            <form method="get" action="/HSresultR/" >{% csrf_token %}
+                <div style="display:none"></div>
+		<center>
+		    <table style="width:90%" id=hregtab>
+			<tr>
+			    <td colspan="1">Assembly</td>
+			    <td colspan="1">Chromosome</td>
+			    <td colspan="1">Start</td>
+			    <td ccolspan="1">End</td>
+			</tr>
+					
+			<tr>
+                            <td>{{ hss.hs_assembly }}</td>
+                            <td>{{ hss.hs_chrom }}</td>
+                            <td >{{ cs.start }}</td>		
+                            <td>{{ cs.end }}</td>						
+			</tr>
+					
+		        <tr>
+                            <td colspan="2" >Limit the search to a particular type of sequence</td><td colspan="2" >Flanking Sequence Length Around Editing Sites.</td>
+			</tr>	
+			<tr>
+                            <td  colspan="2"> {{ cs.seqtype }}</td>
+		            <td  colspan="1" id="exons" style="display: none;">{{ cs.exotype }}</td>
+			    <td  colspan="2">{{ cs.flank }} </td>
+			</tr>
+			<tr>
+			    <td colspan="4" >Limit the search by the source (tissue/cell line) in which RNA editing is known to be supported</td>		
+			</tr>
+		        <tr>
+		            <td  colspan="4">{{ hss.hs_source }}</td>
+			</tr>									
+                    </table>		
+                    <input value="Submit" class="submit" style="width: 90%; margin: auto;" type="submit">
+		</center>
+	    </form>
+	</div>
+        <div id="d1" class="hidediv">
+	    <center>
+                <form method="get" action="/DMresultR/"> {% csrf_token %}<div style="display:none"></div>
+		    <table class="dsearch" style="width:90%;" id="dregtab">
+		        <tr>
+			    <td  colspan="1">Chromosome</td>
+			    <td  colspan="1">Start</td>
+			    <td  colspan="1">End</td>
+			</tr>
+			<tr>					
+			    <td >{{ dms.dm_chrom }}</td>
+                            <td >{{ cs.start }}</td>		
+                            <td >{{ cs.end }}</td>						
+			</tr>
+		        <tr>
+                            <td colspan="2" >Limit the search to a particular type of sequence</td>
+                            <td colspan="1" >Flanking Sequence Length</td>
+			</tr>	
+		        <tr>
+               	            <td  colspan="2">{{ cs.seqtype }}</td>
+		            <td  colspan="1" id="exons" style="display: none;">{{ cs.exotype }}</td>
+                            <td  colspan="1">{{ cs.flank }}</td>
+			</tr>
+		    </table>		
+            	    <input value="Submit" class="submit" style="width: 90%; margin: auto;" type="submit">
+	        </form>
+	    </center>
+	</div>
+    </div>
+    <div id="tabs-2">
+	<div id="h2" class="showdiv">				
+            <form method="POST" action="/HSresultG/">{% csrf_token %}
+                <div style="display:none"></div>
+		<center>
+	            <table style="width: 90%;">
+		        <tr>
+		            <td>Assembly</td>				
+			    <td>Type of Gene</td>				
+                            <td>Name</td>						
+		        </tr>
+                        <tr>
+			    <td>{{ hss.hs_assembly }}</td>				
+			    <td>{{ cs.seqname }}</td>	
+                            <td>{{ cs.seqid }}</td>						
+		        </tr>
+		    </table>		
+                    <input value="Submit" class="submit" style="width: 90%; margin: auto;" type="submit">
+	        </center>
+	    </form>
+	</div>
+	<div id="d2" class="hidediv">
+	    <center>
+                <form method="POST" action="/DMresultG/">{% csrf_token %}<div style="display:none"></div>
+		    <table  style="width: 90%;">
+		        <tr>				
+			    <td >Type of Gene</td>
+                            <td >Name</td>						
+			</tr>	
+                        <tr>				
+                            <td >{{ cs.seqname }}</td>
+                            <td >{{ cs.seqid }}</td>						
+			</tr>
+		    </table>
+                    <input value="Submit" class="submit" style="width: 90%; margin: auto;" type="submit">
+		</form>
+	    </center>
+	</div>
+    </DIV>
+    <div id="tabs-3">
+	<div id="h3" class="showdiv">
+            <center>
+                <form method="POST" action="/HSresultS/">{% csrf_token %}
+		    <table style="width:90%">						
+			<tr>							
+                            <td>Enter your Sequence:{{ cs.seq }}</td>
+			</tr>							
+			<tr>
+			    <td class="search" style="table-layout: fixed;">{{ hss.assembly }}</td>
+			</tr>
+		    </table>						
+                    <input type="submit" value="Submit" class="submit" style="width:90%;margin: auto;">
+                </form>
+	    </center>		
+	</div>
+        <div id="d3" class="hidediv">
+            <center>
+                <form method="POST" action="/DMresultS/">{% csrf_token %}
+		    <table style="width:90%">						
+		        <tr>							
+			    <td>Enter your Sequence:{{ cs.seq }}</td>
+			</tr>							
+							
+		    </table>	
+                    <input type="submit" value="Submit" class="submit" style="width:90%;margin: auto;">
+                </form>
+	    </center>		
+	</div>				
+    </div>
+{% endblock %}

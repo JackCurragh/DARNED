@@ -1,0 +1,5 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	PubMed ID
+2L	12405	-	A	I	L(2)GL	E	C	21179090
+2L	43361	-	A	I	Cda5	I		22658416
+2L	102709	+	A	I	CG11377	E	C	21179090
+2L	129166	-	A	I	CG3164	I		21179090

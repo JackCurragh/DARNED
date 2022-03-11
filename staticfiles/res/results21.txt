@@ -1,0 +1,2 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+16	31133286	+	A	G	KAT8	I		LYMPHOBLASTOID CELL	22484847

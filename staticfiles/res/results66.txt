@@ -1,0 +1,2 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+12	57864624	+	A	I	GLI1	E	C	CEREBELLUM	19478186

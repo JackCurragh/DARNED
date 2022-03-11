@@ -1,0 +1,3 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+19	48962073	+	A	I	KCNJ14	I		LYMPHOBLASTOID CELL LINE	22327324
+19	48962073	+	A	G	KCNJ14	I		LYMPHOBLASTOID CELL	22484847

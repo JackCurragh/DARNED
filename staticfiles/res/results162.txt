@@ -1,0 +1,2 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+3	12631459	-	A	G	RAF1	I		LYMPHOBLASTOID CELL	22484847

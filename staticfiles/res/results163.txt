@@ -1,0 +1,2 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+4	39534661	+	A	I	UGDH-AS1	I		U87MG	21960545

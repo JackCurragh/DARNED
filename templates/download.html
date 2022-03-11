@@ -1,0 +1,15 @@
+{% extends 'core.html' %}
+{% block title %}Download{% endblock %}
+{% block page %}Download{% endblock %}
+{% block contents %}           
+            <p>
+					If you want to download all genomic coordinates of RNA editing locations in tabulated text format use the following links.       
+            </p>
+            <p><a href="{{ STATIC_URL }}downloads/hg18.txt">NCBI36/hg18</a></p>
+            <p><a href="{{ STATIC_URL }}downloads/hg19.txt">NCBI37/hg19</a></p>
+            <p><a href="{{ STATIC_URL }}downloads/dm3.txt">DM3</a></p>
+	    <p><a href="{{ STATIC_URL }}downloads/mm9.txt">MM9</a></p>
+	    <p><a href="{{ STATIC_URL }}downloads/mm10.txt">MM10</a></p>
+                
+				<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>
+{% endblock %}         

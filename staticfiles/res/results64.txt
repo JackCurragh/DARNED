@@ -1,0 +1,2 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+6	52360520	+	A	I	EFHC1	E	3	AMYGDALA	15342557

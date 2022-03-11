@@ -1,0 +1,2 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+5	68506094	+	A	G	CENPH	I		LYMPHOBLASTOID CELL	22484847

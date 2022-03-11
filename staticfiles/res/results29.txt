@@ -1,0 +1,2 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+4	250721	-	A	I		O		DIENCEPHALON	19478186

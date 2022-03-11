@@ -1,0 +1,3 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+1	62628606	+	A	I	INADL	E	3	SKIN, MELANOTIC MELANOMA, HIGH MDR.	15342557
+1	62628606	+	A	G	INADL	I		LYMPHOBLASTOID CELL	22484847

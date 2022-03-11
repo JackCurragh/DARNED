@@ -1,0 +1,2 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+7	44117843	-	A	G	POLM	I		LYMPHOBLASTOID CELL	22484847

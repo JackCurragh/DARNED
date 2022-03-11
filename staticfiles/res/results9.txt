@@ -1,0 +1,3 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+4	2940026	-	A	I	NOP14	I		LYMPHOBLASTOID CELL LINE	22327324
+4	2940026	-	A	G	NOP14	I		LYMPHOBLASTOID CELL	22484847

@@ -1,0 +1,2 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+1	8866049	-	A	I	RERE	I		MAMMARY GLAND	15342557

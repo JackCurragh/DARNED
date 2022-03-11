@@ -1,0 +1,2 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+1	31459069	-	A	G	PUM1	I		LYMPHOBLASTOID CELL	22484847

@@ -1,0 +1,3 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+1	36067760	-	A	I	PSMB2	E	3	BREAST CANCER,U87MG	15258596,21960545
+1	36067760	-	A	G	PSMB2	E	3	LYMPHOBLASTOID CELL	22484847

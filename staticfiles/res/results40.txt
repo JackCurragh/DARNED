@@ -1,0 +1,2 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+2	21086707	-	C	U	APOB	E	C	SMALL INTESTINE	11715042

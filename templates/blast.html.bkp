@@ -1,0 +1,82 @@
+<html>
+<head>
+  <title>DARNED</title>
+  <meta name="description" content="Database on RNA Editing" />
+  <meta name="keywords" content="darned, rna, editing" />
+  <meta http-equiv="content-type" content="text/html; charset=windows-1252" />
+  <link rel="stylesheet" type="text/css" href="{{ MEDIA_URL }}style/style.css" />
+<script type="text/javascript" src= "{{ MEDIA_URL }}style/floating.js"></script>
+<script type="text/javascript">  
+    floatingMenu.add('floatdiv',  
+        {  
+            // Represents distance from left or right browser window  
+            // border depending upon property used. Only one should be  
+            // specified.  
+            //targetLeft: 1400,  
+            targetRight: 50,  
+  
+            // Represents distance from top or bottom browser window  
+            // border depending upon property used. Only one should be  
+            // specified.  
+            targetTop: 200,  
+            // targetBottom: 0,  
+  
+            // Uncomment one of those if you need centering on  
+            // X- or Y- axis.  
+            // centerX: true,  
+            // centerY: true,  
+  
+            // Remove this one if you don't want snap effect  
+            snap: true  
+        });  
+</script>
+</head>
+
+<body>
+  <div id="site_content">
+		<div id="menubar">		
+			<ul id="menu">
+				<li><a href="/">About</a></li>
+				<li><a href="/search/">Search</a></li>
+				<li><a href="/download/">Download</a></li>
+				<li><a href="/cite/">Cite</a></li>
+				<li><a href="/help/">Help</a></li>
+			</ul>
+                </div></div>
+                <div id="site_content">
+                    <div id="sidebar" style="float:right;width:200px;margin-right:100px;margin-top:200px;border:1px solid rgb(34, 102, 170);padding:10px">
+        {% for chrom,start,end,strand,others,assembly in datas %}
+       <ul id="navbar"> <li><a href="#seq{{ forloop.counter }}"><b>{{ chrom }}:{{ start }}-{{ end }} {{ strand }}</b></a><ul>
+            <li>
+            <table border="3px" bordercolor="white">
+                <tr><td style="color:red"><a href="/hrb/?assembly={{ assembly }}&chrom={{ chrom }}&start={{ start }}&end={{ end }}">DARNED</a></td></tr>
+                <tr><td style="color:red"><a href="http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg{{ assembly }}&ct_HumanRNAEditing_1073=dense&position=chr{{ chrom }}:{{ start }}-{{ end }}">UCSC</a></td></tr>
+                </table>
+            </li>
+            </ul></li></ul><br />
+            {% endfor %}</div>
+	<!--/ul-->
+    <div id="content">
+    <H1><a name="searchfields">RESULT</a><img src="{{ MEDIA_URL }}style/logo.jpg" alt="DARNED" style="margin-left:550"></H1>
+{% for chrom,start,end,strand,others,assembly in datas %}
+<a name="seq{{ forloop.counter }}"> chr{{ chrom }}:{{ start }}-{{ end }} {{ strand }}</a><br />
+<PRE>
+
+<table font-family="Courier">
+
+{% for qstart,tstart,qseq,match,tseq,qend,tend in others %}
+<tr><td>Query</td><td></td><td style="text-align: right">{{ qstart }}</td><td></td>{{ qseq|safe }}<td></td><td style="text-align: left">{{ qend }}</td></tr>
+<tr><td></td><td></td><td></td><td></td>{{ match|safe }}<td></td><td></td></tr>
+<tr><td>Sbjct</td><td></td><td style="text-align: right">{{ tstart }}</td><td></td>{{ tseq|safe }}<td></td><td style="text-align: left">{{ tend }}</td></tr>
+<tr></tr><tr></tr>
+{% endfor %}
+</table></PRE>
+{% endfor %}
+
+
+<br /><br  /><br />		
+		
+      </div>
+    </div>
+</body>
+</html>

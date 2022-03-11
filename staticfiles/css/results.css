@@ -1,0 +1,59 @@
+.single,
+.single ul {
+
+    list-style: none;
+}
+.single {
+    float: left;
+}
+.single > li {
+    float: left;
+}
+.single li a {
+display: block;
+    height: 2em;
+    line-height: 2em;
+    padding: 0 1.5em;
+    text-decoration: none;
+}
+.single ul {
+    position: absolute;
+    display: none;
+z-index: 999;
+}
+.single ul li a {
+    width: 80px;
+}
+.single li:hover ul {
+    display: block;
+}
+
+/* Main menu
+------------------------------------------*/
+/*.single {
+    font-family: Arial;
+    font-size: 12px;
+    background: #2f8be8;
+}
+.single > li > a {
+    color: #fff;
+    font-weight: bold;
+}
+.single > li:hover > a {
+    background: #f09d28;
+    color: #000;
+}
+ */
+/* Submenu
+------------------------------------------*/
+/*.single ul {
+    background: #f09d28;
+}
+.single ul li a {
+    color: #000;
+}
+.single ul li:hover a {
+    background: #ffc97c;
+}*/
+
+​
