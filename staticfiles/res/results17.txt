@@ -1,0 +1,3 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+1	220231963	-	A	I	BPNT1	E	3	BREAST CANCER,U87MG	21960545
+1	220231963	-	A	G	BPNT1	E	3	LYMPHOBLASTOID CELL	22484847

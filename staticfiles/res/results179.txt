@@ -1,0 +1,2 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+10	5132715	+	A	I	AKR1C3	I		U87MG	21960545

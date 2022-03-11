@@ -1,0 +1,2 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+4	158257875	+	A	I	GRIA2	E	C	CEREBELLUM	19478186

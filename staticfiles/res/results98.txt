@@ -1,0 +1,3 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+20	49544228	-	A	I	ADNP	I		BREAST CANCER	21960545
+20	49544228	-	A	G	ADNP	I		LYMPHOBLASTOID CELL	22484847

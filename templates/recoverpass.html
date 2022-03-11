@@ -1,0 +1,17 @@
+{% extends 'core.html' %}
+{% block title %}Password Recovery {% endblock %}
+{% block page %}Recover Password {% endblock %}
+
+{% block contents %}
+<p>A mail will be sent to your ID giving further instructions.</p>			
+			<div class="form_content">
+                            <form id="form1" method="post" action="">{% csrf_token %}
+                    <div class="form_row">
+                        <label>Email:</label>{{ rcvr.email }}
+                    </div> 
+                    <div class="form_row">
+                    <input type="submit" class="form_submit" value="Recover My Password" />
+                    </div>
+                </form>
+            </div>				
+{% endblock %}

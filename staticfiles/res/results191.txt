@@ -1,0 +1,2 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+15	42835526	-	A	G	LRRC57	E	3	LYMPHOBLASTOID CELL	22484847

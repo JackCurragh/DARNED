@@ -1,0 +1,2 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+4	476526	-	A	I	ZNF721	I		THYMUS	15342557

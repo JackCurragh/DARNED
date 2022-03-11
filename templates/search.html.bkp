@@ -1,0 +1,197 @@
+{% extends 'core.html' %}
+
+{% block title %}Search{% endblock %}
+{% block extra_js_css %}
+<link type="text/css" href="{{ STATIC_URL }}css/smoothness/jquery-ui-1.8.16.custom.css" rel="stylesheet" />
+<script type="text/javascript" src="{{STATIC_URL}}js/search.js"></script>
+<!--script type="text/javascript" src="{{STATIC_URL}}js/alerts.js"></script-->
+<script type="text/javascript" src="{{STATIC_URL}}js/human_source.js"></script>
+		<!--style type="text/css">
+			.showdiv{display:true;}
+			.hidediv{display:none;}
+		</style-->
+
+		<script type="text/javascript">
+			$(function() {
+				$( "#tabs" ).tabs();
+			});
+                    </script>
+
+{% endblock %}
+
+{% block page %} Search {% endblock %}                
+{% block contents %}            
+<div id="tabs">
+    <ul>
+	<li>
+	    <select name="organism" id='org'>
+		<option value='hu' selected="selected">Human</option> 
+		<option value='do'>Drosophila</option>
+		<!--Add new organis here with different values--> 
+	    </select>
+						
+	    <script type="text/javascript">
+                $("#org").change(function () {
+                        var org = $("#org").val();
+                        if(org=='hu'){
+                            $(".human").show(100);
+                            $(".droso").hide(100);
+                        }
+                        if(org=="do"){
+                            $(".human").hide(100);
+                            $(".droso").show(100);
+                        }
+                        // add new orgsnism wish show options
+		//$( ".showdiv" ).switchClass( "showdiv", "hidediv", 100);          	
+                //$( ".hidediv" ).switchClass( "hidediv", "showdiv", 100);   
+        	})
+	    </script>
+	</li>
+        <li><a href="#tabs-1">Region Based</a></li>
+	<li><a href="#tabs-2">Gene Based</a></li>
+        <li><a href="#tabs-3">Sequence Based</a></li>
+    </ul>
+<div id="h1" class="human">
+    <div id="tabs-1">
+	<form method="get" action="/HSresultR/" >{% csrf_token %}
+            <div style="display:none"></div>
+		<!--center-->
+		    <table style="width:90%" id=hregtab>
+			<tr>
+			    <td colspan="1">Assembly</td>
+			    <td colspan="1">Chromosome</td>
+			    <td colspan="1">Start</td>
+			    <td colspan="1">End</td>
+			</tr>
+					
+			<tr>
+                            <td>{{ hss.hs_assembly }}</td>
+                            <td>{{ hss.hs_chrom }}</td>
+                            <td >{{ hss.hs_start }}</td>		
+                            <td>{{ hss.hs_end }}</td>						
+			</tr>
+					
+		        <tr>
+                            <td colspan="2" >Limit the search to a particular type of sequence</td><td colspan="2" >Flanking Sequence Length Around Editing Sites.</td>
+			</tr>	
+			<tr>
+                            <td  colspan="2" class="seqtype"> {{ hss.hs_seqtype }}</td>
+		            <td  colspan="0" id="hsexo" style="display: none;">{{ hss.hs_exotype }}</td>
+			    <td  colspan="2">{{ hss.hs_flank }} </td>
+			</tr>
+			<tr>
+			    <td colspan="4" >Limit the search by the source (tissue/cell line) in which RNA editing is known to be supported</td>		
+			</tr>
+		        <tr>
+		            <td  colspan="4">{{ hss.hs_source }}</td>
+			</tr>									
+                    </table>		
+                    <input value="Submit" class="submit" style="width: 90%; margin: auto;" type="submit">
+		<!--/center-->
+	</form>
+    </div>
+    <div id="tabs-2">
+	<form method="POST" action="/HSresultG/">{% csrf_token %}
+            <div style="display:none"></div>
+		<!--center-->
+	            <table style="width: 90%;">
+		        <tr>
+		            <td>Assembly</td>				
+			    <td>Type of Gene</td>				
+                            <td>Name</td>						
+		        </tr>
+                        <tr>
+			    <td>{{ hss.hs_assembly }}</td>				
+			    <td>{{ hss.hs_seqname }}</td>	
+                            <td>{{ hss.hs_seqid }}</td>						
+		        </tr>
+		    </table>		
+                    <input value="Submit" class="submit" style="width: 90%; margin: auto;" type="submit">
+	        <!--/center-->
+	    </form>
+    </div>
+    <div id="tabs-3">	            
+        <form method="POST" action="/HSresultS/">{% csrf_token %}
+	    <!--center-->
+		<table style="width:90%">						
+		    <tr>							
+                        <td>Enter your Sequence:{{ hss.hs_seq }}</td>
+		    </tr>							
+		    <tr>
+			<td class="search" style="table-layout: fixed;">{{ hss.hs_assembly }}</td>
+		    </tr>
+		</table>						
+                <input type="submit" value="Submit" class="submit" style="width:90%;margin: auto;">
+	    <!--/center-->
+        </form>
+    </div>
+</div>
+
+<div id="d1" class="droso" style="display:none">
+    <div id="tabs-1">
+        <form method="get" action="/DMresultR/"> {% csrf_token %}<div style="display:none"></div>
+	    <!--center-->
+	        <table class="dsearch" style="width:90%;" id="dregtab">
+                    <tr>
+                        <td colspan="1">Assembly</td>
+			<td  colspan="1">Chromosome</td>
+			<td  colspan="1">Start</td>
+			<td  colspan="1">End</td>
+		    </tr>
+                    <tr>
+                        <td>{{ dms.dm_assembly}}</td>
+			<td >{{ dms.dm_chrom }}</td>
+                        <td >{{ dms.dm_start }}</td>		
+                        <td >{{ dms.dm_end }}</td>						
+		    </tr>
+		    <tr>
+                        <td colspan="2" >Limit the search to a particular type of sequence</td>
+                        <td colspan="2" >Flanking Sequence Length</td>
+		    </tr>	
+		    <tr>
+               	        <td  colspan="2" class="seqtype">{{ dms.dm_seqtype }}</td>
+		        <td  colspan="0" id="dmexo" style="display: none;">{{ dms.dm_exotype }}</td>
+                        <td  colspan="2">{{ dms.dm_flank }}</td>
+		    </tr>
+		</table>		
+            	<input value="Submit" class="submit" style="width: 90%; margin: auto;" type="submit">
+	    <!--/center-->
+	</form>
+    </div>
+    <div id="tabs-2">
+        <form method="POST" action="/DMresultG/">{% csrf_token %}<div style="display:none"></div>
+	    <!--center-->
+		<table  style="width: 90%;">
+                    <tr>
+                        <td>Assembly</td>
+			<td >Type of Gene</td>
+                        <td >Name</td>						
+		    </tr>	
+                    <tr>
+                        <td>{{ dms.dm_assembly}}</td>
+                        <td >{{ dms.dm_seqname }}</td>
+                        <td >{{ dms.dm_seqid }}</td>						
+		    </tr>
+		</table>
+                <input value="Submit" class="submit" style="width: 90%; margin: auto;" type="submit">
+	    <!--/center-->
+	</form>
+    </div>
+    <div id="tabs-3">
+        <form method="POST" action="/DMresultS/">{% csrf_token %}
+	    <!--center-->
+		<table style="width:90%">						
+		    <tr>							
+			<td>Enter your Sequence:{{ dms.dm_seq }}</td>
+                    </tr>
+                    <tr>
+                        <td class="search" style="table-layout:fixed;">{{ dms.dm_assembly }}</td>
+                    </tr>					
+		</table>	
+                <input type="submit" value="Submit" class="submit" style="width:90%;margin: auto;">
+	    <!--/center-->
+        </form>
+    </div>
+</div>
+</div>
+{% endblock %}

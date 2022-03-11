@@ -1,0 +1,2 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+6	35822000	-	A	G	SRPK1	I		LYMPHOBLASTOID CELL	22484847

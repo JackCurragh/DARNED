@@ -1,0 +1,20 @@
+{% extends 'core.html' %}
+{% block title %}Login{% endblock %}
+{% block page %}Login{% endblock %}
+{% block contents %}
+    <div class="form_content">
+        <form id="form1" method="post" action="">{% csrf_token %}
+                    <div class="form_row">
+                        <label>Username:</label> {{ lgn.user }}
+                    </div>
+                    <div class="form_row">
+                        <label>Password:</label>{{ lgn.passwd }}
+                    </div>
+                    <div class="form_row">
+                    <input type="submit" class="form_submit" value="Login" />
+  							</div>
+  							<a href="/newuser/"> New User?</a>
+  							<a href="/passwdrecovery/"> Forgot Password?	</a>
+                </form>
+            </div>
+{% endblock %}

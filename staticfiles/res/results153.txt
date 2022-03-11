@@ -1,0 +1,3 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+X	12802179	+	G	A	TLR7	I		LYMPHOBLASTOID CELL	22484847
+X	12802213	+	A	G	TLR7	I		LYMPHOBLASTOID CELL	22484847

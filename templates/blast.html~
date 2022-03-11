@@ -1,0 +1,146 @@
+{% extends 'core.html' %}
+
+{% block title %} Blast Result {% endblock %}
+
+{% block extra_js_css %}
+<!--script type="text/javascript" src= "{{ MEDIA_URL }}style/floating.js"></script-->
+<script type="text/javascript">  
+    floatingMenu.add('floatdiv',  
+        {  
+            // Represents distance from left or right browser window  
+            // border depending upon property used. Only one should be  
+            // specified.  
+            //targetLeft: 1400,  
+            targetRight: 50,  
+  
+            // Represents distance from top or bottom browser window  
+            // border depending upon property used. Only one should be  
+            // specified.  
+            targetTop: 200,  
+            // targetBottom: 0,  
+  
+            // Uncomment one of those if you need centering on  
+            // X- or Y- axis.  
+            // centerX: true,  
+            // centerY: true,  
+  
+            // Remove this one if you don't want snap effect  
+            snap: true  
+        });  
+</script>
+<script type="text/javascript">
+		var timeout    = 100;
+		var closetimer = 0;
+		var ddmenuitem = 0;
+		
+		function ddmenu_open(){
+			ddmenu_canceltimer();
+		   	ddmenu_close();
+		   	ddmenuitem = $(this).find('ul').css('visibility', 'visible');
+		}
+		
+		function ddmenu_close(){ 
+			if(ddmenuitem) ddmenuitem.css('visibility', 'hidden');
+		}
+		
+		function ddmenu_timer(){
+			closetimer = window.setTimeout(ddmenu_close, timeout);
+		}
+		
+		function ddmenu_canceltimer(){  
+			if(closetimer){  
+				window.clearTimeout(closetimer);
+		        closetimer = null;
+		}}
+		
+		$(document).ready(function(){  
+			$('.ddmenu > li').bind('mouseover', ddmenu_open)
+		    $('.ddmenu > li').bind('mouseout',  ddmenu_timer)
+		});
+		
+		document.onclick = ddmenu_close;
+	// ]]>  
+	</script>
+
+
+<script>
+//config
+$float_speed=1500; //milliseconds
+$float_easing="easeOutQuint";
+$menu_fade_speed=500; //milliseconds
+$closed_menu_opacity=0.75;
+
+//cache vars
+$fl_menu=$("#fl_menu");
+$fl_menu_menu=$("#fl_menu .menu");
+$fl_menu_label=$("#fl_menu .label");
+
+$(window).load(function() {
+	menuPosition=$('#fl_menu').position().top;
+	FloatMenu();
+	$fl_menu.hover(
+		function(){ //mouse over
+			$fl_menu_label.fadeTo($menu_fade_speed, 1);
+			$fl_menu_menu.fadeIn($menu_fade_speed);
+		},
+		function(){ //mouse out
+			$fl_menu_label.fadeTo($menu_fade_speed, $closed_menu_opacity);
+			$fl_menu_menu.fadeOut($menu_fade_speed);
+		}
+	);
+});
+
+$(window).scroll(function () { 
+	FloatMenu();
+});
+
+function FloatMenu(){
+	var scrollAmount=$(document).scrollTop();
+	var newPosition=menuPosition+scrollAmount;
+	if($(window).height()<$fl_menu.height()+$fl_menu_menu.height()){
+		$fl_menu.css("top",menuPosition);
+	} else {
+		$fl_menu.stop().animate({top: newPosition}, $float_speed, $float_easing);
+	}
+}
+</script>
+
+{% endblock %}
+
+
+{% block page %}Blast Result {% endblock%}
+{% block contents %}
+
+
+<div id="fl_menu">
+	<div class="label">
+        <ul class="single">
+		{% for chrom,start,end,strand,others,assembly in datas %}
+        	<li><a href="#seq{{ forloop.counter }}">{{ chrom }}:{{ start }}-{{ end }} {{ strand }}</a>
+        		<ul><li><a href="">UCSC</a></li><li><a href="">ENSEMBL</a></li></ul>
+        	</li>{% endfor %}
+        	
+        	
+   </ul>   	
+	</div>
+</div>
+
+	<!--/ul-->
+    <div id="content">
+    <H1><a name="searchfields">RESULT</a><img src="{{ MEDIA_URL }}style/logo.jpg" alt="DARNED" style="margin-left:550"></H1>
+{% for chrom,start,end,strand,others,assembly in datas %}
+<a name="seq{{ forloop.counter }}"> chr{{ chrom }}:{{ start }}-{{ end }} {{ strand }}</a><br />
+<PRE>
+
+<table font-family="Courier">
+
+{% for qstart,tstart,qseq,match,tseq,qend,tend in others %}
+<tr><td>Query</td><td></td><td style="text-align: right">{{ qstart }}</td><td></td>{{ qseq|safe }}<td></td><td style="text-align: left">{{ qend }}</td></tr>
+<tr><td></td><td></td><td></td><td></td>{{ match|safe }}<td></td><td></td></tr>
+<tr><td>Sbjct</td><td></td><td style="text-align: right">{{ tstart }}</td><td></td>{{ tseq|safe }}<td></td><td style="text-align: left">{{ tend }}</td></tr>
+<tr></tr><tr></tr>
+{% endfor %}
+</table></PRE>
+{% endfor %}
+
+{% endblock %}

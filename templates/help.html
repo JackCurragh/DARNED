@@ -1,0 +1,132 @@
+{% extends 'core.html' %}
+{% block title %}Help{% endblock %}
+{% block page %}Help{% endblock %}
+
+{% block extra_js_css %}
+<script type="text/javascript">
+Cufon.replace('.logo h1', { fontFamily: 'Familian Son' });
+Cufon.replace('.slogan', { fontFamily: 'Familian Son' });
+Cufon.replace('ul.menu_list', { fontFamily: 'Familian Son' });
+Cufon.replace('.tab_head', { fontFamily: 'Familian Son' });
+Cufon.replace('.pg_description h2', { fontFamily: 'Familian Son' });
+Cufon.replace('a.read_more', { fontFamily: 'Familian Son' });
+</script>
+<script type="text/javascript">
+	jQuery(document).ready(function() {
+		jQuery(".content").hide();
+		//toggle the componenet with class msg_body
+		jQuery(".heading").click(function(){
+		jQuery(this).next(".content").slideToggle("slow");
+		});
+	});
+    </script>
+{% endblock %}
+{% block contents %}
+            <p>DARNED currently provides information on RNA Editing for both human and fruit fly. 
+					You can choose from the dropdown menu at the top left corner of the search table. 
+				</p>
+            
+                                <img style="width:80%;margin-left:50px" align="center" src="{{STATIC_URL}}images/choose.jpg"><br>
+				
+				<p>
+				There are three ways to search the database:
+				</p>
+				
+				<ul>
+					<li>- By providing a region of human genome</li>
+					<li>- By searching for RNA editing relevant to a particular gene of interest</li>
+					<li>- By entering your sequence</li>
+				</ul>
+				<p></p>
+		
+				<h3 class="heading" style="cursor:pointer; border-bottom:1px dotted" title="Expand/Collapse">REGION BASED SEARCH</h3>
+				<div class="content">
+				<p>
+				The search form is shown below. To search for RNA editing specific to a particular region of the human genome, you need to specify a 
+				chromosome in the first row of the search form and specify Start and End positions on the chromosome. Default values for Start and End 
+				positions are set to zero. If left at default values for Start and End, information for the entire chromosome specified will be provided. The output data can be filtered in two ways.
+				
+				Firstly, the search result can be limited to the tissue or cell type in which RNA editing is supported. For this, you need to enter the cell type or tissue name such as brain, liver, etc. 
+				Secondly, the data can be filtered based on the functional location of an edited nucleotide in an
+				RNA sequence. For example, the nucleotide location in an exon or intron can be specified.The option "Unknown" in this menu refers to locations where exon/intron status are not defined. Additionally, you can also specify the length of flanking sequences for displaying the edited nucleotide in the 
+				larger nucleotide context in UCSC and Ensembl genome browsers. 
+				</p>
+                                <img style="width:80%;margin-left:50px" src="{{ STATIC_URL }}images/region.png">
+				</div>
+				<br><br>
+		
+				<h3 class="heading" style="cursor:pointer; border-bottom:1px dotted" title="Expand/Collapse">GENE BASED SEARCH</h3>
+				<div class="content">
+				<p>To search for RNA editing instances related to a particular gene or mRNA, click on the tab 'Gene Based' at the top of the search form. 
+				You need to select the type of your sequence (RefGene, RefSeq, mRNA),at the center of the table and then insert the RefGene name (eg APOB), NCBI accession number (NM_XXX or NR_XXX).
+				</p>
+                                <img style="width:80%;margin-left:50px" src="{{STATIC_URL}}images/gene.png">
+				</div>
+				<br><br>
+		
+				<h3 class="heading" style="cursor:pointer; border-bottom:1px dotted" title="Expand/Collapse">SEQUENCE BASED SEARCH</h3>
+				<div class="content">
+				<p> To do a sequence based search for RNA Editing, click on the tab 'Sequence Based' at the top right of the search form.
+				Enter your sequence in the box provided and select the appropriate assembly.
+				</p>
+                                <img style="width:80%;margin-left:50px" src="{{ STATIC_URL }}images/seq.png">
+				</div>
+				<br><br>
+				
+		
+				<h3 class="heading" style="cursor:pointer; border-bottom:1px dotted" title="Expand/Collapse">SEARCH RESULTS</h3>
+				<div class="content">
+				<p>A typical search output table is shown below.</p> 
+		
+                                <img style="width:80%;margin-left:50px" src="{{ STATIC_URL }}images/reg_search_res.png"><br><br>
+				<p>				
+				<strong>It consists of the following fields (columns):</strong>
+				</p>				
+				<p>On the top, Your search criteria is provided with results. By Clicking number of results you can down load searched result data. </p>
+				<p>
+				<strong>Coordinate:</strong>
+				Each cell contains the chromosome and coordinate of the edited site in the reference genome.
+				On moving your mouse over the result, a box appears with links to UCSC and ENSEMBL Genome browsers (link to ENSEMBL available for hg19 assembly only). 
+				Clicking on a link will take the user to the corresponding genome browser which will provide information for the region that has been specified including the flanking sequence. 
+		 		</p>				
+				
+				<p>
+            <strong>Strand:</strong> + for positive strand; - for negative strand.
+				</p>				
+				
+				<p>
+				<strong>Changes:</strong> This field displays the type of editing observed. If the genomic base doesn't match the reference genome base, it is represented as <strong>Observed base[Reference genomic base]-to-Edited base</strong>.
+				</p>				
+				
+				<p>
+				<strong>Source:</strong> This field contains information on the tissue source from which the RNA editing instances have been obtained (available for human only). By default one source is displayed, for cases where there are muliple sources, the number is indicated in enclosed parentheses (4th row in above figure). Hovering cursor over the source will display other sources. Clicking on a particular tissue type will list all entries for that tissue.
+				</p>				
+				
+				<p>
+				<strong>SNP:</strong> The SNP field shows SNPs from RefSNP corresponding to this coordinate (for human only). Clicking on a SNP accession number will take you to the corresponding entry in the NCBI database. If the SNP entry has a superscript "u", its validation is unknown. Pointing your cursor to a SNP reference will provide the type of validation based on UCSC SNP130 table. Note that this is not a hyperlink. It is not applicable for Drosophila data
+				</p>				
+				
+				<p>
+				
+				<strong>InGene:</strong> The gene name appears if RNA editing is known to occur at its locus. If a RNA editing coordinate is not part of an intron or exon, an "O" will be displayed. A locus name followed by the letter "I", indicates RNA editing in an intron. Likewise, an E corresponds to exon, 5 to 5'UTR, 3 to 3'UTR and C to CDS. If RNA editing information is available for the gene you see <strong>w</strong> superscript and provides link to its related wikipedia page.  
+            On pointing to the gene name, a link to the NCBI gene database appears.
+				</p>				
+				
+				<p>
+				<strong>ALU:</strong> RNA editing mostly occurs in Alu repeats. The type of repeat is indicated in this column.
+				</p>				
+				
+				<p>
+				<strong>Data Set:</strong> This field provides the reference information from which the RNA editing data have been extracted and the pop-up link will bring you to the corresponding PubMed entry. 
+				</p>
+				<p> At bottom, links are provided to navigate different pages of result.</p>
+				</div>
+				<br><br>
+				
+				<h3 class="heading" style="cursor:pointer; border-bottom:1px dotted" title="Expand/Collapse">RESULTS FOR SEQUENCE BASED SEARCH</h3>
+				<div class="content">
+				<p>The results for a sequence based search is displayed below. Clicking on the alignment region will redirect to the editing table and display the editing coordinates, if any editing exists for the selected region. In the alignment, edited coordinates are also highlighted.   
+				Sequences are aligned using NCBI blastn.</p>
+                                <img style="width:50%;margin-left:50px" src="{{ STATIC_URL}}images/sequencebasedsearch.png">
+				</div>
+{% endblock %}

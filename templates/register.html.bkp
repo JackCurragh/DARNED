@@ -1,0 +1,40 @@
+{% extends 'core.html' %}
+{% block title %}Register{% endblock %}
+{% block page %}Register{% endblock %}
+{% block contents %}
+			<div class="form_content">
+                <form id="form1" method="post" action="">
+                    <div class="form_row">
+                    <label>Name:</label>
+                    <input type="text" class="form_input" name="name" />
+                    </div>
+                    <div class="form_row">
+                    <label>Username:</label>
+                    <input type="text" class="form_input" name="username" />
+                    </div>
+                    <div class="form_row">
+                    <label>Password:</label>
+                    <input type="password" class="form_input" name="password" />
+                    </div>
+                    <div class="form_row">
+                    <label>Confirm Password:</label>
+                    <input type="password" class="form_input" name="passwordagain" />
+                    </div>
+                    <div class="form_row">
+                    <label>E-mail:</label>
+                    <input type="text" class="form_input" name="email" />
+                    </div>
+                    <div class="form_row">
+                    <label>Organization:</label>
+                    <input type="text" class="form_input" name="org" />
+                    </div>
+                    <div class="form_row">
+                    <label>Organization URL:</label>
+                    <input type="text" class="form_input" name="url" />
+                    </div>
+                    <div class="form_row">
+                    <input type="submit" class="form_submit" value="Register" />
+                    </div>
+                </form>
+            </div>				
+{% endblock %}

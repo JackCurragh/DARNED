@@ -1,0 +1,3 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+17	53435141	-	C	A	SRSF1	E	3	LYMPHOBLASTOID CELL	22484847
+17	53435311	-	C	G	SRSF1	E	3	LYMPHOBLASTOID CELL	22484847

@@ -1,0 +1,3 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+15	42831329	-	A	I		O		SUBTHALAMIC NUCLEUS	15342557
+15	42831329	-	A	G		O		LYMPHOBLASTOID CELL	22484847

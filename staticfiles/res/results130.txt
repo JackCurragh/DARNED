@@ -1,0 +1,2 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+19	14593693	-	A	I	GIPC1	E	C	BREAST CANCER	21960545

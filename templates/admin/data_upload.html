@@ -1,0 +1,14 @@
+{% extends 'core.html' %}
+{% block title %} Data Upload Human {% endblock %}
+{% block page %} Upload {% endblock %}
+{% block contents %}
+<p>Please go to <a href="/instructions/">INSTRUCTIONS</a> page before you upload data to see different format for different organisms.</p>
+<form method="POST" enctype="multipart/form-data" action='{{ action }}'>{% csrf_token %}
+    {{ form }}
+    <input value="Upload" class="submit" type="submit">
+</form>
+<br />
+<form method="POST" action="/sync/">{% csrf_token %}
+    <input value="Syncronise downloadable dat with current database" class="submit" type="submit">
+</form>
+{% endblock %}

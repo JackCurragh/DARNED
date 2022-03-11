@@ -1,0 +1,3 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+1	220232144	-	A	I	BPNT1	E	3		15258596,16100382
+1	220232144	-	A	G	BPNT1	E	3	LYMPHOBLASTOID CELL	22484847

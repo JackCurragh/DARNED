@@ -1,0 +1,2 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+1	88259607	-	C	I	Hjurp	E	3	22448268

@@ -1,0 +1,2 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+8	30536015	-	A	I	GSR	E	3	BREAST CANCER	15258596,21960545

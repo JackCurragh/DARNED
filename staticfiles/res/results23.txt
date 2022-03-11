@@ -1,0 +1,3 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+16	75480010	-	A	I		O		SALIVARY GLAND	15342557
+16	75480010	-	A	G		O		LYMPHOBLASTOID CELL	22484847

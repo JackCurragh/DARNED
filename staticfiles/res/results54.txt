@@ -1,0 +1,2 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+2	241198668	+	A	G	GPR35	I		LYMPHOBLASTOID CELL	22484847

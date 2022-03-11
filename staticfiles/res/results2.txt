@@ -1,0 +1,2 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+13	50487293	-	A	G	SPRYD7	E	3	LYMPHOBLASTOID CELL	22484847

@@ -1,0 +1,5 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+1	566916	+	A	G		O		VENOUS BLOOD	21725310
+1	567242	+	G	A		O		VENOUS BLOOD	21725310
+1	568463	+	A	G		O		VENOUS BLOOD	21725310
+1	569874	+	C	T		O		VENOUS BLOOD	21725310

@@ -1,0 +1,78 @@
+{% extends 'core.html' %}
+{% load pagination_tags %}
+{% block title %} Result {% endblock %}
+<!-- Cufon START  -->
+{% block extra_js_css %}
+
+<script type="text/javascript" language="javascript" src="{{STATIC_URL}}js/hoverIntent.js"></script>
+<script type="text/javascript" language="javascript" src="{{STATIC_URL}}js/jquery.dropdown.js"></script>
+<link rel="stylesheet" type="text/css" href="{{ STATIC_URL}}css/table.css">
+<link rel="stylesheet" type="text/css" href="{{ STATIC_URL}}css/results.css">
+
+<script type="text/javascript">
+Cufon.replace('.logo h1', { fontFamily: 'Familian Son' });
+Cufon.replace('.slogan', { fontFamily: 'Familian Son' });
+Cufon.replace('ul.menu_list', { fontFamily: 'Familian Son' });
+Cufon.replace('.tab_head', { fontFamily: 'Familian Son' });
+Cufon.replace('.pg_description h2', { fontFamily: 'Familian Son' });
+Cufon.replace('a.read_more', { fontFamily: 'Familian Son' });
+Cufon.replace('.left_section_more a', { fontFamily: 'Familian Son' });
+Cufon.replace('.right_section_more a', { fontFamily: 'Familian Son' });
+Cufon.replace('.sidebar_more a', { fontFamily: 'Familian Son' });
+Cufon.replace('.navigation', { fontFamily: 'Familian Son' });
+</script>
+{% endblock %}
+
+{% block page %}Result {% endblock %}
+{% block contents %}
+<!--p>Seach Citeria: </p-->
+				
+				<center>
+				<table style="width:100%">
+					<tr>
+						<!--th style="width:5%; background-color:white"></th-->
+						<th><ul class="single"><li>Coordinates<ul><li><a href="">UCSC</a></li><li><a href="">ENSEMBL</a></li></ul></li></ul>
+						</th>
+						<th>Strand</th>
+						<th>Changes</th>
+						<th>Source</th>
+						<th><a href="http://en.wikipedia.org/wiki/Single-nucleotide_polymorphism">SNP</a></th>
+						<th>InGene</th>
+						<th><!--a href="http://en.wikipedia.org/wiki/Alu_repeats"-->Alu<!--/a--></th>
+						<th>Author</th>
+                                            </tr>
+                                            {% autopaginate coors 50 %}
+                                            {% for coor in coors %}
+                                            <tr style="background-color:{% cycle eeeeee,cccccc %}">
+                                                <td><ul class="single"><li> {{coor.chrom}}.{{coor.coordinate}}<ul><li><a href="">UCSC</a></li><li><a href="">ENSEMBL</a></li></ul></li></ul></td>
+                                                <td>{{coor.strand}}</td>
+                                                <td>{{coor.indna}}{% ifnotequal coor.indna coor.inref %}[{{ coor.inref }}]{% endifnotequal %}-To-{{coor.inrna}}</td>
+                                                <td><ul class="single"><li>{{ coor.source.all|first}}<ul>
+{% for source in coor.source.all %} 
+{% if not forloop.first %}
+<li><a href="">{{ source }}</a></li> 
+{% endif %}
+
+{% endfor %}
+
+</ul></li></ul></td>
+                                                <td>{% if coor.snp %}{{ coor.snp }}{% endif %}</td>
+                                                <td>{{coor.gene.gene}}[{{coor.seqtype}}{% ifequal coor.seqtype 'E' %}.{{coor.exotype}}{% endifequal %}]</td>
+                                                <td>{% if coor.alu %}{{coor.alu}}{% endif %}</td>
+                                                <td><ul class="single"><li><a href="">{{ coor.pubid.all.0.author }}</a><a href="">{{ coor.pubid.all.0.pubid }}</a><ul>
+{% for pubid in coor.pubid.all%} 
+{% if not forloop.first %}
+<li><a href="">{{ pubid.author }}</a><a href="">{{ pubid.pubid }}</a></li> 
+{% endif %}
+
+{% endfor %}
+
+</ul></li></ul>
+</td>
+                                            </tr>
+                                            {% endfor %}
+                                            
+                                        </table>
+                                        {% paginate %}
+				</center>
+{% endblock %}

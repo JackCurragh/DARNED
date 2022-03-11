@@ -1,0 +1,4 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+1	15773	-	A	G	WASH7P	I		VENOUS BLOOD	21725310
+1	16974	-	G	A	WASH7P	E	3	VENOUS BLOOD	21725310
+1	18368	-	A	G	WASH7P	I		VENOUS BLOOD	21725310

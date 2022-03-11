@@ -1,0 +1,3 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+16	50139258	+	A	I	HEATR3	E	3	UTERUS, LEIOMYOSARCOMA	15342557
+16	50139258	+	A	G	HEATR3	I		LYMPHOBLASTOID CELL	22484847

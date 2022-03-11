@@ -1,0 +1,2 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+19	53149372	-	A	G	ZNF83	I		LYMPHOBLASTOID CELL	22484847

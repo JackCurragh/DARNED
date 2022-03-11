@@ -1,0 +1,1549 @@
+18	9	529539	+	A	A	I	-	-	-	KANK1	23189	I	-	SINE	-	15258596	Levanon	2004
+18	9	529620	+	A	A	I	-	-	-	KANK1	23189	I	-	SINE	-	15258596	Levanon	2004
+18	9	529621	+	A	A	I	-	-	-	KANK1	23189	I	-	SINE	-	15258596	Levanon	2004
+18	9	3494200	-	A	A	I	-	-	-	RFX3	5991	I	-	Simple_repeat	-	15258596	Levanon	2004
+18	9	3494202	-	A	A	I	-	-	-	RFX3	5991	I	-	Simple_repeat	-	15258596	Levanon	2004
+18	9	3494211	-	A	A	I	-	-	-	RFX3	5991	I	-	Simple_repeat	-	15258596	Levanon	2004
+18	9	3494212	-	A	A	I	-	-	-	RFX3	5991	I	-	Simple_repeat	-	15258596	Levanon	2004
+18	9	4874546	+	A	A	I	rs10815101	-	by-cluster,by-frequency,by-2hit-2allele,by-hapmap,by-1000genomes	-	-	O	-	-	whole embryo, mainly head	15342557	Kim	2004
+18	9	4875037	+	A	A	I	-	-	-	-	-	O	-	SINE	whole embryo, mainly head	15258596:15342557	Levanon:Kim	2004:2004
+18	9	4875093	+	A	A	I	-	-	-	-	-	O	-	SINE	whole embryo, mainly head	15258596:15342557	Levanon:Kim	2004:2004
+18	9	4875094	+	A	A	I	-	-	-	-	-	O	-	SINE	whole embryo, mainly head	15258596:15342557	Levanon:Kim	2004:2004
+18	9	4875182	+	A	A	I	-	-	-	-	-	O	-	SINE	whole embryo, mainly head	15258596:15342557	Levanon:Kim	2004:2004
+18	9	4875267	+	A	A	I	rs7852472	-	by-cluster,by-frequency,by-2hit-2allele,by-hapmap,by-1000genomes	-	-	O	-	-	whole embryo, mainly head	15258596:15342557	Levanon:Kim	2004:2004
+18	9	4875721	+	A	A	I	-	-	-	-	-	O	-	SINE	whole embryo, mainly head	15258596:15342557	Levanon:Kim	2004:2004
+18	9	4875814	+	A	A	I	-	-	-	-	-	O	-	SINE	whole embryo, mainly head	15342557	Kim	2004
+18	9	4875873	+	A	A	I	-	-	-	-	-	O	-	SINE	whole embryo, mainly head	15342557	Kim	2004
+18	9	5904702	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	6708347	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	6708349	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	6708821	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	6716955	+	A	A	I	-	-	-	KDM4C	23081	I	-	SINE	-	15258596	Levanon	2004
+18	9	6716987	+	A	A	I	-	-	-	KDM4C	23081	I	-	SINE	-	15258596	Levanon	2004
+18	9	6716988	+	A	A	I	-	-	-	KDM4C	23081	I	-	SINE	-	15258596	Levanon	2004
+18	9	6716997	+	A	A	I	-	-	-	KDM4C	23081	I	-	SINE	-	15258596	Levanon	2004
+18	9	10346743	-	A	A	I	-	-	-	PTPRD	5789	I	-	SINE	brain	15342557	Kim	2004
+18	9	10346804	-	A	A	I	-	-	-	PTPRD	5789	I	-	SINE	brain	15342557	Kim	2004
+18	9	10346817	-	A	A	I	-	-	-	PTPRD	5789	I	-	SINE	brain	15342557	Kim	2004
+18	9	10346828	-	A	A	I	-	-	-	PTPRD	5789	I	-	SINE	brain	15342557	Kim	2004
+18	9	10346844	-	A	A	I	-	-	-	PTPRD	5789	I	-	SINE	brain	15342557	Kim	2004
+18	9	10346857	-	A	A	I	-	-	-	PTPRD	5789	I	-	SINE	brain	15342557	Kim	2004
+18	9	10346859	-	A	A	I	-	-	-	PTPRD	5789	I	-	SINE	brain	15342557	Kim	2004
+18	9	10346899	-	A	A	I	-	-	-	PTPRD	5789	I	-	SINE	brain	15342557	Kim	2004
+18	9	10603209	+	A	A	I	-	-	-	-	-	O	-	-	brain, hypothalamus	15342557	Kim	2004
+18	9	10608041	+	A	A	I	-	-	-	-	-	O	-	LTR	brain, hypothalamus	15342557	Kim	2004
+18	9	10608322	+	A	A	I	rs10122741	-	by-cluster,by-1000genomes	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	10608340	+	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	10608341	+	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	10608355	+	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	10608379	+	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	10608411	+	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	10609160	+	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	10609161	+	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	10609201	+	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	10609232	+	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	10609233	+	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	10609255	+	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	10609258	+	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	10609268	+	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	10609313	+	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	23648884	-	A	A	I	-	-	-	-	-	O	-	-	fetal brain	15342557	Kim	2004
+18	9	23648934	-	A	A	I	-	-	-	-	-	O	-	-	fetal brain	15342557	Kim	2004
+18	9	23648938	-	A	A	I	-	-	-	-	-	O	-	-	fetal brain	15342557	Kim	2004
+18	9	23648943	-	A	A	I	-	-	-	-	-	O	-	-	fetal brain	15342557	Kim	2004
+18	9	23648952	-	A	A	I	-	-	-	-	-	O	-	-	fetal brain	15342557	Kim	2004
+18	9	23648964	-	A	A	I	-	-	-	-	-	O	-	-	fetal brain	15342557	Kim	2004
+18	9	23650192	-	A	A	I	-	-	-	-	-	O	-	DNA	fetal brain	15342557	Kim	2004
+18	9	23650210	-	A	A	I	-	-	-	-	-	O	-	DNA	fetal brain	15342557	Kim	2004
+18	9	23650256	-	A	A	I	-	-	-	-	-	O	-	DNA	fetal brain	15342557	Kim	2004
+18	9	23650419	-	A	A	I	rs7855153	-	by-cluster,by-frequency,by-2hit-2allele,by-hapmap,by-1000genomes	-	-	O	-	-	fetal brain	15342557	Kim	2004
+18	9	32445466	-	A	A	I	rs11899	+	unknown	DDX58	23586	E	3	LTR	-	15258596	Levanon	2004
+18	9	32446316	-	A	A	I	-	-	-	DDX58	23586	E	3	-	-	15258596	Levanon	2004
+18	9	32446318	-	A	A	I	-	-	-	DDX58	23586	E	3	-	-	15258596	Levanon	2004
+18	9	32446365	-	A	A	I	-	-	-	DDX58	23586	E	3	-	,cerebellum	15258596:19478186	Levanon:Li JB	2004:2008
+18	9	32446380	-	A	A	I	-	-	-	DDX58	23586	E	3	-	-	15258596	Levanon	2004
+18	9	32446486	-	A	A	I	-	-	-	DDX58	23586	E	3	Simple_repeat	-	15258596	Levanon	2004
+18	9	32446488	-	A	A	I	-	-	-	DDX58	23586	E	3	Simple_repeat	-	15258596	Levanon	2004
+18	9	33032186	-	A	A	I	-	-	-	SMU1	55234	E	3	DNA	amygdala	15342557	Kim	2004
+18	9	33032267	-	A	A	I	-	-	-	SMU1	55234	E	3	-	amygdala	15342557	Kim	2004
+18	9	33032287	-	A	A	I	-	-	-	SMU1	55234	E	3	-	amygdala	15342557	Kim	2004
+18	9	33032295	-	A	A	I	-	-	-	SMU1	55234	E	3	-	amygdala	15342557	Kim	2004
+18	9	33032299	-	A	A	I	-	-	-	SMU1	55234	E	3	-	amygdala	15342557	Kim	2004
+18	9	33032309	-	A	A	I	-	-	-	SMU1	55234	E	3	-	amygdala	15342557	Kim	2004
+18	9	33032312	-	A	A	I	-	-	-	SMU1	55234	E	3	-	amygdala	15342557	Kim	2004
+18	9	33032313	-	A	A	I	-	-	-	SMU1	55234	E	3	-	amygdala	15342557	Kim	2004
+18	9	33032982	-	A	A	I	-	-	-	SMU1	55234	E	3	SINE	amygdala	15342557	Kim	2004
+18	9	33033864	-	A	A	I	-	-	-	SMU1	55234	E	3	-	amygdala	15342557	Kim	2004
+18	9	33033874	-	A	A	I	-	-	-	SMU1	55234	E	3	-	amygdala	15342557	Kim	2004
+18	9	33033892	-	A	A	I	-	-	-	SMU1	55234	E	3	-	amygdala	15342557	Kim	2004
+18	9	33033906	-	A	A	I	-	-	-	SMU1	55234	E	3	-	amygdala	15342557	Kim	2004
+18	9	33033912	-	A	A	I	-	-	-	SMU1	55234	E	3	-	amygdala	15342557	Kim	2004
+18	9	34480470	+	A	A	I	rs17852763	+	unknown	DNAI1	27019	E	C	-	cerebellum	19478186	Li JB	2008
+18	9	35020743	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	35020752	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	35020754	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	35020758	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	35020767	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	35020797	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	35020798	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	35020803	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	35020828	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	35020833	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	35020849	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	35020850	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	35020856	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	35028643	-	A	A	I	-	-	-	-	-	O	-	SINE	spleen	15342557	Kim	2004
+18	9	35028720	-	A	A	I	-	-	-	-	-	O	-	SINE	spleen	15342557	Kim	2004
+18	9	35028725	-	A	A	I	-	-	-	-	-	O	-	SINE	spleen	15342557	Kim	2004
+18	9	35028754	-	A	A	I	-	-	-	-	-	O	-	SINE	spleen	15342557	Kim	2004
+18	9	35028756	-	A	A	I	-	-	-	-	-	O	-	SINE	spleen	15342557	Kim	2004
+18	9	35029598	-	A	A	I	rs2252749	-	by-cluster,by-frequency,by-2hit-2allele,by-hapmap,by-1000genomes	-	-	O	-	LINE	spleen	15342557	Kim	2004
+18	9	35030449	-	A	A	I	rs679787	-	by-cluster,by-frequency,by-2hit-2allele,by-hapmap,by-1000genomes	-	-	O	-	-	spleen	15342557	Kim	2004
+18	9	35077599	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	35077678	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	35077684	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	35077700	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	35077701	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	35077759	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	35077761	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	35077777	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	35173318	+	A	A	I	rs7867976	-	by-cluster	UNC13B	10497	I	-	Other	testis	15342557	Kim	2004
+18	9	35174450	+	A	A	I	-	-	-	UNC13B	10497	I	-	Other	testis	15342557	Kim	2004
+18	9	35174495	+	A	A	I	-	-	-	UNC13B	10497	I	-	Other	testis	15342557	Kim	2004
+18	9	35174571	+	A	A	I	-	-	-	UNC13B	10497	I	-	Other	testis	15342557	Kim	2004
+18	9	35174644	+	A	A	I	-	-	-	UNC13B	10497	I	-	Other	testis	15342557	Kim	2004
+18	9	35174646	+	A	A	I	-	-	-	UNC13B	10497	I	-	Other	testis	15342557	Kim	2004
+18	9	35751889	+	A	A	I	-	-	-	-	-	O	-	SINE	eye, retinoblastoma	15342557	Kim	2004
+18	9	35753632	+	A	A	I	-	-	-	-	-	O	-	SINE	eye, retinoblastoma	15342557	Kim	2004
+18	9	35753650	+	A	A	I	-	-	-	-	-	O	-	SINE	eye, retinoblastoma	15342557	Kim	2004
+18	9	35753726	+	A	A	I	-	-	-	-	-	O	-	SINE	eye, retinoblastoma	15342557	Kim	2004
+18	9	35753732	+	A	A	I	-	-	-	-	-	O	-	SINE	eye, retinoblastoma	15342557	Kim	2004
+18	9	36205077	-	A	A	I	-	-	-	GNE	10020	E	3	SINE	liver	15342557	Kim	2004
+18	9	36205117	-	A	A	I	-	-	-	GNE	10020	E	3	SINE	-	15258596	Levanon	2004
+18	9	36205154	-	A	A	I	-	-	-	GNE	10020	E	3	SINE	liver	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36205199	-	A	A	I	-	-	-	GNE	10020	E	3	SINE	liver	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36205201	-	A	A	I	-	-	-	GNE	10020	E	3	SINE	liver	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36205211	-	A	A	I	-	-	-	GNE	10020	E	3	SINE	liver	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36205246	-	A	A	I	-	-	-	GNE	10020	E	3	SINE	-	15258596	Levanon	2004
+18	9	36249681	+	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15342557	Kim	2004
+18	9	36249694	+	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15342557	Kim	2004
+18	9	36249711	+	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15342557	Kim	2004
+18	9	36249722	+	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15342557	Kim	2004
+18	9	36249727	+	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15342557	Kim	2004
+18	9	36249751	+	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15342557	Kim	2004
+18	9	36249797	+	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15342557	Kim	2004
+18	9	36249799	+	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15342557	Kim	2004
+18	9	36249803	+	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15342557	Kim	2004
+18	9	36249805	+	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15342557	Kim	2004
+18	9	36249841	+	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15342557	Kim	2004
+18	9	36249920	+	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15342557	Kim	2004
+18	9	36249921	+	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15342557	Kim	2004
+18	9	36249927	+	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15342557	Kim	2004
+18	9	36249933	+	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15342557	Kim	2004
+18	9	36250620	+	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15342557	Kim	2004
+18	9	36250700	+	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15342557	Kim	2004
+18	9	36250719	+	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15342557	Kim	2004
+18	9	36250745	+	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15342557	Kim	2004
+18	9	36291612	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15342557	Kim	2004
+18	9	36291615	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15342557	Kim	2004
+18	9	36291652	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15342557	Kim	2004
+18	9	36291653	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15342557	Kim	2004
+18	9	36291658	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36291663	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36291668	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36291688	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36291714	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36291715	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36291722	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15342557	Kim	2004
+18	9	36291723	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15342557	Kim	2004
+18	9	36291794	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36291814	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36291823	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36291828	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36291829	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36291832	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36291833	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36291845	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36291854	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36291856	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36291859	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36291868	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36292145	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36292159	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36292167	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36292173	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36292203	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36292208	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36292221	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36292222	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36292239	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36292261	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36292264	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36292265	+	A	A	I	rs10972833	-	by-2hit-2allele	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36292271	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36292304	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36292313	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36292320	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15342557	Kim	2004
+18	9	36292330	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36292345	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36292352	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15342557	Kim	2004
+18	9	36292374	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36292562	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36292570	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36292583	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36292608	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36292609	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36292612	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36292621	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36292626	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36294180	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	36294184	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	36294189	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	36294220	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36294224	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36294246	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36294247	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36294279	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36294288	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36294312	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	36294317	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36294357	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36294371	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	36942242	-	A	A	I	-	-	-	PAX5	5079	I	-	SINE	lymph node	15342557	Kim	2004
+18	9	36942309	-	A	A	I	-	-	-	PAX5	5079	I	-	SINE	lymph node	15342557	Kim	2004
+18	9	36942333	-	A	A	I	-	-	-	PAX5	5079	I	-	SINE	lymph node	15342557	Kim	2004
+18	9	36942334	-	A	A	I	-	-	-	PAX5	5079	I	-	SINE	lymph node	15342557	Kim	2004
+18	9	36942352	-	A	A	I	-	-	-	PAX5	5079	I	-	SINE	lymph node	15342557	Kim	2004
+18	9	36942385	-	A	A	I	rs7027052	-	by-cluster,by-2hit-2allele,by-1000genomes	PAX5	5079	I	-	SINE	lymph node	15342557	Kim	2004
+18	9	36942393	-	A	A	I	-	-	-	PAX5	5079	I	-	SINE	lymph node	15342557	Kim	2004
+18	9	36942419	-	A	A	I	-	-	-	PAX5	5079	I	-	SINE	lymph node	15342557	Kim	2004
+18	9	36942556	-	A	A	I	rs7855205	-	by-cluster,by-frequency,by-2hit-2allele,by-hapmap,by-1000genomes	PAX5	5079	I	-	LINE	lymph node	15342557	Kim	2004
+18	9	36943002	-	A	A	I	rs4645623	-	by-cluster,by-1000genomes	PAX5	5079	I	-	LINE	lymph node	15342557	Kim	2004
+18	9	36943913	-	A	A	I	-	-	-	PAX5	5079	I	-	SINE	lymph node	15342557	Kim	2004
+18	9	36943969	-	A	A	I	-	-	-	PAX5	5079	I	-	SINE	lymph node	15342557	Kim	2004
+18	9	36944012	-	A	A	I	-	-	-	PAX5	5079	I	-	SINE	lymph node	15342557	Kim	2004
+18	9	36944017	-	A	A	I	-	-	-	PAX5	5079	I	-	SINE	lymph node	15342557	Kim	2004
+18	9	36944025	-	A	A	I	-	-	-	PAX5	5079	I	-	SINE	lymph node	15342557	Kim	2004
+18	9	36944036	-	A	A	I	-	-	-	PAX5	5079	I	-	SINE	lymph node	15342557	Kim	2004
+18	9	36944042	-	A	A	I	-	-	-	PAX5	5079	I	-	SINE	lymph node	15342557	Kim	2004
+18	9	36946813	-	A	A	I	rs2039217	-	by-cluster,by-frequency,by-2hit-2allele,by-hapmap,by-1000genomes	PAX5	5079	I	-	-	lymph node	15342557	Kim	2004
+18	9	36947633	-	A	A	I	rs7876045	-	by-cluster,by-frequency,by-2hit-2allele,by-hapmap,by-1000genomes	PAX5	5079	I	-	-	lymph node	15342557	Kim	2004
+18	9	36947887	-	A	A	I	rs10733484	-	by-cluster,by-frequency,by-2hit-2allele,by-hapmap,by-1000genomes	PAX5	5079	I	-	LINE	lymph node	15342557	Kim	2004
+18	9	37152855	+	A	A	I	-	-	-	ZCCHC7	84186	I	-	SINE	-	15258596	Levanon	2004
+18	9	37152869	+	A	A	I	-	-	-	ZCCHC7	84186	I	-	SINE	-	15258596	Levanon	2004
+18	9	37152891	+	A	A	I	-	-	-	ZCCHC7	84186	I	-	SINE	-	15258596	Levanon	2004
+18	9	37152950	+	A	A	I	-	-	-	ZCCHC7	84186	I	-	SINE	-	15258596	Levanon	2004
+18	9	37153036	+	A	A	I	-	-	-	ZCCHC7	84186	I	-	SINE	-	15258596	Levanon	2004
+18	9	37153038	+	A	A	I	-	-	-	ZCCHC7	84186	I	-	SINE	-	15258596	Levanon	2004
+18	9	37153051	+	A	A	I	-	-	-	ZCCHC7	84186	I	-	SINE	-	15258596	Levanon	2004
+18	9	37153055	+	A	A	I	-	-	-	ZCCHC7	84186	I	-	SINE	-	15258596	Levanon	2004
+18	9	37153064	+	A	A	I	-	-	-	ZCCHC7	84186	I	-	SINE	-	15258596	Levanon	2004
+18	9	37153077	+	A	A	I	-	-	-	ZCCHC7	84186	I	-	SINE	-	15258596	Levanon	2004
+18	9	37153104	+	A	A	I	-	-	-	ZCCHC7	84186	I	-	SINE	-	15258596	Levanon	2004
+18	9	37153109	+	A	A	I	-	-	-	ZCCHC7	84186	I	-	SINE	-	15258596	Levanon	2004
+18	9	37493346	+	A	A	I	rs1128853	+	unknown	POLR1E	64425	E	3	SINE	lung	15342557	Kim	2004
+18	9	37493350	+	A	A	I	-	-	-	POLR1E	64425	E	3	SINE	lung	15342557	Kim	2004
+18	9	37493464	+	A	A	I	-	-	-	POLR1E	64425	E	3	SINE	lung	15342557	Kim	2004
+18	9	37493471	+	A	A	I	-	-	-	POLR1E	64425	E	3	SINE	lung	15342557	Kim	2004
+18	9	37493490	+	A	A	I	rs1128859	+	unknown	POLR1E	64425	E	3	SINE	lung	15342557	Kim	2004
+18	9	37500105	+	A	A	I	-	-	-	-	-	O	-	SINE	ovary, adenocarcinoma	15342557	Kim	2004
+18	9	37500179	+	A	A	I	rs1138837	+	unknown	-	-	O	-	SINE	ovary, adenocarcinoma	15342557	Kim	2004
+18	9	37500188	+	A	A	I	rs1138840	+	unknown	-	-	O	-	SINE	ovary, adenocarcinoma	15342557	Kim	2004
+18	9	37500192	+	A	A	I	rs1138841	+	unknown	-	-	O	-	SINE	ovary, adenocarcinoma	15342557	Kim	2004
+18	9	37500274	+	A	A	I	rs1138842	+	unknown	-	-	O	-	SINE	ovary, adenocarcinoma	15342557	Kim	2004
+18	9	37500297	+	A	A	I	rs1138843	+	unknown	-	-	O	-	SINE	ovary, adenocarcinoma	15342557	Kim	2004
+18	9	37579683	-	A	A	I	-	-	-	TOMM5	401505	I	-	SINE	esophageal, tumor tissue	15342557	Kim	2004
+18	9	37579737	-	A	A	I	-	-	-	TOMM5	401505	I	-	SINE	esophageal, tumor tissue	15342557	Kim	2004
+18	9	37579738	-	A	A	I	-	-	-	TOMM5	401505	I	-	SINE	esophageal, tumor tissue	15342557	Kim	2004
+18	9	37580187	-	A	A	I	-	-	-	TOMM5	401505	I	-	SINE	esophageal, tumor tissue	15342557	Kim	2004
+18	9	37580224	-	A	A	I	-	-	-	TOMM5	401505	I	-	SINE	esophageal, tumor tissue	15342557	Kim	2004
+18	9	37580317	-	A	A	I	-	-	-	TOMM5	401505	I	-	SINE	esophageal, tumor tissue	15342557	Kim	2004
+18	9	37580372	-	A	A	I	-	-	-	TOMM5	401505	I	-	SINE	esophageal, tumor tissue	15342557	Kim	2004
+18	9	37867584	-	A	A	I	-	-	-	MCART1	92014	E	3	SINE	amygdala	15342557	Kim	2004
+18	9	37867587	-	A	A	I	-	-	-	MCART1	92014	E	3	SINE	amygdala,brain	15342557	Kim	2004
+18	9	37867596	-	A	A	I	-	-	-	MCART1	92014	E	3	SINE	amygdala	15342557	Kim	2004
+18	9	37867642	-	A	A	I	-	-	-	MCART1	92014	E	3	SINE	amygdala	15342557	Kim	2004
+18	9	37867646	-	A	A	I	-	-	-	MCART1	92014	E	3	SINE	amygdala,brain	15342557	Kim	2004
+18	9	37867647	-	A	A	I	-	-	-	MCART1	92014	E	3	SINE	amygdala,brain	15342557	Kim	2004
+18	9	37867668	-	A	A	I	-	-	-	MCART1	92014	E	3	SINE	brain	15342557	Kim	2004
+18	9	37867748	-	A	A	I	-	-	-	MCART1	92014	E	3	SINE	brain	15342557	Kim	2004
+18	9	37867770	-	A	A	I	-	-	-	MCART1	92014	E	3	SINE	brain	15258596:15342557	Levanon:Kim	2004:2004
+18	9	37867802	-	A	A	I	-	-	-	MCART1	92014	E	3	SINE	amygdala	15342557	Kim	2004
+18	9	37867825	-	A	A	I	-	-	-	MCART1	92014	E	3	SINE	amygdala	15258596:15342557	Levanon:Kim	2004:2004
+18	9	37867833	-	A	A	I	-	-	-	MCART1	92014	E	3	SINE	amygdala	15258596:15342557	Levanon:Kim	2004:2004
+18	9	37867839	-	A	A	I	-	-	-	MCART1	92014	E	3	SINE	amygdala	15258596:15342557	Levanon:Kim	2004:2004
+18	9	37868888	-	A	A	I	-	-	-	MCART1	92014	E	3	SINE	amygdala	15258596:15342557	Levanon:Kim	2004:2004
+18	9	37870140	-	A	A	I	-	-	-	MCART1	92014	E	3	SINE	-	15258596	Levanon	2004
+18	9	37877231	-	A	A	I	-	-	-	MCART1	92014	I	-	SINE	-	15258596	Levanon	2004
+18	9	37877232	-	A	A	I	-	-	-	MCART1	92014	I	-	SINE	-	15258596	Levanon	2004
+18	9	37877270	-	A	A	I	-	-	-	MCART1	92014	I	-	SINE	-	15258596	Levanon	2004
+18	9	37900797	-	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15342557	Kim	2004
+18	9	37900828	-	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15342557	Kim	2004
+18	9	37900864	-	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15258596:15342557	Levanon:Kim	2004:2004
+18	9	37900869	-	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15258596:15342557	Levanon:Kim	2004:2004
+18	9	37900873	-	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15258596:15342557	Levanon:Kim	2004:2004
+18	9	37900884	-	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15258596:15342557	Levanon:Kim	2004:2004
+18	9	37900963	-	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15258596:15342557	Levanon:Kim	2004:2004
+18	9	37900964	-	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15258596:15342557	Levanon:Kim	2004:2004
+18	9	37902235	-	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15258596:15342557	Levanon:Kim	2004:2004
+18	9	37902249	-	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15258596:15342557	Levanon:Kim	2004:2004
+18	9	37902307	-	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15258596:15342557	Levanon:Kim	2004:2004
+18	9	37902339	-	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15258596:15342557	Levanon:Kim	2004:2004
+18	9	38534202	-	A	A	I	-	-	-	-	-	O	-	-	thymus	15342557	Kim	2004
+18	9	38534500	-	A	A	I	-	-	-	-	-	O	-	-	thymus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	38534538	-	A	A	I	-	-	-	-	-	O	-	-	thymus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	38534541	-	A	A	I	-	-	-	-	-	O	-	-	thymus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	38534548	-	A	A	I	-	-	-	-	-	O	-	-	thymus	15342557	Kim	2004
+18	9	38534565	-	A	A	I	-	-	-	-	-	O	-	-	thymus	15342557	Kim	2004
+18	9	38534575	-	A	A	I	-	-	-	-	-	O	-	-	thymus	15342557	Kim	2004
+18	9	38534585	-	A	A	I	-	-	-	-	-	O	-	-	thymus	15342557	Kim	2004
+18	9	38534603	-	A	A	I	-	-	-	-	-	O	-	-	thymus	15342557	Kim	2004
+18	9	38534622	-	A	A	I	-	-	-	-	-	O	-	-	thymus	15342557	Kim	2004
+18	9	42142775	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42142781	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42142782	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42142789	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42142817	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42142852	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42142867	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42142928	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42142937	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42142946	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42142962	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42142970	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42142975	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42142976	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42142979	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42142980	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143028	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143048	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143104	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143112	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143172	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143179	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143180	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143181	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143184	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143185	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143198	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143207	+	A	A	I	rs62550068	+	unknown	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143220	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143278	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143281	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143293	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143294	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143297	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143361	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143362	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143364	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143381	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143397	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143409	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143441	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143480	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143491	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143495	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143519	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143547	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143560	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143576	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143577	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143636	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143720	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143736	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143751	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143794	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42143795	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42144248	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42144364	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42144405	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42144406	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42144509	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42144546	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42144552	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42144553	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42144571	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42144644	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42144683	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42144689	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42144739	+	A	A	I	-	-	-	-	-	O	-	LINE	testis	15342557	Kim	2004
+18	9	42226944	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	43125062	+	A	A	I	rs3122726	-	by-cluster,by-2hit-2allele	-	-	O	-	-	amygdala	15342557	Kim	2004
+18	9	43125208	+	A	A	I	rs4540524	-	by-cluster,by-2hit-2allele	-	-	O	-	-	amygdala	15342557	Kim	2004
+18	9	43127028	+	A	A	I	rs4574958	-	by-2hit-2allele	-	-	O	-	SINE	amygdala	15342557	Kim	2004
+18	9	43127266	+	A	A	I	-	-	-	-	-	O	-	SINE	amygdala	15342557	Kim	2004
+18	9	43128057	+	A	A	I	-	-	-	-	-	O	-	SINE	amygdala	15342557	Kim	2004
+18	9	43128061	+	A	A	I	-	-	-	-	-	O	-	SINE	amygdala	15342557	Kim	2004
+18	9	43128062	+	A	A	I	-	-	-	-	-	O	-	SINE	amygdala	15342557	Kim	2004
+18	9	43128070	+	A	A	I	-	-	-	-	-	O	-	SINE	amygdala	15342557	Kim	2004
+18	9	43128177	+	A	A	I	-	-	-	-	-	O	-	SINE	amygdala	15342557	Kim	2004
+18	9	43128185	+	A	A	I	-	-	-	-	-	O	-	SINE	amygdala	15342557	Kim	2004
+18	9	43128186	+	A	A	I	-	-	-	-	-	O	-	SINE	amygdala	15342557	Kim	2004
+18	9	43128201	+	A	A	I	-	-	-	-	-	O	-	SINE	amygdala	15342557	Kim	2004
+18	9	43128397	+	A	A	I	rs3122729	-	by-2hit-2allele	-	-	O	-	LTR	amygdala	15342557	Kim	2004
+18	9	43128616	+	A	A	I	-	-	-	-	-	O	-	SINE	amygdala	15342557	Kim	2004
+18	9	43128617	+	A	A	I	-	-	-	-	-	O	-	SINE	amygdala	15342557	Kim	2004
+18	9	43128623	+	A	A	I	-	-	-	-	-	O	-	SINE	amygdala	15342557	Kim	2004
+18	9	43128638	+	A	A	I	-	-	-	-	-	O	-	SINE	amygdala	15342557	Kim	2004
+18	9	43128640	+	A	A	I	-	-	-	-	-	O	-	SINE	amygdala	15342557	Kim	2004
+18	9	43128748	+	A	A	I	rs3960044	+	unknown	-	-	O	-	SINE	amygdala	15342557	Kim	2004
+18	9	43128772	+	A	A	I	-	-	-	-	-	O	-	SINE	amygdala	15342557	Kim	2004
+18	9	44711040	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	44711082	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	44711101	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	44711106	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	44711107	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	44711112	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	44711121	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	44711134	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	44711148	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	44711158	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	44711178	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	44711197	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	44711210	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	44711225	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	44711227	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	45346366	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	45346369	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	45346380	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	45346411	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	45346571	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	66484265	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	66484290	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	66484293	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	66484311	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	66484315	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	66484347	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	66484357	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	66484362	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	66484363	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	66484377	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	66484383	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	66484411	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	66484454	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	66485251	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	66485279	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	66485297	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	66485331	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	66485347	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	66485348	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	66485351	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	66485379	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	66485402	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	66485438	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	66485452	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	66485457	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	66944659	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66946902	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66946966	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66946976	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947004	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947008	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947015	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947018	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947039	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947067	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947070	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947072	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947096	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947100	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947108	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947113	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947128	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947129	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947145	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947154	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947180	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947181	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947187	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947198	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947218	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947219	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947226	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947229	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947235	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947239	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947259	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947265	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947271	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947273	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947297	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947302	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947307	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947314	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947318	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947321	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947334	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947351	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947354	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947355	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947361	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947362	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947366	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947367	-	A	A	I	rs11522309	+	unknown	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947372	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947373	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947378	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947401	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947421	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947433	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947436	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947437	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947438	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947450	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947470	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947473	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	66947474	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	67049885	+	A	A	I	rs71222966	+	unknown	-	-	O	-	SINE	amygdala	15342557	Kim	2004
+18	9	67049897	+	A	A	I	-	-	-	-	-	O	-	SINE	amygdala	15342557	Kim	2004
+18	9	67049920	+	A	A	I	-	-	-	-	-	O	-	SINE	amygdala	15342557	Kim	2004
+18	9	67049934	+	A	A	I	-	-	-	-	-	O	-	SINE	amygdala	15342557	Kim	2004
+18	9	67049937	+	A	A	I	-	-	-	-	-	O	-	SINE	amygdala	15342557	Kim	2004
+18	9	67049938	+	A	A	I	-	-	-	-	-	O	-	SINE	amygdala	15342557	Kim	2004
+18	9	67049943	+	A	A	I	-	-	-	-	-	O	-	SINE	amygdala	15342557	Kim	2004
+18	9	67049992	+	A	A	I	-	-	-	-	-	O	-	SINE	amygdala	15342557	Kim	2004
+18	9	67050000	+	A	A	I	-	-	-	-	-	O	-	SINE	amygdala	15342557	Kim	2004
+18	9	67050005	+	A	A	I	-	-	-	-	-	O	-	SINE	amygdala	15342557	Kim	2004
+18	9	67050013	+	A	A	I	-	-	-	-	-	O	-	SINE	amygdala	15342557	Kim	2004
+18	9	68559476	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	68559482	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	68559567	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	69698689	-	A	A	I	-	-	-	CBWD5	220869	I	-	SINE	-	15342557	Kim	2004
+18	9	69698694	-	A	A	I	-	-	-	CBWD5	220869	I	-	SINE	-	15342557	Kim	2004
+18	9	69698716	-	A	A	I	-	-	-	CBWD5	220869	I	-	SINE	-	15342557	Kim	2004
+18	9	69698726	-	A	A	I	-	-	-	CBWD5	220869	I	-	SINE	-	15342557	Kim	2004
+18	9	69698775	-	A	A	I	-	-	-	CBWD5	220869	I	-	SINE	-	15342557	Kim	2004
+18	9	69698810	-	A	A	I	-	-	-	CBWD5	220869	I	-	SINE	-	15342557	Kim	2004
+18	9	69698823	-	A	A	I	-	-	-	CBWD5	220869	I	-	SINE	-	15342557	Kim	2004
+18	9	69731824	-	A	A	I	-	-	-	-	-	O	-	-	brain, hypothalamus	15342557	Kim	2004
+18	9	69732127	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69732135	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69732175	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69732189	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69732196	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69732207	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69733196	-	A	A	I	rs2065370	+	unknown	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69733215	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69733219	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69733224	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69733225	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69733228	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69733232	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69733241	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69733242	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69733268	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69733272	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69733273	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69733274	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69733277	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69733280	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69733281	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69733297	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69733307	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69733322	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69733323	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69733331	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69733339	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69733352	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69733361	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69733374	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69733375	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69734271	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69734284	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69734325	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69734335	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69734371	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69734388	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69734393	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69734406	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69734427	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69734445	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69734446	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69734480	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69734481	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	69735155	-	A	A	I	-	-	-	-	-	O	-	-	brain, hypothalamus	15342557	Kim	2004
+18	9	69737054	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	69737060	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	69737145	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	69739844	-	A	A	I	rs11790514	+	unknown	-	-	O	-	LTR	-	15342557	Kim	2004
+18	9	70039513	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	70039598	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	70039604	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	70914171	+	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	70914184	+	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	70914252	+	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	70914321	+	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	70914446	+	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	70970916	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	70970957	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	70970961	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	70971434	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	70971474	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	70971482	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	70971803	-	A	A	I	rs10869956	-	by-2hit-2allele,by-1000genomes	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	71266031	-	A	A	I	-	-	-	APBA1	320	I	-	-	cerebellum	19478186	Li JB	2008
+18	9	73805594	+	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	73805604	+	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	73805610	+	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	73805620	+	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	73805639	+	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	73805644	+	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	73805647	+	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	73805653	+	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	73805661	+	A	A	I	-	-	-	-	-	O	-	SINE	brain	15545495	Blow	2004
+18	9	74161072	-	A	A	I	-	-	-	ZFAND5	7763	I	-	-	frontal lobe	19478186	Li JB	2008
+18	9	76567453	-	A	A	I	-	-	-	TRPM6	140803	E	C	-	small intestine	19478186	Li JB	2008
+18	9	76973432	+	A	A	I	-	-	-	-	-	O	-	SINE	cerebellum	15342557	Kim	2004
+18	9	76973438	+	A	A	I	-	-	-	-	-	O	-	SINE	cerebellum	15342557	Kim	2004
+18	9	76973446	+	A	A	I	-	-	-	-	-	O	-	SINE	cerebellum	15342557	Kim	2004
+18	9	76973503	+	A	A	I	-	-	-	-	-	O	-	SINE	cerebellum	15342557	Kim	2004
+18	9	76973510	+	A	A	I	-	-	-	-	-	O	-	SINE	cerebellum	15342557	Kim	2004
+18	9	78999924	+	A	A	I	-	-	-	VPS13A	23230	I	-	SINE	adrenal gland	15342557	Kim	2004
+18	9	78999989	+	A	A	I	-	-	-	VPS13A	23230	I	-	SINE	adrenal gland	15342557	Kim	2004
+18	9	79000294	+	A	A	I	-	-	-	VPS13A	23230	I	-	SINE	adrenal gland	15342557	Kim	2004
+18	9	79000326	+	A	A	I	-	-	-	VPS13A	23230	I	-	SINE	adrenal gland	15342557	Kim	2004
+18	9	79000353	+	A	A	I	-	-	-	VPS13A	23230	I	-	SINE	adrenal gland	15342557	Kim	2004
+18	9	85116652	-	A	A	I	-	-	-	FRMD3	257019	E	C	-	cerebellum	19478186	Li JB	2008
+18	9	85431183	+	A	A	I	-	-	-	C9orf103	414328	I	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	85431226	+	A	A	I	-	-	-	C9orf103	414328	I	-	SINE	brain, hypothalamus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	85431251	+	A	A	I	-	-	-	C9orf103	414328	I	-	SINE	brain, hypothalamus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	85431252	+	A	A	I	-	-	-	C9orf103	414328	I	-	SINE	brain, hypothalamus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	85431269	+	A	A	I	-	-	-	C9orf103	414328	I	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	85431282	+	A	A	I	-	-	-	C9orf103	414328	I	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	85431313	+	A	A	I	-	-	-	C9orf103	414328	I	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	85431317	+	A	A	I	-	-	-	C9orf103	414328	I	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	85431318	+	A	A	I	-	-	-	C9orf103	414328	I	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	85431352	+	A	A	I	-	-	-	C9orf103	414328	I	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	85431366	+	A	A	I	-	-	-	C9orf103	414328	I	-	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	85431387	+	A	A	I	-	-	-	C9orf103	414328	I	-	SINE	brain, hypothalamus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	85639498	-	A	A	I	-	-	-	-	-	O	-	-	-	15258596	Levanon	2004
+18	9	85639499	-	A	A	I	-	-	-	-	-	O	-	-	-	15258596	Levanon	2004
+18	9	85639506	-	A	A	I	-	-	-	-	-	O	-	-	-	15258596	Levanon	2004
+18	9	85639549	-	A	A	I	-	-	-	-	-	O	-	Simple_repeat	-	15258596	Levanon	2004
+18	9	86536788	+	A	A	I	-	-	-	NTRK2	4915	I	-	-	kidney	19478186	Li JB	2008
+18	9	87646062	+	A	A	I	-	-	-	LOC389765	389765	I	-	SINE	-	15258596	Levanon	2004
+18	9	87646121	+	A	A	I	-	-	-	LOC389765	389765	I	-	SINE	-	15258596	Levanon	2004
+18	9	87646130	+	A	A	I	-	-	-	LOC389765	389765	I	-	SINE	-	15258596	Levanon	2004
+18	9	88047482	-	A	A	I	-	-	-	C9orf153	389766	I	-	SINE	hippocampus	15342557	Kim	2004
+18	9	88047511	-	A	A	I	-	-	-	C9orf153	389766	I	-	SINE	hippocampus	15342557	Kim	2004
+18	9	88047538	-	A	A	I	-	-	-	C9orf153	389766	I	-	SINE	hippocampus	15342557	Kim	2004
+18	9	88047551	-	A	A	I	-	-	-	C9orf153	389766	I	-	SINE	hippocampus	15342557	Kim	2004
+18	9	88047552	-	A	A	I	-	-	-	C9orf153	389766	I	-	SINE	hippocampus	15342557	Kim	2004
+18	9	88047589	-	A	A	I	-	-	-	C9orf153	389766	I	-	SINE	hippocampus	15342557	Kim	2004
+18	9	88047607	-	A	A	I	-	-	-	C9orf153	389766	I	-	SINE	hippocampus	15342557	Kim	2004
+18	9	88047608	-	A	A	I	-	-	-	C9orf153	389766	I	-	SINE	hippocampus	15342557	Kim	2004
+18	9	88047609	-	A	A	I	-	-	-	C9orf153	389766	I	-	SINE	hippocampus	15342557	Kim	2004
+18	9	88047615	-	A	A	I	-	-	-	C9orf153	389766	I	-	SINE	hippocampus	15342557	Kim	2004
+18	9	88047641	-	A	A	I	-	-	-	C9orf153	389766	I	-	SINE	hippocampus	15342557	Kim	2004
+18	9	88047651	-	A	A	I	-	-	-	C9orf153	389766	I	-	SINE	hippocampus	15342557	Kim	2004
+18	9	90216275	+	A	A	I	-	-	-	SPIN1	10927	I	-	SINE	retina	15342557	Kim	2004
+18	9	90216280	+	A	A	I	-	-	-	SPIN1	10927	I	-	SINE	retina	15342557	Kim	2004
+18	9	90216297	+	A	A	I	-	-	-	SPIN1	10927	I	-	SINE	retina	15342557	Kim	2004
+18	9	90217505	+	A	A	I	-	-	-	SPIN1	10927	I	-	SINE	retina	15342557	Kim	2004
+18	9	90217531	+	A	A	I	-	-	-	SPIN1	10927	I	-	SINE	retina	15342557	Kim	2004
+18	9	90217548	+	A	A	I	-	-	-	SPIN1	10927	I	-	SINE	retina	15342557	Kim	2004
+18	9	90217585	+	A	A	I	-	-	-	SPIN1	10927	I	-	SINE	retina	15342557	Kim	2004
+18	9	90217593	+	A	A	I	-	-	-	SPIN1	10927	I	-	SINE	retina	15342557	Kim	2004
+18	9	90217608	+	A	A	I	-	-	-	SPIN1	10927	I	-	SINE	retina	15342557	Kim	2004
+18	9	90217647	+	A	A	I	-	-	-	SPIN1	10927	I	-	SINE	retina	15342557	Kim	2004
+18	9	90217881	+	A	A	I	-	-	-	SPIN1	10927	I	-	SINE	retina	15342557	Kim	2004
+18	9	90217895	+	A	A	I	-	-	-	SPIN1	10927	I	-	SINE	retina	15342557	Kim	2004
+18	9	90218212	+	A	A	I	-	-	-	SPIN1	10927	I	-	SINE	retina	15342557	Kim	2004
+18	9	90218334	+	A	A	I	-	-	-	SPIN1	10927	I	-	SINE	retina	15342557	Kim	2004
+18	9	92689609	+	A	A	I	-	-	-	SYK	6850	I	-	SINE	brain	15342557	Kim	2004
+18	9	92689635	+	A	A	I	-	-	-	SYK	6850	I	-	SINE	brain	15342557	Kim	2004
+18	9	92689645	+	A	A	I	-	-	-	SYK	6850	I	-	SINE	brain	15342557	Kim	2004
+18	9	92689674	+	A	A	I	-	-	-	SYK	6850	I	-	SINE	brain	15342557	Kim	2004
+18	9	92689690	+	A	A	I	-	-	-	SYK	6850	I	-	SINE	brain	15342557	Kim	2004
+18	9	92689692	+	A	A	I	-	-	-	SYK	6850	I	-	SINE	brain	15342557	Kim	2004
+18	9	92689758	+	A	A	I	-	-	-	SYK	6850	I	-	SINE	brain	15342557	Kim	2004
+18	9	92692464	+	A	A	I	-	-	-	SYK	6850	I	-	-	brain	15342557	Kim	2004
+18	9	93070581	-	A	A	I	-	-	-	AUH	549	I	-	SINE	-	15258596	Levanon	2004
+18	9	93070672	-	A	A	I	-	-	-	AUH	549	I	-	SINE	-	15258596	Levanon	2004
+18	9	93070685	-	A	A	I	-	-	-	AUH	549	I	-	SINE	-	15258596	Levanon	2004
+18	9	93070726	-	A	A	I	-	-	-	AUH	549	I	-	SINE	-	15258596	Levanon	2004
+18	9	93070727	-	A	A	I	-	-	-	AUH	549	I	-	SINE	-	15258596	Levanon	2004
+18	9	93881264	-	A	A	I	rs1135526	+	unknown	SPTLC1	10558	E	3	SINE	brain, glioblastoma	15342557	Kim	2004
+18	9	93881268	-	A	A	I	-	-	-	SPTLC1	10558	E	3	SINE	brain, glioblastoma	15342557	Kim	2004
+18	9	93881316	-	A	A	I	-	-	-	SPTLC1	10558	E	3	SINE	brain, glioblastoma	15258596:15342557	Levanon:Kim	2004:2004
+18	9	93881317	-	A	A	I	rs1135525	+	unknown	SPTLC1	10558	E	3	SINE	brain, glioblastoma	15258596:15342557	Levanon:Kim	2004:2004
+18	9	93881323	-	A	A	I	rs1135524	+	unknown	SPTLC1	10558	E	3	SINE	brain, glioblastoma	15258596:15342557	Levanon:Kim	2004:2004
+18	9	93881372	-	A	A	I	-	-	-	SPTLC1	10558	E	3	SINE	-	15258596	Levanon	2004
+18	9	93881435	-	A	A	I	-	-	-	SPTLC1	10558	E	3	SINE	-	15258596	Levanon	2004
+18	9	93881470	-	A	A	I	-	-	-	SPTLC1	10558	E	3	SINE	-	15258596	Levanon	2004
+18	9	94433002	+	A	A	I	-	-	-	-	-	O	-	-	tongue, tumor tissue	15342557	Kim	2004
+18	9	94433363	+	A	A	I	-	-	-	-	-	O	-	SINE	tongue, tumor tissue	15258596:15342557	Levanon:Kim	2004:2004
+18	9	94433378	+	A	A	I	-	-	-	-	-	O	-	SINE	tongue, tumor tissue	15258596:15342557	Levanon:Kim	2004:2004
+18	9	94433425	+	A	A	I	-	-	-	-	-	O	-	SINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	94433428	+	A	A	I	-	-	-	-	-	O	-	SINE	tongue, tumor tissue	15258596:15342557	Levanon:Kim	2004:2004
+18	9	94433482	+	A	A	I	-	-	-	-	-	O	-	SINE	tongue, tumor tissue	15258596:15342557	Levanon:Kim	2004:2004
+18	9	94433488	+	A	A	I	-	-	-	-	-	O	-	SINE	tongue, tumor tissue	15258596:15342557	Levanon:Kim	2004:2004
+18	9	94434636	+	A	A	I	-	-	-	-	-	O	-	LINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	94435366	+	A	A	I	rs7863755	-	by-cluster,by-2hit-2allele,by-1000genomes	-	-	O	-	SINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	94643124	+	A	A	I	-	-	-	-	-	O	-	-	cerebellum	15342557	Kim	2004
+18	9	94643781	+	A	A	I	-	-	-	-	-	O	-	SINE	cerebellum	15342557	Kim	2004
+18	9	94643835	+	A	A	I	-	-	-	-	-	O	-	SINE	cerebellum	15342557	Kim	2004
+18	9	94645507	+	A	A	I	-	-	-	-	-	O	-	SINE	cerebellum	15342557	Kim	2004
+18	9	94645519	+	A	A	I	-	-	-	-	-	O	-	SINE	cerebellum	15342557	Kim	2004
+18	9	94849826	-	A	A	I	-	-	-	-	-	O	-	SINE	retina	15342557	Kim	2004
+18	9	94849835	-	A	A	I	-	-	-	-	-	O	-	SINE	retina	15342557	Kim	2004
+18	9	94849846	-	A	A	I	-	-	-	-	-	O	-	SINE	retina	15342557	Kim	2004
+18	9	94849847	-	A	A	I	-	-	-	-	-	O	-	SINE	retina	15342557	Kim	2004
+18	9	94849855	-	A	A	I	-	-	-	-	-	O	-	SINE	retina	15342557	Kim	2004
+18	9	94849873	-	A	A	I	-	-	-	-	-	O	-	SINE	retina	15342557	Kim	2004
+18	9	94849878	-	A	A	I	-	-	-	-	-	O	-	SINE	retina	15342557	Kim	2004
+18	9	94849887	-	A	A	I	-	-	-	-	-	O	-	SINE	retina	15342557	Kim	2004
+18	9	94849894	-	A	A	I	-	-	-	-	-	O	-	SINE	retina	15342557	Kim	2004
+18	9	94849901	-	A	A	I	-	-	-	-	-	O	-	SINE	retina	15342557	Kim	2004
+18	9	94849906	-	A	A	I	-	-	-	-	-	O	-	SINE	retina	15342557	Kim	2004
+18	9	94849914	-	A	A	I	-	-	-	-	-	O	-	SINE	retina	15342557	Kim	2004
+18	9	94849917	-	A	A	I	-	-	-	-	-	O	-	SINE	retina	15342557	Kim	2004
+18	9	94849918	-	A	A	I	-	-	-	-	-	O	-	SINE	retina	15342557	Kim	2004
+18	9	94849923	-	A	A	I	-	-	-	-	-	O	-	SINE	retina	15342557	Kim	2004
+18	9	94849955	-	A	A	I	-	-	-	-	-	O	-	SINE	retina	15342557	Kim	2004
+18	9	94850053	-	A	A	I	-	-	-	-	-	O	-	LTR	retina	15342557	Kim	2004
+18	9	94850059	-	A	A	I	-	-	-	-	-	O	-	LTR	retina	15342557	Kim	2004
+18	9	94850060	-	A	A	I	-	-	-	-	-	O	-	LTR	retina	15342557	Kim	2004
+18	9	94850419	-	A	A	I	-	-	-	-	-	O	-	SINE	retina	15342557	Kim	2004
+18	9	94850422	-	A	A	I	-	-	-	-	-	O	-	SINE	retina	15342557	Kim	2004
+18	9	94850425	-	A	A	I	-	-	-	-	-	O	-	SINE	retina	15342557	Kim	2004
+18	9	94850442	-	A	A	I	-	-	-	-	-	O	-	SINE	retina	15342557	Kim	2004
+18	9	94850454	-	A	A	I	-	-	-	-	-	O	-	SINE	retina	15342557	Kim	2004
+18	9	94850485	-	A	A	I	-	-	-	-	-	O	-	SINE	retina	15342557	Kim	2004
+18	9	94850489	-	A	A	I	-	-	-	-	-	O	-	SINE	retina	15342557	Kim	2004
+18	9	94850557	-	A	A	I	-	-	-	-	-	O	-	SINE	retina	15342557	Kim	2004
+18	9	94850559	-	A	A	I	-	-	-	-	-	O	-	SINE	retina	15342557	Kim	2004
+18	9	94850561	-	A	A	I	-	-	-	-	-	O	-	SINE	retina	15342557	Kim	2004
+18	9	94850623	-	A	A	I	-	-	-	-	-	O	-	SINE	retina	15342557	Kim	2004
+18	9	94850692	-	A	A	I	-	-	-	-	-	O	-	LTR	retina	15342557	Kim	2004
+18	9	94853611	-	A	A	I	-	-	-	-	-	O	-	SINE	retina	15342557	Kim	2004
+18	9	95246989	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	95246990	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	95247272	-	A	A	I	-	-	-	-	-	O	-	-	-	15258596	Levanon	2004
+18	9	95364988	+	A	A	I	-	-	-	FAM120A	23196	I	-	SINE	lung	15342557	Kim	2004
+18	9	95365002	+	A	A	I	-	-	-	FAM120A	23196	I	-	SINE	lung	15342557	Kim	2004
+18	9	95365030	+	A	A	I	-	-	-	FAM120A	23196	I	-	SINE	lung	15342557	Kim	2004
+18	9	95365044	+	A	A	I	-	-	-	FAM120A	23196	I	-	SINE	lung	15342557	Kim	2004
+18	9	95365058	+	A	A	I	-	-	-	FAM120A	23196	I	-	SINE	lung	15342557	Kim	2004
+18	9	95366244	+	A	A	I	-	-	-	FAM120A	23196	I	-	-	lung	15342557	Kim	2004
+18	9	95366557	+	A	A	I	-	-	-	FAM120A	23196	E	C	-	lung	15342557	Kim	2004
+18	9	96095581	+	A	A	I	-	-	-	ZNF169	169841	I	-	SINE	brain, hippocampus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	96095660	+	A	A	I	-	-	-	ZNF169	169841	I	-	SINE	brain, hippocampus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	96095686	+	A	A	I	-	-	-	ZNF169	169841	I	-	SINE	brain, hippocampus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	96095704	+	A	A	I	-	-	-	ZNF169	169841	I	-	SINE	-	15258596	Levanon	2004
+18	9	96095721	+	A	A	I	-	-	-	ZNF169	169841	I	-	SINE	brain, hippocampus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	96095726	+	A	A	I	-	-	-	ZNF169	169841	I	-	SINE	brain, hippocampus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	96095762	+	A	A	I	-	-	-	ZNF169	169841	I	-	SINE	brain, hippocampus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	96095785	+	A	A	I	-	-	-	ZNF169	169841	I	-	SINE	brain, hippocampus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	96096281	+	A	A	I	-	-	-	ZNF169	169841	I	-	SINE	brain, hippocampus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	96096293	+	A	A	I	-	-	-	ZNF169	169841	I	-	SINE	brain, hippocampus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	96096323	+	A	A	I	-	-	-	ZNF169	169841	I	-	SINE	brain, hippocampus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	96096357	+	A	A	I	-	-	-	ZNF169	169841	I	-	SINE	brain, hippocampus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	96096363	+	A	A	I	-	-	-	ZNF169	169841	I	-	SINE	brain, hippocampus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	96096364	+	A	A	I	-	-	-	ZNF169	169841	I	-	SINE	brain, hippocampus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	96096418	+	A	A	I	-	-	-	ZNF169	169841	I	-	SINE	brain, hippocampus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	96096430	+	A	A	I	-	-	-	ZNF169	169841	I	-	SINE	brain, hippocampus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	96097211	+	A	A	I	-	-	-	ZNF169	169841	I	-	SINE	brain, hippocampus	15342557	Kim	2004
+18	9	96097235	+	A	A	I	-	-	-	ZNF169	169841	I	-	SINE	brain, hippocampus	15342557	Kim	2004
+18	9	96097247	+	A	A	I	-	-	-	ZNF169	169841	I	-	SINE	brain, hippocampus	15342557	Kim	2004
+18	9	96097252	+	A	A	I	-	-	-	ZNF169	169841	I	-	SINE	brain, hippocampus	15342557	Kim	2004
+18	9	96097253	+	A	A	I	-	-	-	ZNF169	169841	I	-	SINE	brain, hippocampus	15342557	Kim	2004
+18	9	96097373	+	A	A	I	-	-	-	ZNF169	169841	I	-	SINE	brain, hippocampus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	96097388	+	A	A	I	-	-	-	ZNF169	169841	I	-	SINE	brain, hippocampus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	96098937	+	A	A	I	-	-	-	ZNF169	169841	I	-	SINE	bone marrow, chronic myelogenous leukemia	15342557	Kim	2004
+18	9	96098963	+	A	A	I	-	-	-	ZNF169	169841	I	-	SINE	bone marrow, chronic myelogenous leukemia	15342557	Kim	2004
+18	9	96098965	+	A	A	I	-	-	-	ZNF169	169841	I	-	SINE	bone marrow, chronic myelogenous leukemia	15342557	Kim	2004
+18	9	96098996	+	A	A	I	-	-	-	ZNF169	169841	I	-	SINE	bone marrow, chronic myelogenous leukemia	15342557	Kim	2004
+18	9	96099029	+	A	A	I	-	-	-	ZNF169	169841	I	-	SINE	bone marrow, chronic myelogenous leukemia	15342557	Kim	2004
+18	9	96099039	+	A	A	I	-	-	-	ZNF169	169841	I	-	SINE	bone marrow, chronic myelogenous leukemia	15342557	Kim	2004
+18	9	96152677	+	A	A	I	-	-	-	LOC100132077	100132077	I	-	LINE	-	15258596	Levanon	2004
+18	9	96924058	-	A	A	I	-	-	-	FANCC	2176	I	-	SINE	brain, neuroblastoma	15342557	Kim	2004
+18	9	96924072	-	A	A	I	-	-	-	FANCC	2176	I	-	SINE	brain, neuroblastoma	15342557	Kim	2004
+18	9	96924099	-	A	A	I	-	-	-	FANCC	2176	I	-	SINE	brain, neuroblastoma	15342557	Kim	2004
+18	9	96924101	-	A	A	I	-	-	-	FANCC	2176	I	-	SINE	brain, neuroblastoma	15342557	Kim	2004
+18	9	96925282	-	A	A	I	-	-	-	FANCC	2176	I	-	SINE	brain, neuroblastoma	15342557	Kim	2004
+18	9	96925284	-	A	A	I	-	-	-	FANCC	2176	I	-	SINE	brain, neuroblastoma	15342557	Kim	2004
+18	9	96925311	-	A	A	I	-	-	-	FANCC	2176	I	-	SINE	brain, neuroblastoma	15342557	Kim	2004
+18	9	96925437	-	A	A	I	rs881791	-	by-cluster,by-2hit-2allele,by-1000genomes	FANCC	2176	I	-	-	brain, neuroblastoma	15342557	Kim	2004
+18	9	96925484	-	A	A	I	-	-	-	FANCC	2176	I	-	SINE	brain, neuroblastoma	15342557	Kim	2004
+18	9	96925486	-	A	A	I	-	-	-	FANCC	2176	I	-	SINE	brain, neuroblastoma	15342557	Kim	2004
+18	9	96925500	-	A	A	I	-	-	-	FANCC	2176	I	-	SINE	brain, neuroblastoma	15342557	Kim	2004
+18	9	96925521	-	A	A	I	-	-	-	FANCC	2176	I	-	SINE	brain, neuroblastoma	15342557	Kim	2004
+18	9	96925525	-	A	A	I	-	-	-	FANCC	2176	I	-	SINE	brain, neuroblastoma	15342557	Kim	2004
+18	9	96925560	-	A	A	I	-	-	-	FANCC	2176	I	-	SINE	brain, neuroblastoma	15342557	Kim	2004
+18	9	96926107	-	A	A	I	-	-	-	FANCC	2176	I	-	SINE	brain, neuroblastoma	15342557	Kim	2004
+18	9	97644598	-	A	A	I	-	-	-	C9orf130	100128782	I	-	SINE	-	15342557	Kim	2004
+18	9	97644631	-	A	A	I	-	-	-	C9orf130	100128782	I	-	SINE	-	15342557	Kim	2004
+18	9	97644687	-	A	A	I	-	-	-	C9orf130	100128782	I	-	SINE	-	15342557	Kim	2004
+18	9	97644693	-	A	A	I	-	-	-	C9orf130	100128782	I	-	SINE	-	15342557	Kim	2004
+18	9	97644696	-	A	A	I	-	-	-	C9orf130	100128782	I	-	SINE	-	15342557	Kim	2004
+18	9	97644714	-	A	A	I	-	-	-	C9orf130	100128782	I	-	SINE	-	15342557	Kim	2004
+18	9	97644719	-	A	A	I	-	-	-	C9orf130	100128782	I	-	SINE	-	15342557	Kim	2004
+18	9	97644736	-	A	A	I	-	-	-	C9orf130	100128782	I	-	SINE	-	15342557	Kim	2004
+18	9	97644775	-	A	A	I	-	-	-	C9orf130	100128782	I	-	SINE	-	15342557	Kim	2004
+18	9	97644776	-	A	A	I	-	-	-	C9orf130	100128782	I	-	SINE	-	15342557	Kim	2004
+18	9	97644794	-	A	A	I	rs13289466	-	by-2hit-2allele	C9orf130	100128782	I	-	SINE	-	15342557	Kim	2004
+18	9	97644795	-	A	A	I	-	-	-	C9orf130	100128782	I	-	SINE	-	15342557	Kim	2004
+18	9	97644811	-	A	A	I	-	-	-	C9orf130	100128782	I	-	SINE	-	15342557	Kim	2004
+18	9	98288081	+	A	A	I	-	-	-	HABP4	22927	I	-	SINE	hippocampus	15342557	Kim	2004
+18	9	98288086	+	A	A	I	-	-	-	HABP4	22927	I	-	SINE	hippocampus	15342557	Kim	2004
+18	9	98288114	+	A	A	I	-	-	-	HABP4	22927	I	-	SINE	hippocampus	15342557	Kim	2004
+18	9	98288120	+	A	A	I	-	-	-	HABP4	22927	I	-	SINE	hippocampus	15342557	Kim	2004
+18	9	98288184	+	A	A	I	-	-	-	HABP4	22927	I	-	SINE	hippocampus	15342557	Kim	2004
+18	9	98288201	+	A	A	I	-	-	-	HABP4	22927	I	-	SINE	hippocampus	15342557	Kim	2004
+18	9	98288224	+	A	A	I	-	-	-	HABP4	22927	I	-	SINE	hippocampus	15342557	Kim	2004
+18	9	98288236	+	A	A	I	-	-	-	HABP4	22927	I	-	SINE	hippocampus	15342557	Kim	2004
+18	9	98288239	+	A	A	I	-	-	-	HABP4	22927	I	-	SINE	hippocampus	15342557	Kim	2004
+18	9	98288240	+	A	A	I	-	-	-	HABP4	22927	I	-	SINE	hippocampus	15342557	Kim	2004
+18	9	98340605	-	A	A	I	-	-	-	CDC14B	8555	I	-	SINE	-	15258596	Levanon	2004
+18	9	98340657	-	A	A	I	-	-	-	CDC14B	8555	I	-	SINE	-	15258596	Levanon	2004
+18	9	98340720	-	A	A	I	-	-	-	CDC14B	8555	I	-	SINE	-	15258596	Levanon	2004
+18	9	98340728	-	A	A	I	-	-	-	CDC14B	8555	I	-	SINE	-	15258596	Levanon	2004
+18	9	98709161	-	A	A	I	-	-	-	-	-	O	-	LINE	-	15258596	Levanon	2004
+18	9	98709323	-	A	A	I	-	-	-	-	-	O	-	LINE	-	15258596	Levanon	2004
+18	9	98709386	-	A	A	I	-	-	-	-	-	O	-	LINE	-	15258596	Levanon	2004
+18	9	98745608	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	98745635	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	98745647	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	98745699	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	98745702	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	98745819	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	99480231	-	A	A	I	rs2808703	-	by-cluster,by-frequency,by-2hit-2allele,by-1000genomes	XPA	7507	I	-	SINE	caudate nucleus	15342557	Kim	2004
+18	9	99480253	-	A	A	I	-	-	-	XPA	7507	I	-	SINE	caudate nucleus	15342557	Kim	2004
+18	9	99480287	-	A	A	I	-	-	-	XPA	7507	I	-	SINE	caudate nucleus	15342557	Kim	2004
+18	9	99480311	-	A	A	I	-	-	-	XPA	7507	I	-	SINE	caudate nucleus	15342557	Kim	2004
+18	9	99480319	-	A	A	I	-	-	-	XPA	7507	I	-	SINE	caudate nucleus	15342557	Kim	2004
+18	9	99480387	-	A	A	I	-	-	-	XPA	7507	I	-	SINE	caudate nucleus	15342557	Kim	2004
+18	9	99480395	-	A	A	I	-	-	-	XPA	7507	I	-	SINE	caudate nucleus	15342557	Kim	2004
+18	9	99480396	-	A	A	I	-	-	-	XPA	7507	I	-	SINE	caudate nucleus	15342557	Kim	2004
+18	9	99480493	-	A	A	I	-	-	-	XPA	7507	I	-	SINE	caudate nucleus	15342557	Kim	2004
+18	9	99877208	+	A	A	I	-	-	-	NANS	54187	I	-	SINE	tongue, tumor tissue	15258596:15342557	Levanon:Kim	2004:2004
+18	9	99877223	+	A	A	I	-	-	-	NANS	54187	I	-	SINE	tongue, tumor tissue	15258596:15342557	Levanon:Kim	2004:2004
+18	9	99877227	+	A	A	I	-	-	-	NANS	54187	I	-	SINE	tongue, tumor tissue	15258596:15342557	Levanon:Kim	2004:2004
+18	9	99877271	+	A	A	I	-	-	-	NANS	54187	I	-	SINE	tongue, tumor tissue	15258596:15342557	Levanon:Kim	2004:2004
+18	9	99877324	+	A	A	I	-	-	-	NANS	54187	I	-	SINE	tongue, tumor tissue	15258596:15342557	Levanon:Kim	2004:2004
+18	9	101808708	-	A	A	I	-	-	-	ERP44	23071	E	C	-	small intestine	19478186	Li JB	2008
+18	9	102192586	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	102192587	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	102192624	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	110845185	-	A	A	I	-	-	-	C9orf5	23731	I	-	-	whole embryo, mainly body	15342557	Kim	2004
+18	9	110845187	-	A	A	I	-	-	-	C9orf5	23731	I	-	-	whole embryo, mainly body	15342557	Kim	2004
+18	9	110845190	-	A	A	I	-	-	-	C9orf5	23731	I	-	-	whole embryo, mainly body	15342557	Kim	2004
+18	9	110845193	-	A	A	I	-	-	-	C9orf5	23731	I	-	-	whole embryo, mainly body	15342557	Kim	2004
+18	9	110845204	-	A	A	I	-	-	-	C9orf5	23731	I	-	-	whole embryo, mainly body	15342557	Kim	2004
+18	9	110845209	-	A	A	I	-	-	-	C9orf5	23731	I	-	-	whole embryo, mainly body	15342557	Kim	2004
+18	9	110845221	-	A	A	I	-	-	-	C9orf5	23731	I	-	-	whole embryo, mainly body	15342557	Kim	2004
+18	9	110845252	-	A	A	I	-	-	-	C9orf5	23731	I	-	-	whole embryo, mainly body	15342557	Kim	2004
+18	9	110845910	-	A	A	I	rs575200	-	by-cluster,by-frequency,by-submitter,by-2hit-2allele,by-hapmap,by-1000genomes	C9orf5	23731	I	-	-	whole embryo, mainly body	15342557	Kim	2004
+18	9	110961499	-	A	A	I	-	-	-	C9orf4	23732	I	-	SINE	brain	15342557	Kim	2004
+18	9	110961583	-	A	A	I	-	-	-	C9orf4	23732	I	-	SINE	brain	15342557	Kim	2004
+18	9	110961594	-	A	A	I	-	-	-	C9orf4	23732	I	-	SINE	brain	15342557	Kim	2004
+18	9	110961599	-	A	A	I	-	-	-	C9orf4	23732	I	-	SINE	brain	15342557	Kim	2004
+18	9	110961658	-	A	A	I	-	-	-	C9orf4	23732	I	-	SINE	brain	15342557	Kim	2004
+18	9	110961690	-	A	A	I	-	-	-	C9orf4	23732	I	-	SINE	brain	15342557	Kim	2004
+18	9	110961720	-	A	A	I	-	-	-	C9orf4	23732	I	-	SINE	brain	15342557	Kim	2004
+18	9	110962580	-	A	A	I	-	-	-	C9orf4	23732	I	-	SINE	brain	15342557	Kim	2004
+18	9	110962590	-	A	A	I	-	-	-	C9orf4	23732	I	-	SINE	brain	15342557	Kim	2004
+18	9	110962603	-	A	A	I	-	-	-	C9orf4	23732	I	-	SINE	brain	15342557	Kim	2004
+18	9	110962614	-	A	A	I	-	-	-	C9orf4	23732	I	-	SINE	brain	15342557	Kim	2004
+18	9	110962656	-	A	A	I	-	-	-	C9orf4	23732	I	-	SINE	brain	15342557	Kim	2004
+18	9	110962661	-	A	A	I	-	-	-	C9orf4	23732	I	-	SINE	brain	15342557	Kim	2004
+18	9	110962677	-	A	A	I	-	-	-	C9orf4	23732	I	-	SINE	brain	15342557	Kim	2004
+18	9	110962688	-	A	A	I	-	-	-	C9orf4	23732	I	-	SINE	brain	15342557	Kim	2004
+18	9	110962689	-	A	A	I	-	-	-	C9orf4	23732	I	-	SINE	brain	15342557	Kim	2004
+18	9	110962757	-	A	A	I	-	-	-	C9orf4	23732	I	-	SINE	brain	15342557	Kim	2004
+18	9	110962763	-	A	A	I	-	-	-	C9orf4	23732	I	-	SINE	brain	15342557	Kim	2004
+18	9	110962991	-	A	A	I	-	-	-	C9orf4	23732	I	-	SINE	brain	15342557	Kim	2004
+18	9	110963061	-	A	A	I	-	-	-	C9orf4	23732	I	-	SINE	brain	15342557	Kim	2004
+18	9	110963062	-	A	A	I	-	-	-	C9orf4	23732	I	-	SINE	brain	15342557	Kim	2004
+18	9	110963075	-	A	A	I	-	-	-	C9orf4	23732	I	-	SINE	brain	15342557	Kim	2004
+18	9	110963085	-	A	A	I	-	-	-	C9orf4	23732	I	-	SINE	brain	15342557	Kim	2004
+18	9	110963086	-	A	A	I	-	-	-	C9orf4	23732	I	-	SINE	brain	15342557	Kim	2004
+18	9	110963110	-	A	A	I	-	-	-	C9orf4	23732	I	-	SINE	brain	15342557	Kim	2004
+18	9	110963119	-	A	A	I	-	-	-	C9orf4	23732	I	-	SINE	brain	15342557	Kim	2004
+18	9	111940278	+	A	A	I	-	-	-	AKAP2	11217	E	C	-	corpus callosum	19478186	Li JB	2008
+18	9	112368199	-	A	A	I	-	-	-	SVEP1	79987	I	-	SINE	lymph node	15342557	Kim	2004
+18	9	112368202	-	A	A	I	-	-	-	SVEP1	79987	I	-	SINE	lymph node	15342557	Kim	2004
+18	9	112368216	-	A	A	I	-	-	-	SVEP1	79987	I	-	SINE	lymph node	15342557	Kim	2004
+18	9	112368227	-	A	A	I	-	-	-	SVEP1	79987	I	-	SINE	lymph node	15342557	Kim	2004
+18	9	112368253	-	A	A	I	-	-	-	SVEP1	79987	I	-	SINE	lymph node	15342557	Kim	2004
+18	9	112368263	-	A	A	I	-	-	-	SVEP1	79987	I	-	SINE	lymph node	15342557	Kim	2004
+18	9	112368285	-	A	A	I	-	-	-	SVEP1	79987	I	-	SINE	lymph node	15342557	Kim	2004
+18	9	112368301	-	A	A	I	-	-	-	SVEP1	79987	I	-	SINE	lymph node	15342557	Kim	2004
+18	9	112368303	-	A	A	I	-	-	-	SVEP1	79987	I	-	SINE	lymph node	15342557	Kim	2004
+18	9	112368311	-	A	A	I	-	-	-	SVEP1	79987	I	-	SINE	lymph node	15342557	Kim	2004
+18	9	112368316	-	A	A	I	-	-	-	SVEP1	79987	I	-	SINE	lymph node	15342557	Kim	2004
+18	9	112368373	-	A	A	I	-	-	-	SVEP1	79987	I	-	SINE	lymph node	15342557	Kim	2004
+18	9	112368376	-	A	A	I	-	-	-	SVEP1	79987	I	-	SINE	lymph node	15342557	Kim	2004
+18	9	112368379	-	A	A	I	-	-	-	SVEP1	79987	I	-	SINE	lymph node	15342557	Kim	2004
+18	9	112368389	-	A	A	I	-	-	-	SVEP1	79987	I	-	SINE	lymph node	15342557	Kim	2004
+18	9	112368397	-	A	A	I	-	-	-	SVEP1	79987	I	-	SINE	lymph node	15342557	Kim	2004
+18	9	113478078	+	A	A	I	-	-	-	-	-	O	-	SINE	fetal kidney	15342557	Kim	2004
+18	9	113478497	+	A	A	I	rs6477841	-	by-cluster,by-2hit-2allele,by-1000genomes	-	-	O	-	-	fetal kidney	15342557	Kim	2004
+18	9	113478624	+	A	A	I	-	-	-	-	-	O	-	-	fetal kidney	15342557	Kim	2004
+18	9	113478867	+	A	A	I	-	-	-	-	-	O	-	-	fetal kidney	15342557	Kim	2004
+18	9	113481271	+	A	A	I	rs4979035	-	by-cluster,by-2hit-2allele,by-1000genomes	-	-	O	-	DNA	fetal kidney	15342557	Kim	2004
+18	9	113481317	+	A	A	I	-	-	-	-	-	O	-	LINE	fetal kidney	15342557	Kim	2004
+18	9	113482402	+	A	A	I	-	-	-	-	-	O	-	SINE	fetal kidney	15342557	Kim	2004
+18	9	113482450	+	A	A	I	-	-	-	-	-	O	-	SINE	fetal kidney	15342557	Kim	2004
+18	9	113482454	+	A	A	I	-	-	-	-	-	O	-	SINE	fetal kidney	15342557	Kim	2004
+18	9	113482490	+	A	A	I	-	-	-	-	-	O	-	SINE	fetal kidney	15342557	Kim	2004
+18	9	113482525	+	A	A	I	-	-	-	-	-	O	-	SINE	fetal kidney	15342557	Kim	2004
+18	9	113482586	+	A	A	I	-	-	-	-	-	O	-	SINE	fetal kidney	15342557	Kim	2004
+18	9	113718589	+	A	A	I	-	-	-	UGCG	7357	I	-	-	tongue, tumor tissue	15342557	Kim	2004
+18	9	113718597	+	A	A	I	-	-	-	UGCG	7357	I	-	-	tongue, tumor tissue	15342557	Kim	2004
+18	9	113718664	+	A	A	I	-	-	-	UGCG	7357	I	-	SINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	113718716	+	A	A	I	-	-	-	UGCG	7357	I	-	SINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	113718767	+	A	A	I	-	-	-	UGCG	7357	I	-	SINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	113718788	+	A	A	I	-	-	-	UGCG	7357	I	-	SINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	113718802	+	A	A	I	-	-	-	UGCG	7357	I	-	SINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	113718806	+	A	A	I	-	-	-	UGCG	7357	I	-	SINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	113718814	+	A	A	I	-	-	-	UGCG	7357	I	-	SINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	113718991	+	A	A	I	-	-	-	UGCG	7357	I	-	SINE	tongue, tumor tissue	15258596:15342557	Levanon:Kim	2004:2004
+18	9	113719036	+	A	A	I	-	-	-	UGCG	7357	I	-	SINE	tongue, tumor tissue	15258596:15342557	Levanon:Kim	2004:2004
+18	9	113719113	+	A	A	I	-	-	-	UGCG	7357	I	-	-	tongue, tumor tissue	15258596:15342557	Levanon:Kim	2004:2004
+18	9	113719463	+	A	A	I	-	-	-	UGCG	7357	I	-	-	tongue, tumor tissue	15342557	Kim	2004
+18	9	113720196	+	A	A	I	-	-	-	UGCG	7357	I	-	SINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	113720199	+	A	A	I	-	-	-	UGCG	7357	I	-	SINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	113720204	+	A	A	I	-	-	-	UGCG	7357	I	-	SINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	113720206	+	A	A	I	-	-	-	UGCG	7357	I	-	SINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	113720207	+	A	A	I	-	-	-	UGCG	7357	I	-	SINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	113720243	+	A	A	I	-	-	-	UGCG	7357	I	-	SINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	113720247	+	A	A	I	-	-	-	UGCG	7357	I	-	SINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	113720260	+	A	A	I	-	-	-	UGCG	7357	I	-	SINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	113720271	+	A	A	I	-	-	-	UGCG	7357	I	-	SINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	113720272	+	A	A	I	-	-	-	UGCG	7357	I	-	SINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	113720315	+	A	A	I	-	-	-	UGCG	7357	I	-	SINE	tongue, tumor tissue	15258596:15342557	Levanon:Kim	2004:2004
+18	9	113720317	+	A	A	I	-	-	-	UGCG	7357	I	-	SINE	tongue, tumor tissue	15258596:15342557	Levanon:Kim	2004:2004
+18	9	113720405	+	A	A	I	-	-	-	UGCG	7357	I	-	SINE	tongue, tumor tissue	15258596:15342557	Levanon:Kim	2004:2004
+18	9	113720845	+	A	A	I	-	-	-	UGCG	7357	I	-	SINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	113720876	+	A	A	I	-	-	-	UGCG	7357	I	-	SINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	113720879	+	A	A	I	-	-	-	UGCG	7357	I	-	SINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	113720905	+	A	A	I	-	-	-	UGCG	7357	I	-	SINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	113720911	+	A	A	I	-	-	-	UGCG	7357	I	-	SINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	113720932	+	A	A	I	-	-	-	UGCG	7357	I	-	SINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	113720946	+	A	A	I	-	-	-	UGCG	7357	I	-	SINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	113720947	+	A	A	I	-	-	-	UGCG	7357	I	-	SINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	113720954	+	A	A	I	-	-	-	UGCG	7357	I	-	SINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	113720988	+	A	A	I	-	-	-	UGCG	7357	I	-	SINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	113721011	+	A	A	I	-	-	-	UGCG	7357	I	-	SINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	113838026	-	A	A	I	-	-	-	MIR3134	100422990	I	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	113838072	-	A	A	I	-	-	-	MIR3134	100422990	I	-	SINE	-	15258596	Levanon	2004
+18	9	113838092	-	A	A	I	-	-	-	MIR3134	100422990	I	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	113838124	-	A	A	I	-	-	-	MIR3134	100422990	I	-	SINE	-	15342557	Kim	2004
+18	9	113838135	-	A	A	I	-	-	-	MIR3134	100422990	I	-	SINE	-	15342557	Kim	2004
+18	9	113838141	-	A	A	I	-	-	-	MIR3134	100422990	I	-	SINE	-	15342557	Kim	2004
+18	9	113838150	-	A	A	I	-	-	-	MIR3134	100422990	I	-	SINE	-	15342557	Kim	2004
+18	9	113838168	-	A	A	I	-	-	-	MIR3134	100422990	I	-	SINE	-	15342557	Kim	2004
+18	9	113838177	-	A	A	I	-	-	-	MIR3134	100422990	I	-	SINE	-	15342557	Kim	2004
+18	9	113838227	-	A	A	I	-	-	-	MIR3134	100422990	I	-	SINE	-	15342557	Kim	2004
+18	9	114232003	+	A	A	I	-	-	-	HSDL2	84263	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	114232014	+	A	A	I	-	-	-	HSDL2	84263	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	114232070	+	A	A	I	-	-	-	HSDL2	84263	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	114232077	+	A	A	I	-	-	-	HSDL2	84263	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	114232086	+	A	A	I	-	-	-	HSDL2	84263	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	114232180	+	A	A	I	-	-	-	HSDL2	84263	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	114232945	+	A	A	I	-	-	-	HSDL2	84263	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	114232958	+	A	A	I	-	-	-	HSDL2	84263	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	114233061	+	A	A	I	-	-	-	HSDL2	84263	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	114233092	+	A	A	I	-	-	-	HSDL2	84263	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	114233103	+	A	A	I	-	-	-	HSDL2	84263	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	114233108	+	A	A	I	-	-	-	HSDL2	84263	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	114486454	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	114486488	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	114486542	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	114486546	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	114486571	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	114488765	-	A	A	I	-	-	-	C9orf80	58493	E	3	SINE	-	15258596	Levanon	2004
+18	9	114488766	-	A	A	I	-	-	-	C9orf80	58493	E	3	SINE	-	15258596	Levanon	2004
+18	9	114488800	-	A	A	I	-	-	-	C9orf80	58493	E	3	SINE	-	15258596	Levanon	2004
+18	9	114775650	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	114776061	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	114776063	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	114776236	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	114776305	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	114776420	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	114776504	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	114776571	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	114776770	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	114776780	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	114776844	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	114776936	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	114776998	-	A	A	I	-	-	-	-	-	O	-	LINE	hippocampus	15342557	Kim	2004
+18	9	114778268	-	A	A	I	-	-	-	-	-	O	-	SINE	hippocampus	15342557	Kim	2004
+18	9	114778280	-	A	A	I	-	-	-	-	-	O	-	SINE	hippocampus	15342557	Kim	2004
+18	9	114778281	-	A	A	I	-	-	-	-	-	O	-	SINE	hippocampus	15342557	Kim	2004
+18	9	114778314	-	A	A	I	-	-	-	-	-	O	-	SINE	hippocampus	15342557	Kim	2004
+18	9	114778333	-	A	A	I	-	-	-	-	-	O	-	SINE	hippocampus	15342557	Kim	2004
+18	9	114778359	-	A	A	I	-	-	-	-	-	O	-	SINE	hippocampus	15342557	Kim	2004
+18	9	114778403	-	A	A	I	-	-	-	-	-	O	-	SINE	hippocampus	15342557	Kim	2004
+18	9	114778415	-	A	A	I	-	-	-	-	-	O	-	SINE	hippocampus	15342557	Kim	2004
+18	9	114778425	-	A	A	I	-	-	-	-	-	O	-	SINE	hippocampus	15342557	Kim	2004
+18	9	114778442	-	A	A	I	-	-	-	-	-	O	-	SINE	hippocampus	15342557	Kim	2004
+18	9	114778496	-	A	A	I	-	-	-	-	-	O	-	SINE	hippocampus	15342557	Kim	2004
+18	9	114778964	-	A	A	I	-	-	-	-	-	O	-	LTR	hippocampus	15342557	Kim	2004
+18	9	114778986	-	A	A	I	-	-	-	-	-	O	-	LTR	hippocampus	15342557	Kim	2004
+18	9	114953876	+	A	A	I	-	-	-	SLC31A2	1318	I	-	SINE	-	15258596	Levanon	2004
+18	9	114953877	+	A	A	I	-	-	-	SLC31A2	1318	I	-	SINE	-	15258596	Levanon	2004
+18	9	114953881	+	A	A	I	-	-	-	SLC31A2	1318	I	-	SINE	-	15258596	Levanon	2004
+18	9	114953979	+	A	A	I	-	-	-	SLC31A2	1318	I	-	SINE	-	15258596	Levanon	2004
+18	9	114953984	+	A	A	I	-	-	-	SLC31A2	1318	I	-	SINE	-	15258596	Levanon	2004
+18	9	114961287	+	A	A	I	-	-	-	SLC31A2	1318	I	-	SINE	salivary gland	15342557	Kim	2004
+18	9	114961336	+	A	A	I	-	-	-	SLC31A2	1318	I	-	SINE	salivary gland	15342557	Kim	2004
+18	9	114961361	+	A	A	I	-	-	-	SLC31A2	1318	I	-	SINE	salivary gland	15342557	Kim	2004
+18	9	114961371	+	A	A	I	-	-	-	SLC31A2	1318	I	-	SINE	salivary gland	15342557	Kim	2004
+18	9	114961373	+	A	A	I	-	-	-	SLC31A2	1318	I	-	SINE	salivary gland	15342557	Kim	2004
+18	9	114961398	+	A	A	I	-	-	-	SLC31A2	1318	I	-	SINE	salivary gland	15342557	Kim	2004
+18	9	114961408	+	A	A	I	-	-	-	SLC31A2	1318	I	-	SINE	salivary gland	15342557	Kim	2004
+18	9	114962020	+	A	A	I	-	-	-	SLC31A2	1318	I	-	SINE	salivary gland	15342557	Kim	2004
+18	9	114962021	+	A	A	I	-	-	-	SLC31A2	1318	I	-	SINE	salivary gland	15342557	Kim	2004
+18	9	114962074	+	A	A	I	-	-	-	SLC31A2	1318	I	-	SINE	salivary gland	15342557	Kim	2004
+18	9	114962075	+	A	A	I	-	-	-	SLC31A2	1318	I	-	SINE	salivary gland	15342557	Kim	2004
+18	9	114962080	+	A	A	I	-	-	-	SLC31A2	1318	I	-	SINE	salivary gland	15342557	Kim	2004
+18	9	114962114	+	A	A	I	-	-	-	SLC31A2	1318	I	-	SINE	salivary gland	15342557	Kim	2004
+18	9	114962115	+	A	A	I	-	-	-	SLC31A2	1318	I	-	SINE	salivary gland	15342557	Kim	2004
+18	9	114962118	+	A	A	I	-	-	-	SLC31A2	1318	I	-	SINE	salivary gland	15342557	Kim	2004
+18	9	114962120	+	A	A	I	-	-	-	SLC31A2	1318	I	-	SINE	salivary gland	15342557	Kim	2004
+18	9	114962123	+	A	A	I	-	-	-	SLC31A2	1318	I	-	SINE	salivary gland	15342557	Kim	2004
+18	9	114962157	+	A	A	I	-	-	-	SLC31A2	1318	I	-	SINE	salivary gland	15342557	Kim	2004
+18	9	114962167	+	A	A	I	-	-	-	SLC31A2	1318	I	-	SINE	salivary gland	15342557	Kim	2004
+18	9	114972664	-	A	A	I	-	-	-	FKBP15	23307	E	C	-	frontal lobe	19478186	Li JB	2008
+18	9	115117956	-	A	A	I	-	-	-	WDR31	114987	E	3	SINE	-	15258596	Levanon	2004
+18	9	115117960	-	A	A	I	-	-	-	WDR31	114987	E	3	SINE	-	15258596	Levanon	2004
+18	9	115117993	-	A	A	I	rs7865438	-	by-cluster,by-frequency,by-hapmap,by-1000genomes	WDR31	114987	E	3	-	-	15258596	Levanon	2004
+18	9	116154268	-	A	A	I	-	-	-	AKNA	80709	I	-	LINE	adrenal gland	15342557	Kim	2004
+18	9	116154464	-	A	A	I	-	-	-	AKNA	80709	I	-	SINE	adrenal gland	15342557	Kim	2004
+18	9	116154481	-	A	A	I	-	-	-	AKNA	80709	I	-	SINE	adrenal gland	15342557	Kim	2004
+18	9	116154494	-	A	A	I	-	-	-	AKNA	80709	I	-	SINE	adrenal gland	15342557	Kim	2004
+18	9	116154495	-	A	A	I	-	-	-	AKNA	80709	I	-	SINE	adrenal gland	15342557	Kim	2004
+18	9	116154496	-	A	A	I	-	-	-	AKNA	80709	I	-	SINE	adrenal gland	15342557	Kim	2004
+18	9	116154502	-	A	A	I	-	-	-	AKNA	80709	I	-	SINE	adrenal gland	15342557	Kim	2004
+18	9	116154532	-	A	A	I	-	-	-	AKNA	80709	I	-	SINE	adrenal gland	15342557	Kim	2004
+18	9	116154535	-	A	A	I	-	-	-	AKNA	80709	I	-	SINE	adrenal gland	15342557	Kim	2004
+18	9	116154549	-	A	A	I	-	-	-	AKNA	80709	I	-	SINE	adrenal gland	15342557	Kim	2004
+18	9	116154550	-	A	A	I	-	-	-	AKNA	80709	I	-	SINE	adrenal gland	15342557	Kim	2004
+18	9	116154554	-	A	A	I	-	-	-	AKNA	80709	I	-	SINE	adrenal gland	15342557	Kim	2004
+18	9	116154604	-	A	A	I	-	-	-	AKNA	80709	I	-	SINE	adrenal gland	15342557	Kim	2004
+18	9	116154611	-	A	A	I	-	-	-	AKNA	80709	I	-	SINE	adrenal gland	15342557	Kim	2004
+18	9	116154615	-	A	A	I	-	-	-	AKNA	80709	I	-	SINE	adrenal gland	15342557	Kim	2004
+18	9	116154616	-	A	A	I	-	-	-	AKNA	80709	I	-	SINE	adrenal gland	15342557	Kim	2004
+18	9	116154622	-	A	A	I	-	-	-	AKNA	80709	I	-	SINE	adrenal gland	15342557	Kim	2004
+18	9	116154635	-	A	A	I	-	-	-	AKNA	80709	I	-	SINE	adrenal gland	15342557	Kim	2004
+18	9	116154646	-	A	A	I	-	-	-	AKNA	80709	I	-	SINE	adrenal gland	15342557	Kim	2004
+18	9	116154654	-	A	A	I	-	-	-	AKNA	80709	I	-	SINE	adrenal gland	15342557	Kim	2004
+18	9	116154660	-	A	A	I	-	-	-	AKNA	80709	I	-	SINE	adrenal gland	15342557	Kim	2004
+18	9	116154696	-	A	A	I	-	-	-	AKNA	80709	I	-	SINE	adrenal gland	15342557	Kim	2004
+18	9	116154953	-	A	A	I	-	-	-	AKNA	80709	I	-	SINE	adrenal gland	15342557	Kim	2004
+18	9	121877181	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15342557	Kim	2004
+18	9	121877188	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15342557	Kim	2004
+18	9	121877228	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15342557	Kim	2004
+18	9	121877234	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15342557	Kim	2004
+18	9	121877272	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15342557	Kim	2004
+18	9	121877275	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15342557	Kim	2004
+18	9	121877278	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15342557	Kim	2004
+18	9	121877297	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15342557	Kim	2004
+18	9	121877368	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15342557	Kim	2004
+18	9	121877369	-	A	A	I	-	-	-	-	-	O	-	SINE	brain	15342557	Kim	2004
+18	9	121878042	-	A	A	I	-	-	-	-	-	O	-	LINE	brain	15342557	Kim	2004
+18	9	122403354	-	A	A	I	rs10616	-	by-cluster,by-frequency,by-submitter,by-2hit-2allele,by-hapmap,by-1000genomes	MEGF9	1955	E	3	-	brain	15342557	Kim	2004
+18	9	122404026	-	A	A	I	-	-	-	MEGF9	1955	E	3	-	brain	15342557	Kim	2004
+18	9	122404181	-	A	A	I	-	-	-	MEGF9	1955	E	3	SINE	brain	15342557	Kim	2004
+18	9	122404194	-	A	A	I	-	-	-	MEGF9	1955	E	3	SINE	brain	15342557	Kim	2004
+18	9	122404211	-	A	A	I	-	-	-	MEGF9	1955	E	3	SINE	brain	15342557	Kim	2004
+18	9	122404237	-	A	A	I	-	-	-	MEGF9	1955	E	3	SINE	brain	15342557	Kim	2004
+18	9	122404247	-	A	A	I	-	-	-	MEGF9	1955	E	3	SINE	brain	15342557	Kim	2004
+18	9	122699860	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	122699861	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	122699898	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	122699920	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	122699956	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	122699966	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	122700002	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	122700021	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	123085466	+	A	A	I	-	-	-	GSN	2934	E	5	SINE	-	15258596	Levanon	2004
+18	9	123085471	+	A	A	I	-	-	-	GSN	2934	E	5	SINE	-	15258596	Levanon	2004
+18	9	123085477	+	A	A	I	-	-	-	GSN	2934	E	5	SINE	-	15258596	Levanon	2004
+18	9	123586205	+	A	A	I	-	-	-	DAB2IP	153090	E	3	-	small intestine	19478186	Li JB	2008
+18	9	124132761	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	124132810	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	124132955	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	124132979	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	124132987	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	124133003	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	124676055	-	A	A	I	-	-	-	RC3H2	54542	I	-	SINE	-	15258596	Levanon	2004
+18	9	124676056	-	A	A	I	-	-	-	RC3H2	54542	I	-	SINE	-	15258596	Levanon	2004
+18	9	124676819	-	A	A	I	-	-	-	RC3H2	54542	I	-	SINE	-	15258596	Levanon	2004
+18	9	124676893	-	A	A	I	-	-	-	RC3H2	54542	I	-	SINE	-	15258596	Levanon	2004
+18	9	124912812	-	A	A	I	-	-	-	NCRNA00287	81571	E	3	-	frontal lobe	19478186	Li JB	2008
+18	9	124913672	-	A	A	I	-	-	-	MIR600	693185	E	3	-	brain	18684997	Kawahara	2008
+18	9	124914501	-	A	A	I	-	-	-	NCRNA00287	81571	E	3	-	frontal lobe	19478186	Li JB	2008
+18	9	124927513	-	A	A	I	rs72146423	+	unknown	STRBP	55342	E	3	-	small intestine	19478186	Li JB	2008
+18	9	125008841	-	A	A	I	-	-	-	STRBP	55342	I	-	SINE	kidney	15342557	Kim	2004
+18	9	125008863	-	A	A	I	-	-	-	STRBP	55342	I	-	SINE	kidney	15342557	Kim	2004
+18	9	125008876	-	A	A	I	-	-	-	STRBP	55342	I	-	SINE	kidney	15342557	Kim	2004
+18	9	125008877	-	A	A	I	-	-	-	STRBP	55342	I	-	SINE	kidney	15342557	Kim	2004
+18	9	125008911	-	A	A	I	-	-	-	STRBP	55342	I	-	SINE	kidney	15342557	Kim	2004
+18	9	125008913	-	A	A	I	-	-	-	STRBP	55342	I	-	SINE	kidney	15342557	Kim	2004
+18	9	125008941	-	A	A	I	-	-	-	STRBP	55342	I	-	SINE	kidney	15342557	Kim	2004
+18	9	125008945	-	A	A	I	-	-	-	STRBP	55342	I	-	SINE	kidney	15342557	Kim	2004
+18	9	125172441	+	A	A	I	-	-	-	CRB2	286204	E	C	-	cerebellum	19478186	Li JB	2008
+18	9	126746618	-	A	A	I	-	-	-	SCAI	286205	E	3	SINE	brain, hypothalamus	15342557	Kim	2004
+18	9	126747473	-	A	A	I	-	-	-	SCAI	286205	E	3	SINE	brain,brain, hypothalamus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	126747506	-	A	A	I	-	-	-	SCAI	286205	E	3	SINE	brain	15342557	Kim	2004
+18	9	126747533	-	A	A	I	-	-	-	SCAI	286205	E	3	SINE	brain,brain, hypothalamus	15342557	Kim	2004
+18	9	126747543	-	A	A	I	-	-	-	SCAI	286205	E	3	SINE	brain,brain, hypothalamus	15342557	Kim	2004
+18	9	126747572	-	A	A	I	-	-	-	SCAI	286205	E	3	SINE	brain	15342557	Kim	2004
+18	9	126747603	-	A	A	I	-	-	-	SCAI	286205	E	3	SINE	brain,brain, hypothalamus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	126747608	-	A	A	I	-	-	-	SCAI	286205	E	3	SINE	brain,brain, hypothalamus	15342557	Kim	2004
+18	9	126747616	-	A	A	I	-	-	-	SCAI	286205	E	3	SINE	brain	15342557	Kim	2004
+18	9	126747621	-	A	A	I	-	-	-	SCAI	286205	E	3	SINE	brain,brain, hypothalamus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	126747629	-	A	A	I	-	-	-	SCAI	286205	E	3	SINE	brain	15342557	Kim	2004
+18	9	126750131	-	A	A	I	-	-	-	SCAI	286205	E	3	-	brain	15342557	Kim	2004
+18	9	126845033	-	A	A	I	-	-	-	SCAI	286205	I	-	SINE	thymus	15342557	Kim	2004
+18	9	126845034	-	A	A	I	-	-	-	SCAI	286205	I	-	SINE	thymus	15342557	Kim	2004
+18	9	126845038	-	A	A	I	-	-	-	SCAI	286205	I	-	SINE	thymus	15342557	Kim	2004
+18	9	126845086	-	A	A	I	-	-	-	SCAI	286205	I	-	SINE	thymus	15342557	Kim	2004
+18	9	126845090	-	A	A	I	-	-	-	SCAI	286205	I	-	SINE	thymus	15342557	Kim	2004
+18	9	126845137	-	A	A	I	-	-	-	SCAI	286205	I	-	SINE	thymus	15342557	Kim	2004
+18	9	126845141	-	A	A	I	-	-	-	SCAI	286205	I	-	SINE	thymus	15342557	Kim	2004
+18	9	126845143	-	A	A	I	-	-	-	SCAI	286205	I	-	SINE	thymus	15342557	Kim	2004
+18	9	126845146	-	A	A	I	-	-	-	SCAI	286205	I	-	SINE	thymus	15342557	Kim	2004
+18	9	126845147	-	A	A	I	-	-	-	SCAI	286205	I	-	SINE	thymus	15342557	Kim	2004
+18	9	126845171	-	A	A	I	-	-	-	SCAI	286205	I	-	SINE	thymus	15342557	Kim	2004
+18	9	126845685	-	A	A	I	-	-	-	SCAI	286205	I	-	SINE	thymus	15342557	Kim	2004
+18	9	127023051	+	A	A	I	-	-	-	RABEPK	10244	I	-	SINE	endometrium carcinoma cell line	15258596:15342557	Levanon:Kim	2004:2004
+18	9	127023052	+	A	A	I	-	-	-	RABEPK	10244	I	-	SINE	endometrium carcinoma cell line	15258596:15342557	Levanon:Kim	2004:2004
+18	9	127023099	+	A	A	I	-	-	-	RABEPK	10244	I	-	SINE	endometrium carcinoma cell line	15258596:15342557	Levanon:Kim	2004:2004
+18	9	127023435	+	A	A	I	-	-	-	RABEPK	10244	I	-	SINE	endometrium carcinoma cell line	15258596:15342557	Levanon:Kim	2004:2004
+18	9	127023441	+	A	A	I	-	-	-	RABEPK	10244	I	-	SINE	endometrium carcinoma cell line	15258596:15342557	Levanon:Kim	2004:2004
+18	9	127023509	+	A	A	I	-	-	-	RABEPK	10244	I	-	SINE	endometrium carcinoma cell line	15258596:15342557	Levanon:Kim	2004:2004
+18	9	127023512	+	A	A	I	rs7875621	+	unknown	RABEPK	10244	I	-	SINE	endometrium carcinoma cell line	15258596:15342557	Levanon:Kim	2004:2004
+18	9	127023546	+	A	A	I	-	-	-	RABEPK	10244	I	-	SINE	endometrium carcinoma cell line	15258596:15342557	Levanon:Kim	2004:2004
+18	9	127023547	+	A	A	I	-	-	-	RABEPK	10244	I	-	SINE	endometrium carcinoma cell line	15258596:15342557	Levanon:Kim	2004:2004
+18	9	127023795	+	A	A	I	-	-	-	RABEPK	10244	I	-	SINE	endometrium carcinoma cell line	15258596:15342557	Levanon:Kim	2004:2004
+18	9	127023960	+	A	A	I	-	-	-	RABEPK	10244	I	-	SINE	endometrium carcinoma cell line	15258596:15342557	Levanon:Kim	2004:2004
+18	9	127023966	+	A	A	I	rs58386143	+	unknown	RABEPK	10244	I	-	SINE	endometrium carcinoma cell line	15258596:15342557	Levanon:Kim	2004:2004
+18	9	127024038	+	A	A	I	-	-	-	RABEPK	10244	I	-	SINE	endometrium carcinoma cell line	15258596:15342557	Levanon:Kim	2004:2004
+18	9	127024148	+	A	A	I	-	-	-	RABEPK	10244	I	-	SINE	endometrium carcinoma cell line	15258596:15342557	Levanon:Kim	2004:2004
+18	9	129164228	+	A	A	I	-	-	-	GARNL3	84253	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	129164232	+	A	A	I	-	-	-	GARNL3	84253	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	129164250	+	A	A	I	-	-	-	GARNL3	84253	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	129164296	+	A	A	I	-	-	-	GARNL3	84253	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	129164300	+	A	A	I	-	-	-	GARNL3	84253	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	129164301	+	A	A	I	-	-	-	GARNL3	84253	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	129164310	+	A	A	I	-	-	-	GARNL3	84253	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	129164368	+	A	A	I	-	-	-	GARNL3	84253	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	129164379	+	A	A	I	-	-	-	GARNL3	84253	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	129164384	+	A	A	I	-	-	-	GARNL3	84253	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	129164388	+	A	A	I	-	-	-	GARNL3	84253	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	129164452	+	A	A	I	-	-	-	GARNL3	84253	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	129165637	+	A	A	I	-	-	-	GARNL3	84253	I	-	-	cerebellum	15342557	Kim	2004
+18	9	129165749	+	A	A	I	-	-	-	GARNL3	84253	I	-	-	cerebellum	15342557	Kim	2004
+18	9	129223568	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129223611	-	A	A	I	rs10987648	-	by-2hit-2allele	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129223616	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129223621	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129223625	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129223647	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129223686	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129223694	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129223712	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129223746	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129223756	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129223759	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129223765	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129223791	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129223952	-	A	A	I	-	-	-	-	-	O	-	DNA	uterus	15342557	Kim	2004
+18	9	129224128	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129224131	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129224132	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129224170	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129224183	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129224199	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129224234	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129224235	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129224245	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129224310	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129224316	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129224324	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129224367	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129224368	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129529379	+	A	A	I	rs472144	-	by-cluster,by-frequency,by-submitter,by-2hit-2allele,by-hapmap,by-1000genomes	TTC16	158248	E	C	-	spleen	15342557	Kim	2004
+18	9	129529913	+	A	A	I	-	-	-	TTC16	158248	I	-	SINE	spleen	15258596:15342557	Levanon:Kim	2004:2004
+18	9	129529960	+	A	A	I	-	-	-	TTC16	158248	I	-	SINE	spleen	15258596:15342557	Levanon:Kim	2004:2004
+18	9	129529977	+	A	A	I	-	-	-	TTC16	158248	I	-	SINE	spleen	15342557	Kim	2004
+18	9	129529999	+	A	A	I	-	-	-	TTC16	158248	I	-	SINE	spleen	15342557	Kim	2004
+18	9	129530639	+	A	A	I	-	-	-	TTC16	158248	I	-	SINE	spleen	15258596:15342557	Levanon:Kim	2004:2004
+18	9	129530662	+	A	A	I	-	-	-	TTC16	158248	I	-	SINE	spleen	15258596:15342557	Levanon:Kim	2004:2004
+18	9	129530772	+	A	A	I	-	-	-	TTC16	158248	I	-	SINE	spleen	15258596:15342557	Levanon:Kim	2004:2004
+18	9	129530774	+	A	A	I	-	-	-	TTC16	158248	I	-	SINE	spleen	15258596:15342557	Levanon:Kim	2004:2004
+18	9	129531819	+	A	A	I	rs557630	-	by-cluster,by-frequency,by-2hit-2allele,by-hapmap,by-1000genomes	TTC16	158248	I	-	-	spleen	15342557	Kim	2004
+18	9	129533334	+	A	A	I	rs482095	-	by-cluster,by-frequency,by-2hit-2allele,by-hapmap,by-1000genomes	TTC16	158248	E	C	-	spleen	15342557	Kim	2004
+18	9	129574512	-	A	A	I	-	-	-	SH2D3C	10044	I	-	SINE	-	15258596	Levanon	2004
+18	9	129575010	-	A	A	I	-	-	-	SH2D3C	10044	I	-	SINE	-	15258596	Levanon	2004
+18	9	129575861	-	A	A	I	-	-	-	SH2D3C	10044	I	-	SINE	-	15258596	Levanon	2004
+18	9	129575870	-	A	A	I	-	-	-	SH2D3C	10044	I	-	SINE	-	15258596	Levanon	2004
+18	9	129618225	+	A	A	I	rs10760503	-	by-cluster,by-frequency,by-2hit-2allele,by-hapmap,by-1000genomes	-	-	O	-	-	uterus	15342557	Kim	2004
+18	9	129623303	+	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129623350	+	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129623371	+	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129623400	+	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129623486	+	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129623544	+	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129623547	+	A	A	I	-	-	-	-	-	O	-	-	uterus	15342557	Kim	2004
+18	9	129624491	+	A	A	I	-	-	-	-	-	O	-	LINE	uterus	15342557	Kim	2004
+18	9	129705183	-	A	A	I	-	-	-	-	-	O	-	SINE	thymus	15342557	Kim	2004
+18	9	129705194	-	A	A	I	-	-	-	-	-	O	-	SINE	thymus	15342557	Kim	2004
+18	9	129705195	-	A	A	I	-	-	-	-	-	O	-	SINE	thymus	15342557	Kim	2004
+18	9	129705206	-	A	A	I	-	-	-	-	-	O	-	SINE	thymus	15342557	Kim	2004
+18	9	129705226	-	A	A	I	-	-	-	-	-	O	-	SINE	thymus	15342557	Kim	2004
+18	9	129705230	-	A	A	I	-	-	-	-	-	O	-	SINE	thymus	15342557	Kim	2004
+18	9	129705236	-	A	A	I	-	-	-	-	-	O	-	SINE	thymus	15342557	Kim	2004
+18	9	129705242	-	A	A	I	-	-	-	-	-	O	-	SINE	thymus	15342557	Kim	2004
+18	9	129705246	-	A	A	I	-	-	-	-	-	O	-	SINE	thymus	15342557	Kim	2004
+18	9	129705262	-	A	A	I	-	-	-	-	-	O	-	SINE	thymus	15342557	Kim	2004
+18	9	129705298	-	A	A	I	-	-	-	-	-	O	-	SINE	thymus	15342557	Kim	2004
+18	9	129705356	-	A	A	I	-	-	-	-	-	O	-	SINE	thymus	15342557	Kim	2004
+18	9	129753357	+	A	A	I	-	-	-	-	-	O	-	-	cerebellum	15342557	Kim	2004
+18	9	129753661	+	A	A	I	-	-	-	-	-	O	-	SINE	cerebellum	15342557	Kim	2004
+18	9	129753666	+	A	A	I	-	-	-	-	-	O	-	SINE	cerebellum	15342557	Kim	2004
+18	9	129753752	+	A	A	I	-	-	-	-	-	O	-	SINE	cerebellum	15342557	Kim	2004
+18	9	129753754	+	A	A	I	-	-	-	-	-	O	-	SINE	cerebellum	15342557	Kim	2004
+18	9	129753770	+	A	A	I	-	-	-	-	-	O	-	SINE	cerebellum	15342557	Kim	2004
+18	9	129753779	+	A	A	I	-	-	-	-	-	O	-	SINE	cerebellum	15342557	Kim	2004
+18	9	129753796	+	A	A	I	-	-	-	-	-	O	-	SINE	cerebellum	15342557	Kim	2004
+18	9	129753810	+	A	A	I	-	-	-	-	-	O	-	SINE	cerebellum	15342557	Kim	2004
+18	9	129753819	+	A	A	I	-	-	-	-	-	O	-	SINE	cerebellum	15342557	Kim	2004
+18	9	129879458	+	A	A	I	-	-	-	SLC25A25	114789	I	-	SINE	spleen	15342557	Kim	2004
+18	9	129879523	+	A	A	I	-	-	-	SLC25A25	114789	I	-	SINE	spleen	15342557	Kim	2004
+18	9	129880036	+	A	A	I	-	-	-	SLC25A25	114789	I	-	SINE	spleen	15342557	Kim	2004
+18	9	129880046	+	A	A	I	-	-	-	SLC25A25	114789	I	-	SINE	spleen	15342557	Kim	2004
+18	9	129880047	+	A	A	I	-	-	-	SLC25A25	114789	I	-	SINE	spleen	15342557	Kim	2004
+18	9	129881530	+	A	A	I	-	-	-	SLC25A25	114789	I	-	Simple_repeat	spleen	15342557	Kim	2004
+18	9	129881630	+	A	A	I	-	-	-	SLC25A25	114789	I	-	SINE	spleen	15342557	Kim	2004
+18	9	129881649	+	A	A	I	-	-	-	SLC25A25	114789	I	-	SINE	spleen	15342557	Kim	2004
+18	9	129881673	+	A	A	I	-	-	-	SLC25A25	114789	I	-	SINE	spleen	15342557	Kim	2004
+18	9	129881679	+	A	A	I	-	-	-	SLC25A25	114789	I	-	SINE	spleen	15342557	Kim	2004
+18	9	129881682	+	A	A	I	-	-	-	SLC25A25	114789	I	-	SINE	spleen	15342557	Kim	2004
+18	9	129913966	-	A	A	I	-	-	-	LOC100289019	100289019	E	3	SINE	testis	15342557	Kim	2004
+18	9	129914018	-	A	A	I	-	-	-	LOC100289019	100289019	E	3	SINE	testis	15342557	Kim	2004
+18	9	129914149	-	A	A	I	-	-	-	LOC100289019	100289019	E	3	SINE	testis	15342557	Kim	2004
+18	9	129914171	-	A	A	I	-	-	-	LOC100289019	100289019	E	3	SINE	testis	15342557	Kim	2004
+18	9	129914174	-	A	A	I	-	-	-	LOC100289019	100289019	E	3	SINE	testis	15342557	Kim	2004
+18	9	129914180	-	A	A	I	-	-	-	LOC100289019	100289019	E	3	SINE	testis	15342557	Kim	2004
+18	9	129914198	-	A	A	I	-	-	-	LOC100289019	100289019	E	3	SINE	testis	15342557	Kim	2004
+18	9	129914216	-	A	A	I	-	-	-	LOC100289019	100289019	E	3	SINE	testis	15342557	Kim	2004
+18	9	129914258	-	A	A	I	-	-	-	LOC100289019	100289019	E	3	SINE	testis	15342557	Kim	2004
+18	9	129914262	-	A	A	I	-	-	-	LOC100289019	100289019	E	3	SINE	testis	15342557	Kim	2004
+18	9	129914414	-	A	A	I	-	-	-	LOC100289019	100289019	E	3	SINE	testis	15342557	Kim	2004
+18	9	129914424	-	A	A	I	-	-	-	LOC100289019	100289019	E	3	SINE	testis	15342557	Kim	2004
+18	9	129914427	-	A	A	I	-	-	-	LOC100289019	100289019	E	3	SINE	testis	15342557	Kim	2004
+18	9	129914441	-	A	A	I	-	-	-	LOC100289019	100289019	E	3	SINE	testis	15342557	Kim	2004
+18	9	129914483	-	A	A	I	-	-	-	LOC100289019	100289019	E	3	SINE	testis	15342557	Kim	2004
+18	9	129914484	-	A	A	I	-	-	-	LOC100289019	100289019	E	3	SINE	testis	15342557	Kim	2004
+18	9	129914489	-	A	A	I	-	-	-	LOC100289019	100289019	E	3	SINE	testis	15342557	Kim	2004
+18	9	129914545	-	A	A	I	-	-	-	LOC100289019	100289019	E	3	SINE	testis	15342557	Kim	2004
+18	9	129914627	-	A	A	I	-	-	-	LOC100289019	100289019	E	3	SINE	testis	15342557	Kim	2004
+18	9	129914690	-	A	A	I	-	-	-	LOC100289019	100289019	E	3	SINE	testis	15342557	Kim	2004
+18	9	129914692	-	A	A	I	-	-	-	LOC100289019	100289019	E	3	SINE	testis	15342557	Kim	2004
+18	9	129914727	-	A	A	I	-	-	-	LOC100289019	100289019	E	3	SINE	testis	15342557	Kim	2004
+18	9	129967703	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129967706	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129967764	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129967773	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129967774	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129967807	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129967833	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129967847	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129967881	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	129968337	-	A	A	I	-	-	-	CIZ1	25792	E	C	-	uterus	15342557	Kim	2004
+18	9	129970564	-	A	A	I	-	-	-	CIZ1	25792	I	-	SINE	uterus	15342557	Kim	2004
+18	9	129970580	-	A	A	I	-	-	-	CIZ1	25792	I	-	SINE	uterus	15342557	Kim	2004
+18	9	129970585	-	A	A	I	-	-	-	CIZ1	25792	I	-	SINE	uterus	15342557	Kim	2004
+18	9	129970614	-	A	A	I	-	-	-	CIZ1	25792	I	-	SINE	uterus	15342557	Kim	2004
+18	9	130030049	+	A	A	I	-	-	-	DNM1	1759	I	-	SINE	-	15258596	Levanon	2004
+18	9	130030074	+	A	A	I	-	-	-	DNM1	1759	I	-	SINE	-	15258596	Levanon	2004
+18	9	130030078	+	A	A	I	-	-	-	DNM1	1759	I	-	SINE	-	15258596	Levanon	2004
+18	9	130030090	+	A	A	I	-	-	-	DNM1	1759	I	-	SINE	-	15258596	Levanon	2004
+18	9	130030164	+	A	A	I	-	-	-	DNM1	1759	I	-	SINE	-	15258596	Levanon	2004
+18	9	130030166	+	A	A	I	-	-	-	DNM1	1759	I	-	SINE	-	15258596	Levanon	2004
+18	9	130030222	+	A	A	I	-	-	-	DNM1	1759	I	-	SINE	-	15258596	Levanon	2004
+18	9	130030228	+	A	A	I	-	-	-	DNM1	1759	I	-	SINE	-	15258596	Levanon	2004
+18	9	130030241	+	A	A	I	-	-	-	DNM1	1759	I	-	SINE	-	15258596	Levanon	2004
+18	9	130030242	+	A	A	I	-	-	-	DNM1	1759	I	-	SINE	-	15258596	Levanon	2004
+18	9	130030565	+	A	A	I	-	-	-	DNM1	1759	I	-	-	-	15258596	Levanon	2004
+18	9	130030835	+	A	A	I	-	-	-	DNM1	1759	I	-	SINE	-	15258596	Levanon	2004
+18	9	130030876	+	A	A	I	-	-	-	DNM1	1759	I	-	SINE	-	15258596	Levanon	2004
+18	9	130030907	+	A	A	I	-	-	-	DNM1	1759	I	-	SINE	-	15258596	Levanon	2004
+18	9	130030921	+	A	A	I	-	-	-	DNM1	1759	I	-	SINE	-	15258596	Levanon	2004
+18	9	130030932	+	A	A	I	-	-	-	DNM1	1759	I	-	SINE	-	15258596	Levanon	2004
+18	9	130031259	+	A	A	I	-	-	-	DNM1	1759	I	-	SINE	-	15258596	Levanon	2004
+18	9	130031282	+	A	A	I	-	-	-	DNM1	1759	I	-	SINE	-	15258596	Levanon	2004
+18	9	130031285	+	A	A	I	-	-	-	DNM1	1759	I	-	SINE	-	15258596	Levanon	2004
+18	9	130031290	+	A	A	I	-	-	-	DNM1	1759	I	-	SINE	-	15258596	Levanon	2004
+18	9	130031296	+	A	A	I	-	-	-	DNM1	1759	I	-	SINE	-	15258596	Levanon	2004
+18	9	130031306	+	A	A	I	-	-	-	DNM1	1759	I	-	SINE	-	15258596	Levanon	2004
+18	9	130031310	+	A	A	I	-	-	-	DNM1	1759	I	-	SINE	-	15258596	Levanon	2004
+18	9	130031352	+	A	A	I	-	-	-	DNM1	1759	I	-	SINE	-	15258596	Levanon	2004
+18	9	130031364	+	A	A	I	rs9409305	-	by-2hit-2allele,by-1000genomes	DNM1	1759	I	-	SINE	-	15258596	Levanon	2004
+18	9	130031374	+	A	A	I	rs1134203	+	unknown	DNM1	1759	I	-	SINE	-	15258596	Levanon	2004
+18	9	130031401	+	A	A	I	-	-	-	DNM1	1759	I	-	SINE	-	15258596	Levanon	2004
+18	9	130031458	+	A	A	I	-	-	-	DNM1	1759	I	-	SINE	-	15258596	Levanon	2004
+18	9	130031474	+	A	A	I	-	-	-	DNM1	1759	I	-	SINE	-	15258596	Levanon	2004
+18	9	130031515	+	A	A	I	-	-	-	DNM1	1759	I	-	SINE	-	15258596	Levanon	2004
+18	9	130107502	-	A	A	I	rs11557596	+	unknown	-	-	O	-	SINE	-	15342557	Kim	2004
+18	9	130107540	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15342557	Kim	2004
+18	9	130107542	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15342557	Kim	2004
+18	9	130107547	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15342557	Kim	2004
+18	9	130107552	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15342557	Kim	2004
+18	9	130107572	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15342557	Kim	2004
+18	9	130107716	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15342557	Kim	2004
+18	9	130107729	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15342557	Kim	2004
+18	9	130107735	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15342557	Kim	2004
+18	9	130107744	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15342557	Kim	2004
+18	9	130107761	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15342557	Kim	2004
+18	9	130107770	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15342557	Kim	2004
+18	9	130107832	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15342557	Kim	2004
+18	9	130107882	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15342557	Kim	2004
+18	9	130108678	-	A	A	I	-	-	-	-	-	O	-	SINE	kidney	15342557	Kim	2004
+18	9	130108717	-	A	A	I	-	-	-	-	-	O	-	SINE	kidney	15342557	Kim	2004
+18	9	130108718	-	A	A	I	-	-	-	-	-	O	-	SINE	kidney	15342557	Kim	2004
+18	9	130108741	-	A	A	I	-	-	-	-	-	O	-	SINE	kidney	15342557	Kim	2004
+18	9	130108742	-	A	A	I	-	-	-	-	-	O	-	SINE	kidney	15342557	Kim	2004
+18	9	130108757	-	A	A	I	-	-	-	-	-	O	-	SINE	kidney	15342557	Kim	2004
+18	9	130108817	-	A	A	I	-	-	-	-	-	O	-	SINE	kidney	15342557	Kim	2004
+18	9	130108871	-	A	A	I	-	-	-	-	-	O	-	SINE	kidney	15342557	Kim	2004
+18	9	130108944	-	A	A	I	-	-	-	-	-	O	-	SINE	kidney	15342557	Kim	2004
+18	9	130110158	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	130110164	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	130110173	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	130110254	-	A	A	I	-	-	-	-	-	O	-	SINE	kidney	15342557	Kim	2004
+18	9	130110267	-	A	A	I	-	-	-	-	-	O	-	SINE	kidney	15342557	Kim	2004
+18	9	130110278	-	A	A	I	-	-	-	-	-	O	-	SINE	kidney	15342557	Kim	2004
+18	9	130110308	-	A	A	I	-	-	-	-	-	O	-	SINE	kidney	15342557	Kim	2004
+18	9	130110377	-	A	A	I	-	-	-	-	-	O	-	SINE	kidney	15342557	Kim	2004
+18	9	130110386	-	A	A	I	-	-	-	-	-	O	-	SINE	kidney	15342557	Kim	2004
+18	9	130110389	-	A	A	I	-	-	-	-	-	O	-	SINE	kidney	15342557	Kim	2004
+18	9	130110391	-	A	A	I	-	-	-	-	-	O	-	SINE	kidney	15342557	Kim	2004
+18	9	130110429	-	A	A	I	-	-	-	-	-	O	-	SINE	kidney	15342557	Kim	2004
+18	9	130110444	-	A	A	I	-	-	-	-	-	O	-	SINE	kidney	15342557	Kim	2004
+18	9	130110466	-	A	A	I	-	-	-	-	-	O	-	SINE	kidney	15342557	Kim	2004
+18	9	130110490	-	A	A	I	-	-	-	-	-	O	-	SINE	kidney	15342557	Kim	2004
+18	9	130128591	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	130128598	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	130128636	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	130128672	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	130128684	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	130128708	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	130128782	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	130128804	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	130129508	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	130129513	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	130129531	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	130129680	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	130129690	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	130129704	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	130129714	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	130129739	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	130129742	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	130129750	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	130129753	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	130129757	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	130129758	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	130129771	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	130129773	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	130129777	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	130129779	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	130129865	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	130131587	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	130131609	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	trachea	15342557	Kim	2004
+18	9	130131611	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	cerebellum,trachea	15342557	Kim	2004
+18	9	130131672	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	130131690	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	130131692	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	130132221	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	cerebellum,trachea	15342557	Kim	2004
+18	9	130132238	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	130132255	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	130132273	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	cerebellum	15342557	Kim	2004
+18	9	130132326	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	trachea	15342557	Kim	2004
+18	9	130132352	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	trachea	15342557	Kim	2004
+18	9	130132362	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	trachea	15342557	Kim	2004
+18	9	130132366	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	trachea	15342557	Kim	2004
+18	9	130132370	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	trachea	15342557	Kim	2004
+18	9	130132393	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	trachea	15342557	Kim	2004
+18	9	130132417	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	trachea	15342557	Kim	2004
+18	9	130132444	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	trachea	15342557	Kim	2004
+18	9	130132613	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	hippocampus	15342557	Kim	2004
+18	9	130132617	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	brain, hippocampus,hippocampus,trachea	15342557	Kim	2004
+18	9	130132650	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	trachea	15342557	Kim	2004
+18	9	130132658	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	hippocampus,trachea	15342557	Kim	2004
+18	9	130132663	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	brain, hippocampus,hippocampus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	130132668	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	brain, hippocampus,hippocampus,trachea	15258596:15342557	Levanon:Kim	2004:2004
+18	9	130132693	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	brain, hippocampus,hippocampus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	130132694	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	hippocampus	15342557	Kim	2004
+18	9	130132698	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	hippocampus	15342557	Kim	2004
+18	9	130132719	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	brain, hippocampus,hippocampus,trachea	15342557	Kim	2004
+18	9	130132720	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	hippocampus	15342557	Kim	2004
+18	9	130132733	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	brain, hippocampus,hippocampus,trachea	15342557	Kim	2004
+18	9	130132772	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	trachea	15342557	Kim	2004
+18	9	130133067	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	brain, hippocampus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	130133144	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	brain, hippocampus,hippocampus,trachea	15258596:15342557	Levanon:Kim	2004:2004
+18	9	130133173	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	brain, hippocampus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	130133198	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	brain, hippocampus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	130133205	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	brain, hippocampus,hippocampus,trachea	15258596:15342557	Levanon:Kim	2004:2004
+18	9	130133714	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	-	15258596	Levanon	2004
+18	9	130133730	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	brain, hippocampus,hippocampus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	130133732	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	brain, hippocampus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	130133784	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	hippocampus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	130133786	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	brain, hippocampus,hippocampus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	130133790	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	brain, hippocampus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	130133792	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	brain, hippocampus,hippocampus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	130133794	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	-	15258596	Levanon	2004
+18	9	130133800	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	brain, hippocampus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	130133927	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	-	15258596	Levanon	2004
+18	9	130133967	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	hippocampus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	130134018	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	-	15258596	Levanon	2004
+18	9	130134031	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	hippocampus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	130134063	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	brain, hippocampus,hippocampus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	130134068	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	hippocampus	15258596:15342557	Levanon:Kim	2004:2004
+18	9	130134089	+	A	A	I	-	-	-	COQ4	51117	I	-	SINE	-	15258596	Levanon	2004
+18	9	130286874	+	A	A	I	-	-	-	ODF2	4956	E	C	-	small intestine	19478186	Li JB	2008
+18	9	130433820	+	A	A	I	-	-	-	SPTAN1	6709	I	-	SINE	-	15258596	Levanon	2004
+18	9	130433836	+	A	A	I	-	-	-	SPTAN1	6709	I	-	SINE	-	15258596	Levanon	2004
+18	9	130433842	+	A	A	I	-	-	-	SPTAN1	6709	I	-	SINE	-	15258596	Levanon	2004
+18	9	130433895	+	A	A	I	-	-	-	SPTAN1	6709	I	-	SINE	-	15258596	Levanon	2004
+18	9	130702539	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	130702574	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	130702591	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	130702605	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	130702606	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	130702629	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	130702646	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	130702692	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	130702696	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	130703107	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	130703110	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	130703151	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	130703161	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	130703215	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	130703383	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	130703501	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	130703544	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	130705231	-	A	A	I	rs4588963	-	by-cluster,by-1000genomes	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	130705240	-	A	A	I	-	-	-	-	-	O	-	SINE	uterus	15342557	Kim	2004
+18	9	130708520	-	A	A	I	-	-	-	-	-	O	-	SINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	130708560	-	A	A	I	-	-	-	-	-	O	-	SINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	130708601	-	A	A	I	-	-	-	-	-	O	-	SINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	130708616	-	A	A	I	-	-	-	-	-	O	-	SINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	130708617	-	A	A	I	-	-	-	-	-	O	-	SINE	tongue, tumor tissue	15342557	Kim	2004
+18	9	130710348	-	A	A	I	-	-	-	-	-	O	-	-	tongue, tumor tissue	15342557	Kim	2004
+18	9	130710740	-	A	A	I	rs3750319	-	by-cluster,by-frequency,by-2hit-2allele,by-hapmap,by-1000genomes	-	-	O	-	-	tongue, tumor tissue	15342557	Kim	2004
+18	9	131304507	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	131304568	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	131304574	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	131304604	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	131308677	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	131308736	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	131308778	+	A	A	I	rs3207263	+	unknown	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	131308803	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	131308818	+	A	A	I	rs3207264	+	unknown	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	131308819	+	A	A	I	rs3207265	+	unknown	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	131308858	+	A	A	I	rs16931213	+	unknown	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	131308870	+	A	A	I	rs3207266	+	unknown	-	-	O	-	SINE	-	15258596:16100382	Levanon:Eisenberg	2004:2005
+18	9	131309498	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	131309525	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	131309545	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	131309552	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	131309553	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	131309568	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	131309578	+	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596	Levanon	2004
+18	9	131693117	-	A	A	I	-	-	-	FNBP1	23048	I	-	SINE	-	15258596	Levanon	2004
+18	9	131693254	-	A	A	I	rs7868370	-	by-1000genomes	FNBP1	23048	I	-	SINE	-	15258596	Levanon	2004
+18	9	131695536	-	A	A	I	rs10739763	-	by-cluster,by-1000genomes	FNBP1	23048	I	-	SINE	-	15258596	Levanon	2004
+18	9	131712522	-	A	A	I	-	-	-	FNBP1	23048	I	-	SINE	-	15258596	Levanon	2004
+18	9	131712538	-	A	A	I	-	-	-	FNBP1	23048	I	-	SINE	-	15258596	Levanon	2004
+18	9	131712546	-	A	A	I	-	-	-	FNBP1	23048	I	-	SINE	-	15258596	Levanon	2004
+18	9	133439780	-	A	A	I	-	-	-	-	-	O	-	SINE	placenta, choriocarcinoma	15342557	Kim	2004
+18	9	133439804	-	A	A	I	-	-	-	-	-	O	-	SINE	placenta, choriocarcinoma	15342557	Kim	2004
+18	9	133439820	-	A	A	I	-	-	-	-	-	O	-	SINE	placenta, choriocarcinoma	15342557	Kim	2004
+18	9	133439859	-	A	A	I	-	-	-	-	-	O	-	SINE	placenta, choriocarcinoma	15342557	Kim	2004
+18	9	133439902	-	A	A	I	-	-	-	-	-	O	-	SINE	placenta, choriocarcinoma	15342557	Kim	2004
+18	9	133441014	-	A	A	I	rs943852	-	by-cluster,by-frequency,by-submitter,by-2hit-2allele,by-hapmap,by-1000genomes	-	-	O	-	-	placenta, choriocarcinoma	15342557	Kim	2004
+18	9	133716266	-	A	A	I	-	-	-	-	-	O	-	SINE	kidney	15342557	Kim	2004
+18	9	133716280	-	A	A	I	-	-	-	-	-	O	-	SINE	kidney	15342557	Kim	2004
+18	9	133716290	-	A	A	I	-	-	-	-	-	O	-	SINE	kidney	15342557	Kim	2004
+18	9	133716327	-	A	A	I	-	-	-	-	-	O	-	SINE	kidney	15342557	Kim	2004
+18	9	133717505	-	A	A	I	-	-	-	-	-	O	-	-	kidney	15342557	Kim	2004
+18	9	133717846	-	A	A	I	-	-	-	-	-	O	-	SINE	kidney	15342557	Kim	2004
+18	9	133717926	-	A	A	I	-	-	-	-	-	O	-	SINE	kidney	15342557	Kim	2004
+18	9	133717934	-	A	A	I	-	-	-	-	-	O	-	SINE	kidney	15342557	Kim	2004
+18	9	133717985	-	A	A	I	-	-	-	-	-	O	-	SINE	kidney	15342557	Kim	2004
+18	9	133718045	-	A	A	I	-	-	-	-	-	O	-	SINE	kidney	15342557	Kim	2004
+18	9	133718069	-	A	A	I	-	-	-	-	-	O	-	SINE	kidney	15342557	Kim	2004
+18	9	133718093	-	A	A	I	-	-	-	-	-	O	-	SINE	kidney	15342557	Kim	2004
+18	9	134130628	-	A	A	I	-	-	-	SETX	23064	I	-	SINE	brain	15545495	Blow	2004
+18	9	134130629	-	A	A	I	-	-	-	SETX	23064	I	-	SINE	brain	15545495	Blow	2004
+18	9	134130633	-	A	A	I	-	-	-	SETX	23064	I	-	SINE	brain	15545495	Blow	2004
+18	9	135025387	-	A	A	I	-	-	-	GBGT1	26301	I	-	SINE	-	15258596	Levanon	2004
+18	9	135025394	-	A	A	I	-	-	-	GBGT1	26301	I	-	SINE	-	15258596	Levanon	2004
+18	9	135025424	-	A	A	I	-	-	-	GBGT1	26301	I	-	SINE	-	15258596	Levanon	2004
+18	9	135025435	-	A	A	I	-	-	-	GBGT1	26301	I	-	SINE	-	15258596	Levanon	2004
+18	9	135025451	-	A	A	I	-	-	-	GBGT1	26301	I	-	SINE	-	15258596	Levanon	2004
+18	9	135136781	-	A	A	I	-	-	-	ABO	28	I	-	SINE	-	15258596	Levanon	2004
+18	9	135136782	-	A	A	I	-	-	-	ABO	28	I	-	SINE	-	15258596	Levanon	2004
+18	9	135136796	-	A	A	I	-	-	-	ABO	28	I	-	SINE	-	15258596	Levanon	2004
+18	9	135219393	-	A	A	I	-	-	-	SURF4	6836	E	3	-	cerebellum	19478186	Li JB	2008
+18	9	137500905	-	A	A	I	-	-	-	-	-	O	-	LTR	-	15342557	Kim	2004
+18	9	137501492	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15342557	Kim	2004
+18	9	137501527	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15342557	Kim	2004
+18	9	137503086	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	137503116	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	137503167	-	A	A	I	-	-	-	-	-	O	-	SINE	-	15258596:15342557	Levanon:Kim	2004:2004
+18	9	137943333	+	A	A	I	-	-	-	-	-	O	-	-	prostate	15342557	Kim	2004
+18	9	137943990	+	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15342557	Kim	2004
+18	9	137944017	+	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15342557	Kim	2004
+18	9	137944030	+	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15342557	Kim	2004
+18	9	137944058	+	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15342557	Kim	2004
+18	9	137944086	+	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15342557	Kim	2004
+18	9	137944087	+	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15342557	Kim	2004
+18	9	137944107	+	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15342557	Kim	2004
+18	9	137944192	+	A	A	I	-	-	-	-	-	O	-	SINE	prostate	15342557	Kim	2004
+18	9	138455376	-	A	A	I	-	-	-	SEC16A	9919	E	3	-	cerebellum	19478186	Li JB	2008
+18	9	138455418	-	A	A	I	-	-	-	SEC16A	9919	E	3	-	cerebellum	19478186	Li JB	2008
+18	9	138455703	-	A	A	I	rs1802979	-	by-hapmap	SEC16A	9919	E	3	-	cerebellum	19478186	Li JB	2008
+18	9	138776491	-	A	A	I	rs2297722	-	by-cluster,by-hapmap,by-1000genomes	LCN15	389812	E	C	-	brain, hippocampus	15342557	Kim	2004
+18	9	138779377	-	A	A	I	rs10781515	-	by-2hit-2allele,by-1000genomes	-	-	O	-	-	brain, hippocampus	15342557	Kim	2004
+18	9	138779897	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hippocampus	15342557	Kim	2004
+18	9	138779949	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hippocampus	15342557	Kim	2004
+18	9	138779962	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hippocampus	15342557	Kim	2004
+18	9	138779970	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hippocampus	15342557	Kim	2004
+18	9	138779975	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hippocampus	15342557	Kim	2004
+18	9	138780002	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hippocampus	15342557	Kim	2004
+18	9	138780007	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hippocampus	15342557	Kim	2004
+18	9	138780016	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hippocampus	15342557	Kim	2004
+18	9	138780056	-	A	A	I	-	-	-	-	-	O	-	SINE	brain, hippocampus	15342557	Kim	2004
+18	9	138780223	-	A	A	I	rs4880142	-	by-cluster,by-frequency,by-2hit-2allele,by-hapmap,by-1000genomes	-	-	O	-	LTR	brain, hippocampus	15342557	Kim	2004
+18	9	139099707	-	A	A	I	-	-	-	LOC100289341	100289341	E	3	SINE	cervix, carcinoma	15342557	Kim	2004
+18	9	139099743	-	A	A	I	-	-	-	LOC100289341	100289341	E	3	SINE	cervix, carcinoma	15342557	Kim	2004
+18	9	139099744	-	A	A	I	-	-	-	LOC100289341	100289341	E	3	SINE	cervix, carcinoma	15342557	Kim	2004
+18	9	139099891	-	A	A	I	-	-	-	LOC100289341	100289341	E	3	SINE	cervix, carcinoma	15342557	Kim	2004
+18	9	139099963	-	A	A	I	-	-	-	LOC100289341	100289341	E	3	LTR	cervix, carcinoma	15342557	Kim	2004
+18	9	139571381	-	A	A	I	-	-	-	WDR85	92715	I	-	SINE	retina	15342557	Kim	2004
+18	9	139571432	-	A	A	I	rs2488595	-	by-cluster,by-2hit-2allele,by-1000genomes	WDR85	92715	I	-	SINE	retina	15342557	Kim	2004
+18	9	139571522	-	A	A	I	-	-	-	WDR85	92715	I	-	SINE	retina	15342557	Kim	2004
+18	9	139571524	-	A	A	I	-	-	-	WDR85	92715	I	-	SINE	retina	15342557	Kim	2004
+18	9	139571613	-	A	A	I	-	-	-	WDR85	92715	I	-	SINE	retina	15342557	Kim	2004
+18	9	139572040	-	A	A	I	-	-	-	WDR85	92715	I	-	SINE	retina	15342557	Kim	2004
+18	9	139572086	-	A	A	I	-	-	-	WDR85	92715	I	-	SINE	retina	15342557	Kim	2004
+18	9	139573070	-	A	A	I	-	-	-	WDR85	92715	I	-	SINE	retina	15342557	Kim	2004
+18	9	139573075	-	A	A	I	-	-	-	WDR85	92715	I	-	SINE	retina	15342557	Kim	2004
+18	9	139573300	-	A	A	I	rs1776773	-	by-cluster,by-2hit-2allele	WDR85	92715	I	-	LTR	retina	15342557	Kim	2004
+18	9	139573531	-	A	A	I	-	-	-	WDR85	92715	I	-	LTR	retina	15342557	Kim	2004
+18	9	139624061	+	A	A	I	-	-	-	ARRDC1	92714	I	-	SINE	-	15258596	Levanon	2004
+18	9	139624216	+	A	A	I	-	-	-	ARRDC1	92714	I	-	SINE	-	15258596	Levanon	2004
+18	9	139624262	+	A	A	I	-	-	-	ARRDC1	92714	I	-	SINE	-	15258596	Levanon	2004
+18	9	139624286	+	A	A	I	-	-	-	ARRDC1	92714	I	-	SINE	-	15258596	Levanon	2004
+18	9	139624738	+	A	A	I	-	-	-	ARRDC1	92714	I	-	SINE	-	15258596	Levanon	2004
+18	9	139743645	+	A	A	I	-	-	-	EHMT1	79813	I	-	SINE	-	15258596	Levanon	2004
+18	9	139743868	+	A	A	I	-	-	-	EHMT1	79813	I	-	SINE	-	15258596	Levanon	2004
+18	9	139743870	+	A	A	I	-	-	-	EHMT1	79813	I	-	SINE	-	15258596	Levanon	2004

@@ -1,0 +1,3 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+6	150046340	-	A	I	NUP43	E	3	LYMPHOBLASTOID CELL LINE	22327324
+6	150046340	-	A	G	NUP43	E	3	LYMPHOBLASTOID CELL	22484847

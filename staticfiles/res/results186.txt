@@ -1,0 +1,3 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+19	59076412	-	A	I	MZF1	I		LYMPHOBLASTOID CELL LINE	22327324
+19	59076412	-	A	G	MZF1	I		LYMPHOBLASTOID CELL	22484847

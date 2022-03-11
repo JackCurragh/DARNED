@@ -1,0 +1,3 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+1	1252468	-	A	I	CPSF3L	I		BRAIN, HIPPOCAMPUS	15342557
+1	1252468	-	A	G	CPSF3L	I		LYMPHOBLASTOID CELL	22484847

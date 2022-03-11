@@ -1,0 +1,2 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+7	128142936	+	A	G	METTL2B	I		LYMPHOBLASTOID CELL	22484847

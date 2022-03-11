@@ -1,0 +1,3 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+10	27862758	+	A	I	RAB18	E	C	LYMPHOBLASTOID CELL LINE	22327324
+10	27862758	+	A	G	RAB18	E	C	LYMPHOBLASTOID CELL	22484847

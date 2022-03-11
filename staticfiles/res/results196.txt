@@ -1,0 +1,3 @@
+chrom	coordinate	strand	inchr	inrna	gene	seqReg	exReg	source	PubMed ID
+19	53149690	-	A	I	ZNF83	I		BREAST CANCER	21960545
+19	53149690	-	A	G	ZNF83	I		LYMPHOBLASTOID CELL	22484847
